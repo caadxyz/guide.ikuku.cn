@@ -12,8 +12,7 @@
   * [用户输入](weixin-1.md)
   * [微栏目](weixin-2.md)
   * [微服务](weixin-3.md)
+* [ikuku会员服务](member.md)  
 * [如何玩转ikuku微信订阅号](weixinsubscribe.md)
-* [ikuku会员服务](member.md)
-
 * [Q&A](qa.md)
 
