@@ -1,4 +1,4 @@
-注：投稿之前，请点击 http://form.mikecrm.com/f.php?t=QFovlH 填写您的投稿内容的简介，便于小编分类管理，谢谢配合。
+注：投稿之前，请点击 http://form.mikecrm.com/f.php?t=hO1Qh9 填写您的投稿内容的简介，便于小编分类管理，谢谢配合。
 
 
 建议：给ikuku订阅号投稿的同时，在 www.ikuku.cn 注册、上传并投递，有机会使作品在 www.ikuku.cn 首页及专栏页面展示。
