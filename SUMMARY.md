@@ -9,6 +9,9 @@
   * [如何做到图文穿插的效果?](101-5.md)
   * [投递之后还能修改吗?](101-6.md)
 * [微信服务号手册](weixin.md)
+  * [用户输入](weixin-1.md)
+  * [微栏目](weixin-2.md)
+  * [微服务](weixin-3.md)
 * [微信订阅号手册](weixinsubscribe.md)
 * [ikuku会员服务](member.md)
 
