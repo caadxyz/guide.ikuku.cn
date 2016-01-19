@@ -7,32 +7,32 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 **问：会员有哪些服务？**
 **答：**
 ![ikuku会员介绍](images/ikukumember.jpg)
-1.设计师买手店每月打折活动日
+1.设计师买手店会员每月打折活动日
 在每月最后一个星期四（如遇法定节假日顺延一周），在设计师买手店里的所有商品，会员可以以接近ikuku进货成本价购买到所需商品，每月更新。折扣日商品价格请参考：[ikuku摆地摊-会员专区](http://www.ikuku.cn/ucenter.php?action=shop) 。
-2.借阅亚马逊正版电子书
+2.免费借阅亚马逊正版电子书
 会员可以在ikuku.cn及ikuku微信服务号上免费借阅ikuku的正版kindle图书，借阅期为14天，书目请参考：[ikuku摆地摊-电子图书](http://www.ikuku.cn/ucenter.php?action=shop&type=kindle) 。
-3.设计供需双方推介库
-为会员专门建立建筑设计甲、乙双方的推介库(多个ikuku微信群)。
+3.设计供需双方推介库（即将上线）
+成为会员期间，进入专门建立建筑设计甲、乙双方的推介库(多个ikuku微信群)。
 4.ikuku首页招聘宣传
 为金牌会员免费提供ikuku.cn首页右侧栏招聘宣传。
 5.ikuku广告投放
-为金牌会员免费提供ikuku.cn首页图文广告。
-**ps.**详情见下文
+为金牌会员免费提供ikuku.cn首页图文广告2周。
+**ps.**会员服务详情见下文
 
 
-**问：会员如何参与设计师买手店每月会员打折日活动？**
+**问：如何参与设计师买手店每月会员打折日活动？**
 **答：**
-1.成为ikuku会员或者ikuku金牌会员
+1.购买ikuku会员或者ikuku金牌会员资格
 2.每月的会员打折日当天，点击[ikuku摆地摊-会员专区](http://www.ikuku.cn/ucenter.php?action=shop)查看折扣价格。
 3.到ikuku电商按照原价购买商品。
-4.通过电商平台将你在ikuku上的ID告诉ikuku，核实会员身份后，ikuku会将商品差价退还。
+4.通过ikuku.cn，私信[ikuku建筑网](http://www.ikuku.cn/user/zaikuyanku)，通知ikuku购买信息（购买的电商、帐号及商品），核实后ikuku会将差价通过电商平台退还。
 
 
 **问：会员如何免费借阅亚马逊正版电子书**
-**答：**通过ikuku.cn 将你在ikuku上的ID及想要借阅的电子书告诉[admin](http://www.ikuku.cn/user/1)
+**答：**通过ikuku.cn 私信[admin](http://www.ikuku.cn/user/1)，告知你想借阅的电子书，我们会将电子书发给您。
 
 **问：如何成为会员？**
-**答：**点击[ikuku淘宝店](https://shop130496019.taobao.com) 或者点击[ikuku微信微店](http://mp.weixin.qq.com/bizmall/mallshelf?t=mall/list&biz=MjM5OTAxMDE2MA==&shelf_id=1&showwxpaytitle=1&scene=1&pass_ticket=eNVNbJGCmTjtOURVx3E3w7qJlgI6SpwfA1jiC4nxW2EIS3ikD2eJ9XjZhI%2BSzt8a)，完成支付后，通过电商平台将你在ikuku上的ID告诉ikuku，以便我们存档。
+**答：**点击[ikuku淘宝店](https://shop130496019.taobao.com) 或者点击[ikuku微信微店](http://mp.weixin.qq.com/bizmall/mallshelf?t=mall/list&biz=MjM5OTAxMDE2MA==&shelf_id=1&showwxpaytitle=1&scene=1&pass_ticket=eNVNbJGCmTjtOURVx3E3w7qJlgI6SpwfA1jiC4nxW2EIS3ikD2eJ9XjZhI%2BSzt8a)，完成支付后，通过电商平台的支付账户将你在ikuku上的ID告诉ikuku，以便我们存档。
 
 
 **问：如何收费？**  
@@ -42,14 +42,17 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 **问：如何查询你在ikuku上的ID**
 **答：**参见：http://www.ikuku.cn/post/97400
 
-____________________________________________________________________
+
+**问：会员服务有效期？**
+**答：**1年
+_________________________________________________
 
 ### 会员服务详情
 
 ![ikuku会员介绍](images/ikukumember.jpg)
 
-**1. 设计师买手店每月打折活动日**   
-通过与下游商家的资源合作，ikuku每月最后一个星期四（如遇法定节假日顺延一周）会为会员举办合作商家设计类产品线上优惠打折活动。目前合作的商家有: [加意新品](http://www.jiae.com)，其CEO为百度前任体验总监郭宇。ikuku会持续不断的为会员挑选、开发物美价廉的设计类产品，包括文具、箱包、时尚用品、日用品等。设计师买手店里的所有商品，会员可以以接近ikuku进货成本价购买到所需商品，每月仅此一天。
+**1. 设计师买手店每月会员打折活动日**   
+通过与下游商家的资源合作，ikuku每月最后一个星期四（如遇法定节假日顺延一周）为会员举办合作商家设计类产品线上优惠打折活动。目前合作的商家有: [加意新品](http://www.jiae.com)，其CEO为百度前任体验总监郭宇。ikuku会持续不断的为会员挑选、开发物美价廉的设计类产品，包括文具、箱包、时尚用品、日用品等。设计师买手店里的所有商品，会员可以以接近ikuku进货成本价购买到所需商品，每月仅此一天。
 
 同时，如果会员对其他设计类商品有需求，可以告诉ikuku，我们将为您积极寻优惠的渠道，把高性价比的商品带给您！
 
@@ -66,7 +69,7 @@ ____________________________________________________________________
 <iframe height="288" id="viddler-823e0a0a" mozallowfullscreen="true" src="//www.viddler.com/embed/823e0a0a/?f=1&amp;autoplay=0&amp;player=full&amp;secret=103366756&amp;loop=0&amp;nologo=0&amp;hd=0&amp;scAccountName=acsus-prod" webkitallowfullscreen="true" width="300"> </iframe>   
 
 
-**3. 设计供需双方推介库(即将上线)**      
+**3. 设计供需双方推介库(即将上线)** （即将上线）     
 * ikuku为会员专门建立建筑设计供需双方的推介库(多个ikuku微信群)。
 * 会员可以向ikuku提出各方面的需求，ikuku会在原有免费渠道的基础上向会员发布合适的需求，并提供更多推介的机会。  
 
