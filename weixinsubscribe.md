@@ -98,7 +98,7 @@ editor@ikuku.cn
 # 问卷调查  
 
 
- [http://form.mikecrm.com/f.php?t=hHf6qG](url.cn)
+ http://form.mikecrm.com/f.php?t=hHf6qG 
  
  
  
@@ -106,4 +106,4 @@ editor@ikuku.cn
 #会员服务#
 
 
-[http://guide.ikuku.cn/member.html](url.cn)
+ http://guide.ikuku.cn/member.html 
