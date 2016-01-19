@@ -6,7 +6,7 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 
 **问：**如何成为会员？   
 **答:**点击[ikuku淘宝店](https://shop130496019.taobao.com)的链接: https://shop130496019.taobao.com 
-
+       点击[ikuku微信微店]（http://mp.weixin.qq.com/bizmall/mallshelf?t=mall/list&biz=MjM5OTAxMDE2MA==&shelf_id=1&showwxpaytitle=1&scene=1&pass_ticket=eNVNbJGCmTjtOURVx3E3w7qJlgI6SpwfA1jiC4nxW2EIS3ikD2eJ9XjZhI%2BSzt8a）
 **问：**如何收费？  
 **答：**按年收费，ikuku会员价格为99元人民币， ikuku金牌会员价格为999元人民币。  
 
