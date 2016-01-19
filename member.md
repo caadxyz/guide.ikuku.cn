@@ -36,7 +36,7 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 <iframe height="288" id="viddler-823e0a0a" mozallowfullscreen="true" src="//www.viddler.com/embed/823e0a0a/?f=1&amp;autoplay=0&amp;player=full&amp;secret=103366756&amp;loop=0&amp;nologo=0&amp;hd=0&amp;scAccountName=acsus-prod" webkitallowfullscreen="true" width="300"> </iframe>   
 
 
-**3. 设计供需双方推介库阅(即将上线)**      
+**3. 设计供需双方推介库(即将上线)**      
 * ikuku为会员专门建立建筑设计供需双方的推介库(多个ikuku微信群)。
 * 会员可以向ikuku提出各方面的需求，ikuku会在原有免费渠道的基础上向会员发布合适的需求，并提供更多推介的机会。  
 
