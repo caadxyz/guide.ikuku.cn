@@ -21,7 +21,7 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 
 
 **问：会员如何参与设计师买手店每月会员打折日活动？**
-**答**：
+**答：**
 1.成为ikuku会员或者ikuku金牌会员
 2.每月的会员打折日当天，点击[ikuku摆地摊-会员专区](http://www.ikuku.cn/ucenter.php?action=shop)查看折扣价格。
 3.到ikuku电商按照原价购买商品。
@@ -31,27 +31,18 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 **问：会员如何免费借阅亚马逊正版电子书**
 **答：**通过ikuku.cn 将你在ikuku上的ID及想要借阅的电子书告诉[admin](http://www.ikuku.cn/user/1)
 
-**问：如何成为会员？ **
+**问：如何成为会员？**
 **答：**点击[ikuku淘宝店](https://shop130496019.taobao.com) 或者点击[ikuku微信微店](http://mp.weixin.qq.com/bizmall/mallshelf?t=mall/list&biz=MjM5OTAxMDE2MA==&shelf_id=1&showwxpaytitle=1&scene=1&pass_ticket=eNVNbJGCmTjtOURVx3E3w7qJlgI6SpwfA1jiC4nxW2EIS3ikD2eJ9XjZhI%2BSzt8a)，完成支付后，通过电商平台将你在ikuku上的ID告诉ikuku，以便我们存档。
 
 
-**问：**如何收费？  
+**问：如何收费？**  
 **答：**按年收费，ikuku会员价格为99元人民币， ikuku金牌会员价格为999元人民币。  
 
 
 **问：如何查询你在ikuku上的ID**
 **答：**参见：http://www.ikuku.cn/post/97400
 
-
-
-
-
-
-
-
-
-
-
+____________________________________________________________________
 
 ### 服务介绍  
 
