@@ -13,6 +13,7 @@
   * [微栏目](weixin-2.md)
   * [微服务](weixin-3.md)
 * [ikuku会员服务](member.md)  
+  * [服务详情](member-1.md) 
 * [甲方如何找到建筑师？](o2o.md)
 * [ikuku电商](shop.md)
 * [如何玩转ikuku微信订阅号](weixinsubscribe.md)
