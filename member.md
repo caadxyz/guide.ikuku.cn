@@ -4,7 +4,7 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 
 同时经过这3年的运营及迭代，我们拥有了大量的有有价值的上下游的资源。 因此我们推出了`ikuku会员`及`ikuku金牌会员`的的增值服务,其目的是期望为有更强需求的个人及企业提供更有价值的服务。  
 
-会员服务详情见: http://localhost:4000/member-1.html
+会员服务详情见: http://guide.ikuku.cn/member-1.html
 
 ### 问1：会员有哪些服务？  
 **答：**  
@@ -21,7 +21,7 @@ ikuku.cn自2012年上线以来，我们一直坚持公益性及免费的原则�
 为金牌会员免费提供ikuku.cn首页图文广告2周。  
 
 
-**ps.**会员服务详情见: http://localhost:4000/member-1.html
+**ps.**会员服务详情见: http://guide.ikuku.cn/member-1.html
 
 -----
 
