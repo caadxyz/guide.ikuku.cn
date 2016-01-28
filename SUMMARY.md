@@ -18,6 +18,7 @@
  
 * [ikuku用户中心手册](ucenter.md)  
   * [如何组织活动及报名?](ucenter-1.md)
+  * [如何求职与招聘?](ucenter-2.md)
   
 * [ikuku电商](shop.md)  
   * [如何买东西？](shop-1.md)  
