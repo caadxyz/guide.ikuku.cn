@@ -1,7 +1,7 @@
 # 建筑师为什么要入驻ikuku?
 
 **ikuku.cn︱在库言库 是谁?**  
-ikuku.cn|在库言库（www.ikuku.cn）是中国第一个建筑设计行业的自媒体社区(UGC)及项目轻量级托管平台。详情点击[简介](http://guide.ikuku.cn/index.html)  
+ikuku.cn|在库言库（www.ikuku.cn） 是中国第一个建筑设计行业的自媒体社区(UGC)及项目轻量级托管平台。详情点击[简介](http://guide.ikuku.cn/index.html)  
 
 **ikuku.cn︱在库言库 在做什么？**  
 建立以公益为目的的，中立观点的，线上开放聚合的百年华人建筑库。  
