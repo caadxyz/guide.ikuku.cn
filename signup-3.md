@@ -27,7 +27,7 @@ ikuku.cn|在库言库（www.ikuku.cn） 是中国第一个建筑设计行业的�
 1.建立产品库  
 a.品牌、材料、设备商入驻（免费）  
 将品牌、公司、及产品的介绍以文字、照片、视频形式便捷的展现到建筑师和业主面前，让更多的专业人士了解你的品牌和产品。  
-点击[上传作品](http://www.ikuku.cn/self-media/upload/upload-note.php)开始上传。首次上传请参考[建筑师ikuku入门手册](101.md)。 
+点击[上传作品](http://www.ikuku.cn/self-media/upload/upload-note.php)开始上传。首次上传请参考[ikuku上传入门手册](101.md)。 
 
 b.ikuku建筑师专家库推介（收费）  
 将你的产品链接到你参与过的项目中，方便建筑师、业主参考并更容易获得用户信赖。  
