@@ -39,3 +39,10 @@
 ## 求职及招聘信息提交链接  
 
 http://www.ikuku.cn/ucenter.php?action=jobs&type=apply  
+
+
+
+
+
+##在上传过程中可能碰到的问题及如何解决  
+http://guide.ikuku.cn/101.html  
