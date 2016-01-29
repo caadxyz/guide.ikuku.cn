@@ -1,7 +1,8 @@
 # 建筑产品及品牌入驻
 
 **ikuku.cn︱在库言库 是谁?**  
-ikuku.cn|在库言库（www.ikuku.cn） 是中国第一个建筑设计行业的自媒体社区(UGC)及项目轻量级托管平台。详情点击[简介](http://guide.ikuku.cn/index.html)  
+ikuku.cn|在库言库（www.ikuku.cn） 是中国第一个建筑设计行业的自媒体社区(UGC)及项目轻量级托管平台。  
+详情点击[简介](http://guide.ikuku.cn/index.html)  
 
 **ikuku.cn︱在库言库 是找到建筑师最便捷的途径**  
 注册用户：40000+  
