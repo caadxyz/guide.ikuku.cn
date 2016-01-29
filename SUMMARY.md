@@ -1,7 +1,7 @@
 # Summary
 
 * [目录](README.md)  
-* 你为什么要入驻ikuku?  
+* [你为什么要入驻ikuku?](signup.md)  
   * [设计师](signup-1.md)
   * 设计需求方  
   * [建筑产品及品牌](signup-3.md)  
@@ -16,7 +16,7 @@
   * [如何做到图文穿插的效果?](101-5.md)
   * [投递之后还能修改吗?](101-6.md)
  
-* ikuku用户中心手册   
+* [ikuku用户中心手册](ucenter.md)   
   * [如何组织活动及报名?](ucenter-1.md)
   * [如何求职与招聘?](ucenter-2.md)
   
@@ -38,7 +38,7 @@
 
 * [ikuku会员服务](member.md)  
   * [服务详情](member-1.md) 
-  * ikuku图书馆   
+  * [ikuku图书馆](library.md)   
 
 * [Q&A](qa.md)
 
