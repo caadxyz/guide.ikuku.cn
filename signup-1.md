@@ -52,8 +52,7 @@ ikuku作为第三方，以ikuku品牌作为背书，通过建立甲乙双方的�
 《建筑师》杂志 、《建筑学报》杂志、《世界建筑》杂志、《建筑创作》杂志、《El Croquis中文版》杂志、《建筑技艺》杂志、思班机构、方媒体等  
 
 **如何入驻ikuku？**  
-上传作品即为入驻ikuku 点击[上传作品](http://www.ikuku.cn/self-media/upload/upload-note.php)  
-首次上传请参考[建筑师ikuku入门手册](101.md)  
+上传作品即为入驻ikuku，点击[上传作品](http://www.ikuku.cn/self-media/upload/upload-note.php)开始上传。首次上传请参考[建筑师ikuku入门手册](101.md)。  
 
 
 
