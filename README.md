@@ -7,6 +7,7 @@
 1. [微信服务号手册](weixin.md)
 1. [如何玩转ikuku微信订阅号](weixinsubscribe.md)
 1. [ikuku会员有哪些服务？](member.md)
+1. [如何成为ikuku.cn|在库言库的志愿者？](volunteer.md)  
 1. [Q&A](qa.md)
 
 -----
