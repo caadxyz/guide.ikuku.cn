@@ -41,7 +41,9 @@
   * [入驻设计供需双方推介库](member-4.md)  
   * [ikuku.cn首页招聘机会](member-5.md)  
   * [ikuku.cn首页广告投放机会](member-6.md)
-  * [会员服务Q&A](member-2.md)
+  * [会员服务Q&A](member-2.md)  
+  
+* [如何成为ikuku.cn|在库言库的志愿者？](volunteer.md)  
 
 * [Q&A](qa.md)
 
