@@ -5,7 +5,7 @@
   * [ikuku能为建筑设计师提供什么?](signup-1.md)
   * [需求方在ikuku上能得到哪些服务？](o2o.md) 
   * [建筑产品及品牌入驻](signup-3.md)  
-
+  * 如何申请ikuku首页专栏？
 * [建筑师上传作品入门手册](101.md)
   * [发布跟投递有什么区别？](101-1.md)
   * [如何上传图片？](101-2.md)
@@ -14,11 +14,12 @@
   * [如何做到图文穿插的效果?](101-5.md)
   * [投递之后还能修改吗?](101-6.md)
  
-* [ikuku用户中心手册](ucenter.md)   
-  * [如何组织活动及报名?](ucenter-1.md)
+* [ikuku社区服务手册](ucenter.md)   
+  * [如何组织活动及报名?](ucenter-1.md)  
+  * [委托设计及设计竞赛](ucenter-3.md)
   * [如何求职与招聘?](ucenter-2.md)
   
-* [ikuku电商](shop.md)  
+* [ikuku社区电商手册](shop.md)  
   * 如何买东西？
   * [如何卖东西？](shop-2.md)  
   * 设计师买手 
@@ -31,12 +32,16 @@
   * [微服务](weixin-3.md)
   
   
-* [如何玩转ikuku微信订阅号](weixinsubscribe.md)  
+* [如何玩转ikuku微信订阅号？](weixinsubscribe.md)  
 
 
-* [ikuku会员服务](member.md)  
-  * [服务详情](member-1.md) 
-  * [ikuku图书馆](library.md)   
+* [ikuku能为会员提供哪些服务？](member.md)  
+  * [设计师买手店打折日活动](member-3.md)
+  * [ikuku图书馆免费借阅](library.md)  
+  * [入驻设计供需双方推介库](member-4.md)  
+  * [ikuku.cn首页招聘机会](member-5.md)  
+  * [ikuku.cn首页广告投放机会](member-6.md)
+  * [会员服务Q&A](member-2.md)
 
 * [Q&A](qa.md)
 
