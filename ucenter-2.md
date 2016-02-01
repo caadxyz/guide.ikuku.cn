@@ -37,7 +37,7 @@ http://www.ikuku.cn/ucenter.php?action=jobs&type=apply
 
 **注释1：作为团队用户，您可以选择成为“在库言库金牌会员”，ikuku的首页广告位将为金牌会员提供免费的展示机会。**  
 
-**注释2：如何成为会员及会员能享受的相关服务，请点击这里： http://guide.ikuku.cn/member-2.html **  
+**注释2：如何成为会员及会员能享受的相关服务，请点击这里： http://guide.ikuku.cn/member-2.html**  
 
 
 
