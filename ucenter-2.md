@@ -17,10 +17,8 @@ http://www.ikuku.cn/ucenter.php?action=jobs&type=apply
 
 5.提交成功后，您的个人简历、作品集以及求职信息会出现在“求职与招聘”页面，ikuku的所有用户都有机会浏览您的信息。  
 
-**ikuku力求为您提供一个公开公平公正的求职环境。**  
-
-
-
+**ikuku力求为您提供一个公开公平公正的求职环境。** 
+ 
 
 
 ## 如何招聘？  
@@ -44,3 +42,11 @@ http://www.ikuku.cn/ucenter.php?action=jobs&type=apply
 
 ##在上传过程中可能碰到的问题及如何解决  
 http://guide.ikuku.cn/101.html  
+
+
+
+-----
+
+1. [如何组织活动及报名?](ucenter-1.md)  
+1. [委托设计及设计竞赛](ucenter-3.md)
+1. [如何求职与招聘?](ucenter-2.md)

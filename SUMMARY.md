@@ -27,7 +27,6 @@
    
    
 * [微信服务号手册](weixin.md)
-  * [用户输入](weixin-1.md)
   * [微栏目](weixin-2.md)
   * [微服务](weixin-3.md)
   
@@ -42,8 +41,9 @@
   * [ikuku.cn首页招聘机会](member-5.md)  
   * [ikuku.cn首页广告投放机会](member-6.md)
   * [会员服务Q&A](member-2.md)  
-  
-* [如何成为ikuku.cn|在库言库的志愿者？](volunteer.md)  
+
+* [加入ikuku.cn|在库言库团队](volunteer.md)    
+  * [如何成为ikuku.cn|在库言库的志愿者？](volunteer-1.md)  
 
 * [Q&A](qa.md)
 
