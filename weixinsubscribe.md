@@ -96,14 +96,7 @@ editor@ikuku.cn
 注：公司或者个人均可进行投稿。
 
 # 本周问答  
-
-
- http://wenda.ikuku.cn/index.php?qa=5589&qa_1=驻场设计师的职责有哪些
+http://wenda.ikuku.cn/index.php?qa=5589&qa_1=驻场设计师的职责有哪些
  
  
  
- 
-#会员服务#
-
-
- http://guide.ikuku.cn/member.html 
