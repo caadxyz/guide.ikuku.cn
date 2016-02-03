@@ -1,6 +1,6 @@
 # Summary
 
-* [目录](README.md)  
+* [ikuku.cn|在库言库简介](README.md)  
 * [你为什么要入驻ikuku?](signup.md)  
   * [ikuku能为建筑设计师提供什么?](signup-1.md)
   * [需求方在ikuku上能得到哪些服务？](o2o.md) 
@@ -18,11 +18,21 @@
   * [委托设计及设计竞赛](ucenter-3.md)
   * [如何求职与招聘?](ucenter-2.md)
   
-* [ikuku社区电商手册](shop.md)  
-  * 如何买东西？
+* [ikuku电商手册](shop.md)  
   * [如何卖东西？](shop-2.md)  
-  * 设计师买手 
+  * [设计师买手店](shop-1.md)
+  * [建筑设计下游环节的产品](shop-4.md)
+  * [会员优惠条款](shop-3.md)
   * 摆地摊  
+   
+
+* [ikuku能为会员提供哪些服务？](member.md)  
+  * [设计师买手店打折日活动](member-3.md)
+  * [ikuku图书馆免费借阅](library.md)  
+  * [入驻设计供需双方推介库](member-4.md)  
+  * [ikuku.cn首页招聘机会](member-5.md)  
+  * [ikuku.cn首页广告投放机会](member-6.md)
+  * [会员服务Q&A](member-2.md)   
    
    
 * [微信服务号手册](weixin.md)
@@ -33,13 +43,6 @@
 * [如何玩转ikuku微信订阅号？](weixinsubscribe.md)  
 
 
-* [ikuku能为会员提供哪些服务？](member.md)  
-  * [设计师买手店打折日活动](member-3.md)
-  * [ikuku图书馆免费借阅](library.md)  
-  * [入驻设计供需双方推介库](member-4.md)  
-  * [ikuku.cn首页招聘机会](member-5.md)  
-  * [ikuku.cn首页广告投放机会](member-6.md)
-  * [会员服务Q&A](member-2.md)  
 
 * [加入ikuku.cn|在库言库团队](volunteer.md)    
   * [如何成为ikuku.cn|在库言库的志愿者？](volunteer-1.md)  

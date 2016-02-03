@@ -1,6 +1,7 @@
-# ikuku使用手册 v0.01 
+# ikuku.cn|在库言库使用手册 
+版本号: v0.01   
 
-
+-----
 
 1. [你为什么要入驻ikuku?](signup.md)  
 1. [ikuku入门手册(玩转ikuku的6个小窍门)](101.md)  
