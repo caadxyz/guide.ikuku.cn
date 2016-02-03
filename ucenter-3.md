@@ -1,6 +1,6 @@
 # 委托设计及设计竞赛
 
-详情见: http://localhost:4000/o2o.html   
+详情见: http://guide.ikuku.cn/o2o.html
 
 -----
 
