@@ -4,4 +4,4 @@
 微信微店: http://mp.weixin.qq.com/bizmall/mallshelf?t=mall/list&biz=MjM5OTAxMDE2MA==&shelf_id=1&showwxpaytitle=1&scene=1&pass_ticket=eNVNbJGCmTjtOURVx3E3w7qJlgI6SpwfA1jiC4nxW2EIS3ikD2eJ9XjZhI%2BSzt8a  
 ikuku摆地摊: http://www.ikuku.cn/ucenter.php?action=shop
 
-ikuku会员及ikuku金牌会员权利：
+ikuku会员及ikuku金牌会员权利：https://gitcafe.com/ikuku/guide.ikuku.cn/blob/master/shop-3.md
