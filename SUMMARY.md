@@ -44,9 +44,10 @@
 
 
 * [加入ikuku.cn|在库言库团队](volunteer.md)    
-  * [如何成为ikuku.cn|在库言库的志愿者？](volunteer-1.md)  
+  * [核心团队](volunteer-0.md))
+  * [如何成为ikuku志愿者？](volunteer-1.md)  
   * [进行中的志愿者项目](volunteer-2.md)
-  * [如何成为ikuku.cn|在库言库的评委?](volunteer-3.md)  
+  * [如何成为ikuku评委?](volunteer-3.md)  
 
 * [Q&A](qa.md)
 

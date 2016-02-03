@@ -1,16 +1,12 @@
 # 加入ikuku.cn|在库言库团队
 
 我们相信开放是一种力量，象磁铁一样吸引着优秀的人才   
-We believe that opening up is a force, like a magnet to attract talents.  
+We believe that opening up is a force, like a magnet to attract talents.
+   * [核心团队](volunteer-0.md)
+   * [如何成为ikuku.cn|在库言库的志愿者？](volunteer-1.md)  
+   * [进行中的志愿者项目](volunteer-2.md)
+   * [如何成为ikuku.cn|在库言库的评委?](volunteer-3.md)  
 
-* [马海东](http://www.ikuku.cn/name/7673): 产品开发 运营  
-* 刘非: 运营  
-* 黄鑫: 产品开发  
-* [门文龙](http://www.ikuku.cn/user/xiaomen): 编辑 客服  
-
-----
-
-人员招聘: CTO、Branding&Marketing 
  
  
 
