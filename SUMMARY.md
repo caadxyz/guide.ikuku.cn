@@ -14,7 +14,7 @@
   * [投递之后还能修改吗?](101-6.md)
  
 * [ikuku社区服务手册](ucenter.md)   
-  * [如何组织活动及报名?](ucenter-1.md)  
+  * [如何组织及报名活动?](ucenter-1.md)  
   * [委托设计及设计竞赛](ucenter-3.md)
   * [如何求职与招聘?](ucenter-2.md)
   
@@ -44,7 +44,7 @@
 
 
 * [加入ikuku.cn|在库言库团队](volunteer.md)    
-  * [核心团队](volunteer-0.md))
+  * [加入核心团队](volunteer-0.md))
   * [如何成为ikuku志愿者？](volunteer-1.md)  
   * [进行中的志愿者项目](volunteer-2.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
