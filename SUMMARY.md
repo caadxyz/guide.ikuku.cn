@@ -32,22 +32,16 @@
   * [ikuku.cn首页招聘机会](member-5.md)  
   * [ikuku.cn首页广告投放机会](member-6.md)
   * [会员服务Q&A](member-2.md)   
-   
-   
 * [微信服务号手册](weixin.md)
   * [微栏目](weixin-2.md)
-  * [微服务](weixin-3.md)
-  
-  
+  * [微服务](weixin-3.md)  
 * [如何玩转ikuku微信订阅号？](weixinsubscribe.md)  
-
-
-
 * [加入ikuku.cn|在库言库团队](volunteer.md)    
-  * [加入核心团队](volunteer-0.md))
+  * [每天逛ikuku的都是什么人啊？](volunteer-4.md)
   * [如何成为ikuku志愿者？](volunteer-1.md)  
   * [进行中的志愿者项目](volunteer-2.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
+  * [加入核心团队](volunteer-0.md)
 
 * [Q&A](qa.md)
 
