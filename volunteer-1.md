@@ -1,5 +1,6 @@
 # 如何成为ikuku.cn|在库言库的志愿者或实习生？
 
+**优秀志愿者**
 
 [梁诗维](http://www.ikuku.cn/name/9703)  
 “因为我十分希望和建筑业前辈交流，而ikuku可以提供这样的机会”  
@@ -22,3 +23,7 @@
 [万林潇谊](http://www.ikuku.cn/name/9549)   
 “因为觉得建筑以后的走势一定是跟计算机紧密结合的，而ikuku的海报上明确写着与数字建筑有关，所以我来了”   
 
+----
+
+问：如何成为ikuku.cn|在库言库的志愿者或实习生？    
+答: 关注http://www.ikuku.cn/ucenter.php?action=activity 上相关信息。
