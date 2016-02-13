@@ -42,6 +42,7 @@
   * [进行中的志愿者项目](volunteer-2.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
   * [加入核心团队](volunteer-0.md)
+  * [相关媒体报道](press.md)
 
 * [Q&A](qa.md)
 
