@@ -19,10 +19,8 @@
   * [如何求职与招聘?](ucenter-2.md)
   
 * [ikuku电商手册](shop.md)  
-  * [如何卖东西？](shop-2.md)  
-  * [设计师买手店](shop-1.md)
-  * [建筑设计下游环节的产品](shop-4.md)
-  * [会员优惠条款](shop-3.md)
+  * [如何卖东西？](shop-2.md)
+  * [如何买东西？](shop-1.md)
    
 
 * [ikuku能为会员提供哪些服务？](member.md)  
