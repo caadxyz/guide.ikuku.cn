@@ -9,7 +9,7 @@ ikuku摆地摊: http://www.ikuku.cn/ucenter.php?action=shop
 ----
 # 设计师买手店
 
-* ikuku 设计师笔记本：
+* ikuku 设计师笔记本：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.25.BGzs55&id=525157480648
 
 
 
