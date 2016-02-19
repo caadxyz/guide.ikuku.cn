@@ -11,14 +11,14 @@ ikuku摆地摊: http://www.ikuku.cn/ucenter.php?action=shop
 # 设计师买手店
 
 * ikuku 设计师笔记本：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.25.BGzs55&id=525157480648
-
-
-
+* Rule/ One pen & Ruler 尺笔：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.28.BGzs55&id=525776252398
+* METAPHYS 螺旋橡皮：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.31.BGzs55&id=525743152977
+* METAPHYS 口香糖橡皮：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.37.BGzs55&id=525741048851
+* Artiart 不倒杯：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.34.BGzs55&id=525778168428
 
 ----
 
 # 建筑类产品——设计下游环节的产品
-
 
 * 众条桌： https://item.taobao.com/item.htm?id=526463778043  
 * 众条凳： https://item.taobao.com/item.htm?id=526430391096  
