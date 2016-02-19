@@ -5,8 +5,8 @@
 ikuku摆地摊: http://www.ikuku.cn/ucenter.php?action=shop
 
 注：
-1.ikuku会员及ikuku金牌会员在[每月打折日](member-3.md)购买设计师买手店及建筑类产品享受优惠！
-2.如何参与每月会员打折日活动？参见:[会员服务Q&A](member-2.md)
+1. ikuku会员及ikuku金牌会员在[每月打折日](member-3.md)购买设计师买手店及建筑类产品享受优惠！
+2. 如何参与每月会员打折日活动？参见:[会员服务Q&A](member-2.md)
 
 ----
 
