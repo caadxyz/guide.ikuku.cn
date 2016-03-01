@@ -99,8 +99,13 @@ _____________
 
 [杨子纯](http://www.ikuku.cn/user/36574)  （获奖者）  
 [梁栋楠](http://www.ikuku.cn/user/14962)  
-[徐璐](http://www.ikuku.cn/user/36781) 
- 
+[徐璐](http://www.ikuku.cn/user/36781)  
+
+_____________  
+
+#### 建筑师作品上传入门手册  
+
+手册图片设计者：[杨慧琳](http://www.ikuku.cn/user/17143)  
  
 #### ikuku微信订阅号团队  
   
