@@ -4,25 +4,25 @@
 会费：99RMB
 有效期：一年（自入会之日起）
 1.[设计师买手店每月打折日活动](member-3.md)
-1.[ikuku图书馆免费借阅](library.md)
+2.[ikuku图书馆免费借阅](library.md)
 
 【金卡会员】
 会费：999RMB
 有效期：一年（自入会之日起）
 1. [设计师买手店每月打折日活动](member-3.md)
-1. [ikuku图书馆免费借阅](library.md)
-1. [入驻设计供需双方推介库](member-4.md)  
-1. [ikuku.cn首页招聘](member-5.md)  
-1. [ikuku.cn首页广告投放1](member-6.md)
+2. [ikuku图书馆免费借阅](library.md)
+3. [入驻设计供需双方推介库](member-4.md)  
+4. [ikuku.cn首页招聘](member-5.md)  
+5. [ikuku.cn首页广告投放1](member-6.md)
 
 【铂金卡会员】
 会费：9999RMB
 有效期：一年（自入会之日起）
 1. [设计师买手店每月打折日活动](member-3.md)
-1. [ikuku图书馆免费借阅](library.md)
-1. [入驻设计供需双方推介库](member-4.md)  
-1. [ikuku.cn首页招聘](member-5.md)  
-1. [ikuku.cn首页广告投放2]
+2. [ikuku图书馆免费借阅](library.md)
+3. [入驻设计供需双方推介库](member-4.md)  
+4. [ikuku.cn首页招聘](member-5.md)  
+5. [ikuku.cn首页广告投放2]
 
 [会员服务Q&A](member-2.md)
 
