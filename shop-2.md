@@ -14,10 +14,19 @@ ikuku.cn|在库言库是建筑设计垂直社区，我们整合了与之相关�
 **已入驻的商家**    
 
 * [加意](http://www.ikuku.cn/user/wowjiae)
-* [众建筑众产品](http://www.ikuku.cn/user/8116)  
+* [众建筑众产品](http://www.ikuku.cn/user/8116) 
+* [ROOME](http://www.ikuku.cn/user/37589) 
+* [同济大学出版社](http://www.ikuku.cn/user/37542)  
+* [造作](http://www.ikuku.cn/user/12418)
 
 -----
 
+**已入驻的培训机构**  
 
-**立即填写入驻表单**  
+* [手绘在线](http://www.ikuku.cn/user/leexiang)
+* [天羿工程咨询有限公司](http://www.ikuku.cn/user/36775)
+
+-----
+
+**[立即入驻ikuku.cn|在库言库](http://www.ikuku.cn/userlogin.php)**  
 

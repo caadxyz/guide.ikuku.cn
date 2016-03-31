@@ -8,6 +8,25 @@ ikuku摆地摊: http://www.ikuku.cn/ucenter.php?action=shop
 1. ikuku会员及ikuku金牌会员在[每月打折日](member-3.md)购买设计师买手店及建筑类产品享受优惠！
 2. 如何参与每月会员打折日活动？参见:[会员服务Q&A](member-2.md)
 
+
+
+----
+
+# 建筑类产品——设计下游环节的产品
+
+* 众条桌： https://item.taobao.com/item.htm?id=526463778043  
+* 众条凳： https://item.taobao.com/item.htm?id=526430391096 
+* Roome音乐智能晚安灯  https://item.taobao.com/item.htm?id=528618128206
+
+
+----
+
+# ikuku精选课  
+
+* 高层住宅总图设计 https://item.taobao.com/item.htm?id=528107621397
+
+
+
 ----
 
 # 设计师买手店
@@ -17,13 +36,6 @@ ikuku摆地摊: http://www.ikuku.cn/ucenter.php?action=shop
 * METAPHYS 螺旋橡皮：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.31.BGzs55&id=525743152977
 * METAPHYS 口香糖橡皮：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.37.BGzs55&id=525741048851
 * Artiart 不倒杯：https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-12194298920.34.BGzs55&id=525778168428
-
-----
-
-# 建筑类产品——设计下游环节的产品
-
-* 众条桌： https://item.taobao.com/item.htm?id=526463778043  
-* 众条凳： https://item.taobao.com/item.htm?id=526430391096  
 
 ----
 

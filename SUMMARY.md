@@ -1,6 +1,6 @@
 # Summary
 
-* [文档简介](README.md)  
+* [简介](README.md)  
 * [你为什么要入驻ikuku?](signup.md)  
   * [ikuku能为建筑设计师提供什么?](signup-1.md)
   * [需求方在ikuku上能得到哪些服务？](o2o.md) 
@@ -31,7 +31,7 @@
   * [ikuku.cn首页招聘机会](member-5.md)  
   * [ikuku.cn首页广告投放机会](member-6.md)
   * [会员服务Q&A](member-2.md)   
-* [微信服务号手册](weixin.md)
+* [微信服务号提供哪些行业服务?](weixin.md)
   * [微栏目](weixin-2.md)
   * [微服务](weixin-3.md)  
 * [如何玩转ikuku微信订阅号？](weixinsubscribe.md)  
