@@ -8,7 +8,7 @@
 **答：**ikuku电商分为三类  
 1. [ikuku品牌](https://shop130496019.taobao.com/category-1165073715.htm?spm=2013.1.w5002-12194298908.3.blh20P&search=y&catName=ikuku%C6%B7%C5%C6): ikuku自有品牌商品，例如：ikuku会员、ikuku笔记本等。
 2. [设计师买手](https://shop130496019.taobao.com/category-1165074320.htm?spm=2013.1.w5002-12194298908.3.PrddCS&search=y&catName=%C9%E8%BC%C6%CA%A6%C2%F2%CA%D6)：提供设计类产品及建筑设计下游环节产品，例如：耗材、家具等。
-3. [ikuku精选课](https://shop130496019.taobao.com/category-1190642683.htm?spm=a1z10.5-c.w5002-12194298908.5.YiAtdQ&search=y&catName=%BE%AB%D1%A1%BF%CE)：ikuku与培训机构合作，精选在线培训课程。   
+3. [ikuku精选课](https://shop130496019.taobao.com/category-1190642683.htm?spm=a1z10.5-c.w5002-12194298908.5.YiAtdQ&search=y&catName=%BE%AB%D1%A1%BF%CE)：ikuku与培训机构合作，精选在线培训课程，例如软件、手绘培训。   
 
 **问：ikuku设计师买手店里的商品哪里可以查询会员价格？**  
 **答:**点击：[ikuku摆地摊-会员专区](http://www.ikuku.cn/ucenter.php?action=shop)查看折扣价格  
