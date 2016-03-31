@@ -1,5 +1,10 @@
 {
     "plugins": [
         "-search"
-    ]
+    ],
+    "links" : {
+        "sidebar" : {
+            "ikuku.cn|在库言库" : "http://www.ikuku.cn"
+        }
+    }
 }

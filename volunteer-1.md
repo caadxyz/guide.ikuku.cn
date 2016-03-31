@@ -48,3 +48,6 @@
 
 问：如何成为ikuku.cn|在库言库的志愿者或实习生？    
 答: 关注http://www.ikuku.cn/ucenter.php?action=activity 上相关信息。
+
+问: 我已经成为ikuku志愿者很久了，怎么没有出现在ikuku.cn主页上？  http://www.ikuku.cn/names?t=ikuku-6  
+答: 通过ikuku志愿者资格审核,并上传过作品或者协助ikuku志愿者项目上传作品(在参与人栏填写过你的名字)的志愿者,其名字会显示在[ikuku首页的人物栏](http://www.ikuku.cn/names?t=ikuku-6)。

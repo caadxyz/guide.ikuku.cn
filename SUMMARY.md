@@ -1,6 +1,6 @@
 # Summary
 
-* [ikuku.cn|在库言库简介](README.md)  
+* [文档简介](README.md)  
 * [你为什么要入驻ikuku?](signup.md)  
   * [ikuku能为建筑设计师提供什么?](signup-1.md)
   * [需求方在ikuku上能得到哪些服务？](o2o.md) 
