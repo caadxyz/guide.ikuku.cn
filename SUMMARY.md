@@ -35,6 +35,7 @@
   * [微栏目](weixin-2.md)
   * [微服务](weixin-3.md)  
 * [如何玩转ikuku微信订阅号？](weixinsubscribe.md)  
+* [广告合作](ad.md)
 * [加入ikuku.cn|在库言库团队](volunteer.md)    
   * [每天逛ikuku的都是什么人啊？](volunteer-4.md)
   * [如何成为ikuku志愿者？](volunteer-1.md)  
