@@ -9,6 +9,4 @@
 1. [ikuku图书馆免费借阅](library.md)  
 1. [入驻设计供需双方推介库](member-4.md)  
 1. [ikuku.cn首页招聘机会](member-5.md)  
-1. [ikuku.cn首页广告投放机会](member-6.md)
-1. [会员服务Q&A](member-2.md)
-
+1. [ikuku.cn首页广告投放机会](member-6.md)  

@@ -4,7 +4,7 @@
 * [微信微店](http://mp.weixin.qq.com/bizmall/mallshelf?t=mall/list&biz=MjM5OTAxMDE2MA==&shelf_id=1&showwxpaytitle=1&scene=1&pass_ticket=eNVNbJGCmTjtOURVx3E3w7qJlgI6SpwfA1jiC4nxW2EIS3ikD2eJ9XjZhI%2BSzt8a)  
 * [ikuku摆地摊](http://www.ikuku.cn/ucenter.php?action=shop)  
 * 注1：ikuku会员及ikuku金牌会员在[每月打折日](member-3.md)购买设计师买手店及建筑类产品享受优惠！
-* 注2：i如何参与每月会员打折日活动？参见:[会员服务Q&A](member-2.md)
+* 注2：i如何参与每月会员打折日活动？参见:[会员服务](member.md)
 
 
 
