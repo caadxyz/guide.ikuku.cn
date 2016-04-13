@@ -15,10 +15,18 @@ ikuku.cn|在库言库推出会员增值服务,其目的是为有更强需求的�
 ### 金卡会员  
 会费：999RMB  [立即购买](http://www.ikuku.cn/api/tenpay/views/qrcode_html.php?item=ku02)    
 有效期：一年（自入会之日起）
+
+**设计需求方金卡会员**  
+1. [入驻设计供需双方推介库](member-4.md)  
+
+ 
+**商家金卡会员**   
+1. 商品上架服务  
+
+**设计师团队金卡会员**  
 1. [设计师买手店每月打折日活动](member-3.md)
-2. [ikuku图书馆免费借阅](library.md)
-3. [入驻设计供需双方推介库](member-4.md)  
-4. [ikuku.cn首页招聘](member-5.md)  
+1. [ikuku图书馆免费借阅](library.md)  
+1. [ikuku.cn首页招聘](member-5.md) 
 
 
 ### 铂金卡会员  
