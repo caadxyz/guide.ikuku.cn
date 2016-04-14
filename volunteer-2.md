@@ -2,7 +2,71 @@
 
 * ikuku.cn|在库言库志愿者项目是由自下而上文化驱动的的社区项目。
 
-### 进行中的项目  
+### 进行中的项目 
+ 
+
+ 
+#### ikuku微信订阅号运营    
+
+**2016年3-4月** 
+* [发现微信内容->志愿者社区](http://mp.weixin.qq.com/mp/homepage?__biz=MzAwNzAwOTMxNg==&hid=1&sn=05580d8e9371f3ba40056f50fa5cefca#wechat_redirecthttp://mp.weixin.qq.com/mp/homepage?__biz=MzAwNzAwOTMxNg==&hid=1&sn=05580d8e9371f3ba40056f50fa5cefca#wechat_redirect)
+ * 志愿者黄婉: [他们的努力，让效果图动了起来](http://mp.weixin.qq.com/s?__biz=MzAwNzAwOTMxNg==&mid=403678205&idx=2&sn=1c47f13164b50f3b655a728c10c80ac3&scene=19#wechat_redirect)
+ * 志愿者黄婉: [如何改造一个7000平方米的家？](http://mp.weixin.qq.com/s?__biz=MzAwNzAwOTMxNg==&mid=403643490&idx=1&sn=6af5e3bb7f300a30d81df1bb5853fdc8&scene=19#wechat_redirect)
+ * 志愿者梁云: [这几个工科生被老房子丑哭了，所以用3000元把它改造一新](http://mp.weixin.qq.com/s?__biz=MzAwNzAwOTMxNg==&mid=403580037&idx=1&sn=52da1dae50e6aeb95eff638bf4e3fefd&scene=19#wechat_redirect)
+ * 志愿者梁云：[怎样的家居设计可以让老人的生活更加方便舒适？](http://mp.weixin.qq.com/s?__biz=MzAwNzAwOTMxNg==&mid=2651433183&idx=1&sn=eff1f0c4ece59239449b6577d949c052&scene=19#wechat_redirect)
+
+* 深度采访  
+ * 志愿者黄婉: 对[砖块积木](http://www.ikuku.cn/activity/xiangrangnindezuopindaizhuonindeqianmingchuanbianzhongguoma_zhuankuaijimubaozhuangshejidasai)的采访
+ * 志愿者黄婉: 对[极客咖啡二层](http://www.ikuku.cn/project/jikekafeiyigeyoujikezizuzhiziyunyingdeshequ)及[极客咖啡首层](http://www.ikuku.cn/post/102454)的采访  
+ 
+ **2016年4-5月**
+
+进行中...
+
+-------
+
+
+#### 90年代建筑群体观察  
+
+* 通过对尚未成型的九零后年轻建筑师和建筑学学生的群体观察，发问，自问，让他们发出自己的声音，引发对年轻群体视角方向的观察；
+* 这不是自上而下的访谈，相反，它是自下而上的。我们通过访谈数量的积累（1000个），从社会学及媒体学角度来展现和记录这一代人的群体性影像。
+* 详细介绍见： https://github.com/caadxyz/ikuku.cn/blob/master/cases/90s.md  
+
+
+-------
+
+#### 尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动  
+
+* 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
+* 积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
+* 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
+* 详细介绍见: http://www.ikuku.cn/competition  
+
+___________
+
+
+
+
+#### 《建筑之外》志愿者招募  
+
+由陈展辉老师带领的“建筑之外”团队入驻ikuku啦！  
+
+“建筑之外”团队将会以城市为线索，陆续整理以往策展资料并提交给ikuku志愿者小组。  
+
+总负责人：[杨婧](http://www.ikuku.cn/user/17592)  
+
+广州站志愿者：[杨婧](http://www.ikuku.cn/user/17592)、廖美辰  
+
+上海站志愿者：
+
+_____________  
+
+
+
+
+### 已经完成的项目  
+
+
 
 #### 线上:China1000
 * 建筑中国1000（2000-2015）展选择了一千个代表中国过去十五年间的建筑设计、装置以及重要的建筑展， 它是对二十一世纪以来中国当代建筑的梳理。进入二十一世纪之后,中国的建筑设计和建造规模都以惊人的速度呈现给世界,中国当代建筑设计的状态是以中国崛起为背景的,换句话说,它是中国崛起的一部分。纵观二十世纪现代建筑的历史，我们发现建筑的繁荣和时代有着密切的关系。这个展览的特别之处，是以时间为序，以编年史的方法，将一千个项目呈现给观众和读者。从而我们可以客观的看到一步中国二十一世纪的建筑简史。展览同期发行一本囊括所有参展项目的画册,可称21 世纪以来中国当代建筑的全记录。展览由建筑评论家、第13 届威尼斯建筑双年展中国馆策展人方振宁策划。    
@@ -55,23 +119,7 @@ Orry
 
 -----
 
-#### 90年代建筑群体观察  
 
-* 通过对尚未成型的九零后年轻建筑师和建筑学学生的群体观察，发问，自问，让他们发出自己的声音，引发对年轻群体视角方向的观察；
-* 这不是自上而下的访谈，相反，它是自下而上的。我们通过访谈数量的积累（1000个），从社会学及媒体学角度来展现和记录这一代人的群体性影像。
-* 详细介绍见： https://github.com/caadxyz/ikuku.cn/blob/master/cases/90s.md  
-
-
--------
-
-#### 尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动  
-
-* 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
-* 积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
-* 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
-* 详细介绍见: http://www.ikuku.cn/competition  
-
-___________
 
 #### ikuku.cn|在库言库:不粘贴设计征集  
 此次【不粘贴设计征集】获奖作品，将用于粘帖在衣服、笔记本、书包等物件上。ikuku将制作成品用于2016年度的各种活动中。  
@@ -114,43 +162,3 @@ _____________
 手册图片设计者：  
 
 [杨慧琳](http://www.ikuku.cn/user/17143)  
-
--------
- 
-#### ikuku微信订阅号团队 
- 
-* [发现微信内容](http://mp.weixin.qq.com/mp/homepage?__biz=MzAwNzAwOTMxNg==&hid=1&sn=05580d8e9371f3ba40056f50fa5cefca#wechat_redirecthttp://mp.weixin.qq.com/mp/homepage?__biz=MzAwNzAwOTMxNg==&hid=1&sn=05580d8e9371f3ba40056f50fa5cefca#wechat_redirect): 志愿者社区   
-* 深度采访  
-
--------  
-
-#### 《建筑之外》志愿者招募  
-
-由陈展辉老师带领的“建筑之外”团队入驻ikuku啦！  
-
-“建筑之外”团队将会以城市为线索，陆续整理以往策展资料并提交给ikuku志愿者小组。  
-
-总负责人：[杨婧](http://www.ikuku.cn/user/17592)  
-
-广州站志愿者：[杨婧](http://www.ikuku.cn/user/17592)、廖美辰  
-
-上海站志愿者：
-
-_____________  
-
-### 策划中的项目  
-
-
-
-
-……  
-
-
-#### 非常建筑志愿者招募 
-
-……  
-
-
-
-
-
