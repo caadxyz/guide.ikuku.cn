@@ -54,4 +54,4 @@ www.ikuku.cn 拥有4万注册用户，10.2分钟/人平均访问时长，7页/�
 
 ____
 
-微博、微信推广及ikuku.cn广告活动定制请私信：
+微博、微信推广及ikuku.cn广告活动定制请私信：[@ikuku建筑网]（http://weibo.com/kukuhome）
