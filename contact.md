@@ -1,6 +1,8 @@
 # 如何联系ikuku
 
-1. 微信订阅号  
+1. 官方网站: http://www.ikuku.cn    
+
+1. 微信订阅号    
 ![微信订阅号](images/WeChat_1.jpeg)  
 
 2. 微信服务号  
@@ -8,5 +10,5 @@
 
 3. 腾讯微博: http://weibo.com/kukuhome  
 
-4. 电邮: editor@ikuku.cn  
+4. 电邮: editor@ikuku.cn    
 
