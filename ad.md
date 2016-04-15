@@ -7,24 +7,26 @@ www.ikuku.cn 拥有4万注册用户，10.2分钟/人平均访问时长，7页/�
 **A1顶部横幅**  
 - 广告位置：ikuku|在库言库 的首页顶部  
 - 广告大小：根据屏幕尺寸，无限缩放  
-![A1广告位](images/adA1.jpg)  
+![A1首页广告位](images/adA1.jpg)  
 
 
 **A2中部横幅**  
 - 广告位置：ikuku|在库言库 的首页中部  
 - 广告大小：818 * 100像素  
-![A2广告位](images/adA2.jpg)  
+![A2首页广告位](images/adA2.jpg)  
 
 
 **A3右侧全幅**  
 - 广告位置：ikuku|在库言库 的首页 or 单页右侧  
 - 广告大小-300 * 600像素  
-![A3广告位](images/adA3.jpg)  
+![A3首页广告位](images/adA3.jpg)  
+![A3单页广告位](images/adA3-s.jpg)  
 
 **A4右侧半幅**  
 - 广告位置：ikuku|在库言库 的首页 or 单页右侧  
 - 广告大小-300 * 200像素  
-![A3广告位](images/adA3.jpg)  
+![A4首页广告位](images/adA4.jpg)  
+![A4单页广告位](images/adA4-s.jpg)  
 
 
 **广告类型**  
