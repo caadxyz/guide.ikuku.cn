@@ -44,6 +44,7 @@
    * [ikuku志愿者操作手册](volunteer-7.md)
   * [进行中的志愿者项目](volunteer-2.md)
    * [ikuku社区媒体运营](volunteer-8.md)
+   * [2016年5/6月驻场实习](volunteer-9.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
   * [加入核心团队](volunteer-0.md)
   * [相关媒体报道](press.md)
