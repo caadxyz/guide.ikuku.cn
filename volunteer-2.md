@@ -40,11 +40,11 @@ ___________
 
 广州站志愿者：
 
-[杨婧](http://www.ikuku.cn/user/17592)
+*[杨婧](http://www.ikuku.cn/user/17592)
 
 [建筑之外|近期展览回顾之一 广州站中环保利](http://www.ikuku.cn/post/105638)
 
-廖美辰
+*廖美辰
 
 [建筑之外｜建筑师的跨界与“串门”](http://www.ikuku.cn/post/105834)
 
@@ -52,23 +52,23 @@ ___________
 
 上海站志愿者：
 
-宫庆
+*宫庆
 
 [建筑之外|近期展览展览回顾之——上海CBC建筑师艺术馆](http://www.ikuku.cn/post/108386)
 
-[朱麒](http://www.ikuku.cn/user/37870)
+*[朱麒](http://www.ikuku.cn/user/37870)
 
 [建筑之外|近期展览回顾之一上海长阳谷绿色行思](http://www.ikuku.cn/post/107684)   
 
 [建筑之外|近期展览回顾之一上海龙美术馆西岸馆—弦外之音](http://www.ikuku.cn/post/107695)
 
-[张晶轩](http://www.ikuku.cn/user/35276)
+*[张晶轩](http://www.ikuku.cn/user/35276)
 
 [建筑之外|近期展览展览回顾之——上海喜玛拉雅中心：大申活—跨界艺术展](http://www.ikuku.cn/post/108878)
 
 [建筑之外|近期展览展览回顾之——朱家角尚都里水岸艺术节特展](http://www.ikuku.cn/post/108892)
 
-[王文凯](http://www.ikuku.cn/user/33240)
+*[王文凯](http://www.ikuku.cn/user/33240)
 
 建筑之外|近期展览展览回顾之——上海时尚家居特展
 
