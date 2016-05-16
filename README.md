@@ -9,6 +9,7 @@
 1. [ikuku电商](shop.md)  
 1. [微信服务号手册](weixin.md)
 1. [如何玩转ikuku微信订阅号](weixinsubscribe.md)
+1. [绑定第三方账号](bind.md) 
 1. [ikuku会员有哪些服务？](member.md)
 1. [如何加入ikuku.cn|在库言库团队?](volunteer.md)  
 1. [Q&A](qa.md)
