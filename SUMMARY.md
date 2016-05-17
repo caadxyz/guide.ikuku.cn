@@ -23,6 +23,7 @@
 * [ikuku电商手册](shop.md)  
   * [如何卖东西？](shop-2.md)
   * [如何买东西？](shop-1.md)
+  * [ikuku精选课入驻](shop-3.md)
    
 
 * [ikuku能为会员提供哪些服务？](member.md)  
