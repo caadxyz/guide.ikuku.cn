@@ -24,7 +24,7 @@
   * [如何卖东西？](shop-2.md)  
   * [设计师买手](shop-3.md)  
   * [摆地摊](shop-4.md)  
-  * [ikuku精选课入驻](shop-5)
+  * [ikuku精选课入驻](shop-5.md)
    
    
 * [微信服务号手册](weixin.md)
