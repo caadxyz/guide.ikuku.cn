@@ -49,6 +49,7 @@
    * [2016年5/6月驻场实习](volunteer-9.md)
    * [90年代建筑群体观察](volunteer-10.md)
    * [线上:建筑之外](volunteer-11.md) 
+   * [15届威尼斯建筑双年展](volunteer-15.md) 
    * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](volunteer-12.md)
    * [线上:China1000](volunteer-13.md)
    * [其他](volunteer-14.md)
