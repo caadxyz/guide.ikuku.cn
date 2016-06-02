@@ -8,11 +8,11 @@
 具体分区情况:
 
 
-A区(GIARDINI)： 张丽娟
+A区(GIARDINI P4-5)： 张丽娟
 
-C区(ARSENALE)：孔令仪
+C区(ARSENALE P6-7)：孔令仪
 
-D区(ARSENALE)：王茜
+D区(ARSENALE P8)：王茜
 
 
 相关活动(EVENTS): 位苗苗    
@@ -25,3 +25,5 @@ D区(ARSENALE)：王茜
 
 
 ![map](images/vmap1.jpg)
+
+[PDF文件](15mia.pdf)
