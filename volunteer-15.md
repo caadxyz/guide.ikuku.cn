@@ -36,3 +36,7 @@
 
 ## 时间：
 * 2016年5月28日-2016年11月27日
+
+
+***
+**欢迎加入威尼斯建筑双年展志愿者团队：** [ikuku志愿者招募](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)
