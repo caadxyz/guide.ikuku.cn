@@ -23,6 +23,7 @@
 * [ikuku电商手册](shop.md)  
   * [如何卖东西？](shop-2.md)
   * [如何买东西？](shop-1.md)
+  * [免责声明](shop-3.md)
   
    
 
