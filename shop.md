@@ -22,4 +22,4 @@
 
 -----
   
-**[ikuku免责声明](shop.md)**  
+**[ikuku免责声明](shop-3.md)**  
