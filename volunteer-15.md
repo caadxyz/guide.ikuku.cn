@@ -57,5 +57,8 @@
 * 如有特殊情况或者确实找不到相关信息可与负责人徐璐说明
 * 活动结束后会根据每人工作成果推荐至“2016年度ikuku优秀志愿者评选”活动
 
+## 志愿者工作完成情况：
+* 王茜：1. 12位建筑师对威尼斯双年展美国馆的畅想（2016/06/16）
+
 ***
 **欢迎加入威尼斯建筑双年展志愿者团队：** [ikuku志愿者招募](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)
