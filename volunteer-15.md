@@ -59,6 +59,8 @@
 
 ## 志愿者工作完成情况：
 * 王茜：1. 12位建筑师对威尼斯双年展美国馆的畅想（2016/06/16）
+        2. 威尼斯双年展 | 欧阳应霁 美食家眼中的再营造(2016/06/17)
+        3. 13例未来居住研究方案首次亮相 | 理想家参展威尼斯建筑双年展(2016/06/19)
 
 ***
 **欢迎加入威尼斯建筑双年展志愿者团队：** [ikuku志愿者招募](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)
