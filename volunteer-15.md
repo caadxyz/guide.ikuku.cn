@@ -5,19 +5,39 @@
 ![第十五届威尼斯建筑双年展](http://www.ikuku.cn/wp-content/uploads/user/u1497/POST/p258515/1464577198735603-250x200.jpg)
 
 
+
+## 志愿者工作最新进展：
+* [王茜](http://www.ikuku.cn/user/30537)： 
+  1. [12位建筑师对威尼斯双年展美国馆的畅想（2016/06/16）](http://www.ikuku.cn/post/115268)  
+  2. [威尼斯双年展 | 欧阳应霁 美食家眼中的再营造(2016/06/17)](http://www.ikuku.cn/article/weinisishuangnianzhanouyangyingmeishijiayanzhongdezaiyingzao)
+  3. [13例未来居住研究方案首次亮相 | 理想家参展威尼斯建筑双年展(2016/06/19)](http://www.ikuku.cn/post/115497)  
+
+* [杨茹](http://www.ikuku.cn/user/13836) [参与前期的招聘工作](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)     
+
+* [徐璐](http://www.ikuku.cn/user/36781)   
+  1. [威尼斯森林馆设计/Kjellander + Sjöberg](http://www.ikuku.cn/article/weinisisenlinguanshejikjellandersjeeberg)  
+  1. [威尼斯建筑双年展 追忆传奇女建筑师扎哈·哈迪德](http://www.ikuku.cn/article/weinisijianzhushuangnianzhanzhuiyichuanqinvjianzhushizhahaeehadide)    
+  1. [从仿生学到地缘政治：2016年威尼斯建筑双年展](http://www.ikuku.cn/article/congfangshengxue-daodiyuan-zhengzhi)  
+  1. [“平民设计　日用即道” – 第15届威尼斯国际建筑双年展中国馆开幕](http://www.ikuku.cn/article/pingmin-sheji-riyong-jidao)   
+  1. [威尼斯双年展·成都计划 | 我们还能为这个世界做些什么？](http://www.ikuku.cn/article/weinisishuangnianzhaneechengdujihuawomenhuannengweizhegeshijiezuoxieshime)   
+    
+* [朱麒](http://www.ikuku.cn/name/11125)     
+  1. [第15届威尼斯国际建筑双年展中国馆整体简介](http://www.ikuku.cn/article/di15jieweinisiguojijianzhushuangnianzhanzhongguoguanzhengtijianjie)  
+  1. [中国国家馆第15届威尼斯国际建筑双年展——参展人简介及作品](http://www.ikuku.cn/article/zhongguoguojiaguandi15jieweinisiguojijianzhushuangnianzhaneeeecanzhanrenjianjiejizuopin)   
+  1. [第15届威尼斯国际建筑双年展中国馆新闻通稿——“平民设计 日用即道”](http://www.ikuku.cn/article/di15jieweinisiguojijianzhushuangnianzhanzhongguoguanxinwentonggaoeeeepingminshejiriyongjidao)   
+  
+
 ## 志愿者团队：
 
-**负责及联络人：**徐璐 
+**负责及联络人：**[徐璐](http://www.ikuku.cn/user/36781) 
 
 
 **具体分区情况:**
 
 
-* A区(GIARDINI P4-5)： 张丽娟
-
-* C区(ARSENALE P6-7)： 孔令仪
-
-* D区(ARSENALE P8)： 王茜、项国超、位苗苗
+* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537))、项国超、位苗苗、 [朱麒](http://www.ikuku.cn/name/11125)   
+* A区(GIARDINI P4-5)： 张丽娟  
+* C区(ARSENALE P6-7)： 孔令仪  
 
 
 **现场报道：** 邢茜
@@ -57,10 +77,10 @@
 * 如有特殊情况或者确实找不到相关信息可与负责人徐璐说明
 * 活动结束后会根据每人工作成果推荐至“2016年度ikuku优秀志愿者评选”活动
 
-## 志愿者工作完成情况：
-* 王茜：1. 12位建筑师对威尼斯双年展美国馆的畅想（2016/06/16）
-        2. 威尼斯双年展 | 欧阳应霁 美食家眼中的再营造(2016/06/17)
-        3. 13例未来居住研究方案首次亮相 | 理想家参展威尼斯建筑双年展(2016/06/19)
 
-***
+
+
+----
+
+
 **欢迎加入威尼斯建筑双年展志愿者团队：** [ikuku志愿者招募](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)
