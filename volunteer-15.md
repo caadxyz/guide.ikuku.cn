@@ -12,6 +12,7 @@
   2. [威尼斯双年展 | 欧阳应霁 美食家眼中的再营造(2016/06/17)](http://www.ikuku.cn/article/weinisishuangnianzhanouyangyingmeishijiayanzhongdezaiyingzao)
   3. [13例未来居住研究方案首次亮相 | 理想家参展威尼斯建筑双年展(2016/06/19)](http://www.ikuku.cn/post/115497)  
   4. [威尼斯建筑双年展上的无人机机场原型——诺曼·福斯特(2016/06/21)](http://www.ikuku.cn/post/115633)
+  5. [威尼斯建筑双年展以色列馆：编织鸟巢结构](http://www.ikuku.cn/post/115765)
 
 * [杨茹](http://www.ikuku.cn/user/13836) [参与前期的招聘工作](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)     
 
