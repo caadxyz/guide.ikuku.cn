@@ -38,9 +38,9 @@
 **具体分区情况:**
 
 
-* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125)   
-* A区(GIARDINI P4-5)： 王丽闻  
-* C区(ARSENALE P6-7)： 
+* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125) 、位苗苗、项国超  
+* A区(GIARDINI P4-5)： 王丽闻、张丽娟  
+* C区(ARSENALE P6-7)： 孔令仪
 
 
 **现场报道: ** 邢茜
