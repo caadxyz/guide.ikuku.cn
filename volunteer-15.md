@@ -13,6 +13,7 @@
   3. [13例未来居住研究方案首次亮相 | 理想家参展威尼斯建筑双年展(2016/06/19)](http://www.ikuku.cn/post/115497)  
   4. [威尼斯建筑双年展上的无人机机场原型——诺曼·福斯特(2016/06/21)](http://www.ikuku.cn/post/115633)
   5. [威尼斯建筑双年展以色列馆：编织鸟巢结构(2016/06/23)](http://www.ikuku.cn/post/115765)
+  6. [西班牙获威尼斯建筑双年展金狮奖最佳国家馆(2016/06/25)](http://www.ikuku.cn/post/115838)
 
 * [杨茹](http://www.ikuku.cn/user/13836) [参与前期的招聘工作](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)     
 
