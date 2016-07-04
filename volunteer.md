@@ -14,7 +14,7 @@ We believe that opening up is a force, like a magnet to attract talents.
  * [ikuku志愿者操作手册](volunteer-7.md)
 * [进行中的志愿者项目](volunteer-2.md)
  * [ikuku社区媒体运营](volunteer-8.md)
- * [2016年5/6月驻场实习](volunteer-9.md)
+ * [2016年驻场实习](volunteer-9.md)
  * [90年代建筑群体观察](volunteer-10.md)
  * [线上:建筑之外](volunteer-11.md)
  * [15届威尼斯建筑双年展报道](volunteer-15.md) 
