@@ -12,6 +12,8 @@
   2. [威尼斯双年展 | 欧阳应霁 美食家眼中的再营造(2016/06/17)](http://www.ikuku.cn/article/weinisishuangnianzhanouyangyingmeishijiayanzhongdezaiyingzao)
   3. [13例未来居住研究方案首次亮相 | 理想家参展威尼斯建筑双年展(2016/06/19)](http://www.ikuku.cn/post/115497)  
   4. [威尼斯建筑双年展上的无人机机场原型——诺曼·福斯特(2016/06/21)](http://www.ikuku.cn/post/115633)
+  5. [威尼斯建筑双年展以色列馆：编织鸟巢结构(2016/06/23)](http://www.ikuku.cn/post/115765)
+  6. [西班牙获威尼斯建筑双年展金狮奖最佳国家馆(2016/06/25)](http://www.ikuku.cn/post/115838)
 
 * [杨茹](http://www.ikuku.cn/user/13836) [参与前期的招聘工作](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)     
 
@@ -36,9 +38,9 @@
 **具体分区情况:**
 
 
-* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、项国超、位苗苗、 [朱麒](http://www.ikuku.cn/name/11125)   
-* A区(GIARDINI P4-5)： 张丽娟  
-* C区(ARSENALE P6-7)： 孔令仪  
+* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125) 、位苗苗 
+* A区(GIARDINI P4-5)： 王丽闻  
+* C区(ARSENALE P6-7)： 
 
 
 **现场报道: ** 邢茜
@@ -70,7 +72,8 @@
 3. 上传时添加“威尼斯双年展”标签。
 
 ## 时间：
-* 2016年5月28日-2016年11月27日
+* 报道：2016年5月28日-2016年8月15日
+* 总结汇报：2016年8月16日-2016年9月1日
 
 ## 说明：
 * 每人每周至少上传一篇相关文章或其他形式的信息
