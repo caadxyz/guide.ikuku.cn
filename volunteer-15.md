@@ -32,6 +32,7 @@
   
 * [徐慧静](http://www.ikuku.cn/user/hazelxu)
   1. [simon velez–威尼斯建筑双年展上的竹建筑师](http://www.ikuku.cn/article/simonvelez-weinisijianzhushuangnianzhanshangdezhujianzhushi)
+
 ## 志愿者团队：
 
 **负责及联络人：**[徐璐](http://www.ikuku.cn/user/36781) 
