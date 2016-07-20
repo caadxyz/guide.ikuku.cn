@@ -14,6 +14,7 @@
   4. [威尼斯建筑双年展上的无人机机场原型——诺曼·福斯特(2016/06/21)](http://www.ikuku.cn/post/115633)
   5. [威尼斯建筑双年展以色列馆：编织鸟巢结构(2016/06/23)](http://www.ikuku.cn/post/115765)
   6. [西班牙获威尼斯建筑双年展金狮奖最佳国家馆(2016/06/25)](http://www.ikuku.cn/post/115838)
+  7. [CROX阔合“7+1设计师聚落”|“共享.再生”平行展登陆](http://www.ikuku.cn/article/croxkuohe71shejishijuluogongxiang-zaishengpingxingzhandenglu)
 
 * [杨茹](http://www.ikuku.cn/user/13836) [参与前期的招聘工作](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeee2016nianweinisijianzhushuangnianzhan)     
 
@@ -29,7 +30,8 @@
   1. [中国国家馆第15届威尼斯国际建筑双年展——参展人简介及作品](http://www.ikuku.cn/article/zhongguoguojiaguandi15jieweinisiguojijianzhushuangnianzhaneeeecanzhanrenjianjiejizuopin)   
   1. [第15届威尼斯国际建筑双年展中国馆新闻通稿——“平民设计 日用即道”](http://www.ikuku.cn/article/di15jieweinisiguojijianzhushuangnianzhanzhongguoguanxinwentonggaoeeeepingminshejiriyongjidao)   
   
-
+* [徐慧静](http://www.ikuku.cn/user/hazelxu)
+  1. [simon velez–威尼斯建筑双年展上的竹建筑师](http://www.ikuku.cn/article/simonvelez-weinisijianzhushuangnianzhanshangdezhujianzhushi)
 ## 志愿者团队：
 
 **负责及联络人：**[徐璐](http://www.ikuku.cn/user/36781) 
@@ -38,7 +40,7 @@
 **具体分区情况:**
 
 
-* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125) 、位苗苗 
+* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125)  
 * A区(GIARDINI P4-5)： 王丽闻  
 * C区(ARSENALE P6-7)： 
 
@@ -46,7 +48,7 @@
 **现场报道: ** 邢茜
 
 
-**相关活动(EVENTS):**     
+**相关活动(EVENTS):** 徐慧静(http://www.ikuku.cn/user/hazelxu)、肖玥    
     
 
 **前期工作:** 杨茹      
