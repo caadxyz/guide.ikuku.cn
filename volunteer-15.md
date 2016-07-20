@@ -48,7 +48,7 @@
 **现场报道: ** 邢茜
 
 
-**相关活动(EVENTS):** 徐慧静(http://www.ikuku.cn/user/hazelxu)、肖玥    
+**相关活动(EVENTS):** 徐慧静(http://www.ikuku.cn/user/hazelxu)、肖玥(http://www.ikuku.cn/user/40967)    
     
 
 **前期工作:** 杨茹      
