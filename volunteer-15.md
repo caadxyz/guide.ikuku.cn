@@ -33,6 +33,13 @@
 * [徐慧静](http://www.ikuku.cn/user/hazelxu)
   1. [simon velez–威尼斯建筑双年展上的竹建筑师](http://www.ikuku.cn/article/simonvelez-weinisijianzhushuangnianzhanshangdezhujianzhushi)
 
+## 加入ikuku志愿者你能得到什么？
+- 与全球建筑大师来一次亲密接触
+- 获得最前线建筑讯息
+- 认识更多兴趣志向相同的朋友
+- 获得ikuku"注册"志愿者称号
+- 获得ikuku社区以及各种建筑、摄影等专业大咖的关注
+
 ## 志愿者团队：
 
 **负责及联络人：**[徐璐](http://www.ikuku.cn/user/36781) 
