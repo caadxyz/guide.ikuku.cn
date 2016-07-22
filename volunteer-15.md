@@ -56,14 +56,14 @@
 
 
 * D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125)  
-* A区(GIARDINI P4-5)： 
-* C区(ARSENALE P6-7)： 
+* A区(GIARDINI P4-5)： [徐慧静](http://www.ikuku.cn/user/hazelxu)、[王茜](http://www.ikuku.cn/user/30537)
+* C区(ARSENALE P6-7)： [肖玥](http://www.ikuku.cn/user/40967)、[徐璐](http://www.ikuku.cn/user/36781)
 
 
 **现场报道: ** 邢茜
 
 
-**相关活动(EVENTS):** 徐慧静(http://www.ikuku.cn/user/hazelxu)、肖玥(http://www.ikuku.cn/user/40967)    
+**相关活动(EVENTS):** [徐慧静](http://www.ikuku.cn/user/hazelxu)、[肖玥](http://www.ikuku.cn/user/40967)    
     
 
 **前期工作:** 杨茹      
