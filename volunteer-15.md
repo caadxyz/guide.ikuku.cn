@@ -32,6 +32,12 @@
   
 * [徐慧静](http://www.ikuku.cn/user/hazelxu)
   1. [simon velez–威尼斯建筑双年展上的竹建筑师](http://www.ikuku.cn/article/simonvelez-weinisijianzhushuangnianzhanshangdezhujianzhushi)
+  2. [威尼斯双年展|alejandro aravenatance谈策展](http://www.ikuku.cn/article/weinisishuangnianzhanalejandroaravenatancetancezhan)
+  3. [转载|leeMundwiler——会呼吸的生态建筑](http://www.ikuku.cn/article/zhuanzaileemundwilereeeehuihuxideshengtaijianzhu)
+  4. [转载|unfinished——威尼斯双年展之西班牙馆](http://www.ikuku.cn/article/zhuanzaiunfinishedeeeeweinisishuangnianzhanzhixibanyaguan)
+  
+* [肖玥](http://www.ikuku.cn/user/40967)
+  1.[转载：孟买工作室于威尼斯双年展上致力于通过“即时景观”改善建筑品质](http://www.ikuku.cn/article/zhuanzaimengmaigongzuoshiyuweinisishuangnianzhanshangzhiliyutongguojishijingguangaishanjianzhupinzhi-3)
 
 ## 加入ikuku志愿者你能得到什么？
 - 与全球建筑大师来一次亲密接触
