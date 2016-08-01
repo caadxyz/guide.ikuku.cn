@@ -28,6 +28,9 @@
 * 起止日期：8月5日-8月20日
 * 主要渠道：上传作品至ikuku [www.ikuku.cn/ucenter.php?action=o2o](www.ikuku.cn/ucenter.php?action=o2o)
 
+**1元50片包邮积木购买网址**  
+
+
 **备注**
 * 志愿者可以同时报名参赛，或者报名评委
 * 评委不可以同时参赛
