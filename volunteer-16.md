@@ -26,7 +26,7 @@
 
 **竞赛报名**  
 * 起止日期：8月5日-8月20日
-* 主要渠道：上传作品至ikuku
+* 主要渠道：上传作品至ikuku [www.ikuku.cn/ucenter.php?action=o2o](www.ikuku.cn/ucenter.php?action=o2o)
 
 **备注**
 * 志愿者可以同时报名参赛，或者报名评委
@@ -40,3 +40,5 @@
 * 媒体支持: a\b\c\d\e\ef
 * 活动志愿者:越多越好
 
+**其他相关信息**  
+ikuku上的竞赛介绍:   
