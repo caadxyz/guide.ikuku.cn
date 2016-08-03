@@ -47,8 +47,8 @@
 **成员名单**   
 
 * 组委会: ikuku志愿者小组成员(徐璐、王茜、马海东) 、李想、曹翔
-* 支持单位: 砖块积木、ikuku  
-* IT技术: 马海东
+* 支持单位: [砖块积木](http://www.ikuku.cn/user/18326)、[ikuku.cn](http://www.ikuku.cn)    
+* IT技术: [马海东](http://www.ikuku.cn/user/1510)  
 * 媒体支持: a\b\c\d\e\ef
 * 活动志愿者:越多越好
 
