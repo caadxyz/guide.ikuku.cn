@@ -1,10 +1,11 @@
 # 砖块积木+ikuku
 
-### 主题设定:pavilion  
+**主题**    
 
-**竞赛简介**  
+* Pavilion （亭子，停留空间，展馆…）  
+* 一个小小的亭子，或者可以说停留空间，你能创造出不一样的形态和感觉吗？它一定有4个支柱吗？一定有一个密实的顶棚吗？一定是4面开敞的吗？  
 
-**条件设定**  
+**条件**  
 * 使用50片积木搭建一个临时构筑物(pavilion)  
 
 ----
@@ -50,9 +51,10 @@
 * 支持单位: [砖块积木](http://www.ikuku.cn/user/18326)、[ikuku.cn](http://www.ikuku.cn)    
 * IT技术: [马海东](http://www.ikuku.cn/user/1510)  
 * 媒体支持: a\b\c\d\e\ef
-* 活动志愿者:越多越好
+* 活动宣传志愿者:越多越好
 
 **其他相关信息**  
-ikuku上的竞赛详情介绍:  http://www.ikuku.cn/activity/pavilion-ikukujm  
-作品上传教程:http://guide.ikuku.cn/ikukujm.html 
-ikuku志愿者团队介绍: http://guide.ikuku.cn/volunteer-6.html    
+* ikuku上的竞赛详情介绍:  http://www.ikuku.cn/activity/pavilion-ikukujm  
+* 评委招募: http://www.ikuku.cn/post/119625  
+* 作品上传教程:http://guide.ikuku.cn/ikukujm.html   
+* ikuku志愿者团队介绍: http://guide.ikuku.cn/volunteer-6.html    
