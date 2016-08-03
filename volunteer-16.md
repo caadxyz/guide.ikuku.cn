@@ -54,4 +54,5 @@
 
 **其他相关信息**  
 ikuku上的竞赛详情介绍:  http://www.ikuku.cn/activity/pavilion-ikukujm  
-作品上传教程:http://guide.ikuku.cn/ikukujm.html   
+作品上传教程:http://guide.ikuku.cn/ikukujm.html 
+ikuku志愿者团队介绍: http://guide.ikuku.cn/volunteer-6.html    
