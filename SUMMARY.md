@@ -54,6 +54,7 @@
    * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](volunteer-12.md)
    * [线上:China1000](volunteer-13.md)
    * [砖块积木+ikuku](volunteer-16.md)
+     * [作品上传教程](ikukujm.md))
    * [其他](volunteer-14.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
   * [加入核心团队](volunteer-0.md)
