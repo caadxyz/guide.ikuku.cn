@@ -1,4 +1,4 @@
-# 作品上传教程
+# 积木建模大赛作品上传教程
 
 ### 步骤1 注册ikuku账号及登陆 http://www.ikuku.cn/userlogin.php  
 
