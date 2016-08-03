@@ -53,7 +53,7 @@
    * [15届威尼斯建筑双年展](volunteer-15.md) 
    * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](volunteer-12.md)
    * [线上:China1000](volunteer-13.md)
-   * [砖块积木+ikuku](volunteer-16.md)
+   * [pavilion:积木建模大赛](volunteer-16.md)
      * [作品上传教程](ikukujm.md))
    * [其他](volunteer-14.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
