@@ -63,7 +63,14 @@
 
 
 **其他相关信息**  
+
 * ikuku上的竞赛详情介绍:  http://www.ikuku.cn/activity/pavilion-ikukujm  
 * 评委招募: http://www.ikuku.cn/post/119625  
 * 作品上传教程:http://guide.ikuku.cn/ikukujm.html   
-* ikuku志愿者团队介绍: http://guide.ikuku.cn/volunteer-6.html    
+* ikuku志愿者团队介绍: http://guide.ikuku.cn/volunteer-6.html 
+
+----
+
+**已确认参赛名单，post号及订单号**
+
+1.[岳一然](http://www.ikuku.cn/user/41340), 120029, 4006312001201608050645107029
