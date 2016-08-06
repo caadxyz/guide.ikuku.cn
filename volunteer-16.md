@@ -58,14 +58,14 @@
 * 支持单位: [砖块积木](http://www.ikuku.cn/user/18326)、[ikuku.cn](http://www.ikuku.cn)    
 * IT技术: [马海东](http://www.ikuku.cn/user/1510)  
 * 媒体支持: 80后 
-          正反面儿
-          旁三门（http://mp.weixin.qq.com/s?__biz=MzI4ODM2MzI0NQ==&mid=2247484018&idx=2&sn=09f4336f233e149a41f950437e5e2f71&scene=0#wechat_redirect）
-          建筑师杂志
-          知筑导航（http://mp.weixin.qq.com/s?__biz=MzIwMDQzMjg1Ng==&mid=2649954203&idx=1&sn=6ecc8bda3fc96093fbd237a5959c49ec&scene=0#wechat_redirect）
-          建筑头条（http://mp.weixin.qq.com/s?__biz=MzI2NDE2ODA5NQ==&mid=2651378973&idx=1&sn=c4ec831b9c0d547946c479f29d487724&scene=0#wechat_redirect）
-          设计物语
-          设计竞赛（http://mp.weixin.qq.com/s?__biz=MzAxNDExMDk1Mg==&mid=2650201268&idx=1&sn=976a58e5cc93987869600eca79a97983&scene=1&srcid=0806reXoGuRJuf3rX1Mixg8I#wechat_redirect）
-          archrace（http://mp.weixin.qq.com/s?__biz=MzA5MTA5MTg2NA==&mid=2650839760&idx=2&sn=c99faf0da7ffffeb944a20decbcd8662&scene=0#wechat_redirect）
+            正反面儿
+            旁三门（http://mp.weixin.qq.com/s?__biz=MzI4ODM2MzI0NQ==&mid=2247484018&idx=2&sn=09f4336f233e149a41f950437e5e2f71&scene=0#wechat_redirect）
+            建筑师杂志
+            知筑导航（http://mp.weixin.qq.com/s?__biz=MzIwMDQzMjg1Ng==&mid=2649954203&idx=1&sn=6ecc8bda3fc96093fbd237a5959c49ec&scene=0#wechat_redirect）
+            建筑头条（http://mp.weixin.qq.com/s?__biz=MzI2NDE2ODA5NQ==&mid=2651378973&idx=1&sn=c4ec831b9c0d547946c479f29d487724&scene=0#wechat_redirect）
+            设计物语
+            设计竞赛（http://mp.weixin.qq.com/s?__biz=MzAxNDExMDk1Mg==&mid=2650201268&idx=1&sn=976a58e5cc93987869600eca79a97983&scene=1&srcid=0806reXoGuRJuf3rX1Mixg8I#wechat_redirect）
+            archrace（http://mp.weixin.qq.com/s?__biz=MzA5MTA5MTg2NA==&mid=2650839760&idx=2&sn=c99faf0da7ffffeb944a20decbcd8662&scene=0#wechat_redirect）
 * ikuku专栏支持: 罗小姐库言库语、每筑建文、全能小海龟、材料在线、影像建筑
 * 活动宣传志愿者:冯毅、张万蓉苗、金航、郭根英、金树能、梁琳、谢翊、李慧、谭靖芝、张静婷
 
