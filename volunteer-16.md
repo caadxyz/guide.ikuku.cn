@@ -60,7 +60,7 @@
 * 媒体支持: 80后 
             正反面儿
             旁三门（http://mp.weixin.qq.com/s?__biz=MzI4ODM2MzI0NQ==&mid=2247484018&idx=2&sn=09f4336f233e149a41f950437e5e2f71&scene=0#wechat_redirect）
-            建筑师杂志
+            建筑师杂志 
             知筑导航（http://mp.weixin.qq.com/s?__biz=MzIwMDQzMjg1Ng==&mid=2649954203&idx=1&sn=6ecc8bda3fc96093fbd237a5959c49ec&scene=0#wechat_redirect）
             建筑头条（http://mp.weixin.qq.com/s?__biz=MzI2NDE2ODA5NQ==&mid=2651378973&idx=1&sn=c4ec831b9c0d547946c479f29d487724&scene=0#wechat_redirect）
             设计物语
