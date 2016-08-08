@@ -54,7 +54,8 @@
 * IT技术: [马海东](http://www.ikuku.cn/user/1510)  
 * 媒体支持: 
   1. 80后 
-  2. 正反面儿
+  2. 正反面儿 
+    （http://mp.weixin.qq.com/s?__biz=MjM5ODk5NDM1Ng==&mid=2649846816&idx=2&sn=3f7b3a434974b17a68a6d36fad9130b0&scene=1&srcid=0808I4IlRRmY11TVVsgco8cS#wechat_redirect）
   3. 旁三门
     （http://mp.weixin.qq.com/s?__biz=MzI4ODM2MzI0NQ==&mid=2247484018&idx=2&sn=09f4336f233e149a41f950437e5e2f71&scene=0#wechat_redirect）
   4. 建筑师杂志 
@@ -68,7 +69,7 @@
   9. archrace
     （http://mp.weixin.qq.com/s?__biz=MzA5MTA5MTg2NA==&mid=2650839760&idx=2&sn=c99faf0da7ffffeb944a20decbcd8662&scene=0#wechat_redirect）
 * ikuku专栏支持: 罗小姐库言库语、每筑建文、全能小海龟、材料在线、影像建筑
-* 活动宣传志愿者:冯毅、张万蓉苗、金航、郭根英、金树能、梁琳、谢翊、李慧、谭靖芝、张静婷
+* 活动宣传志愿者:冯毅、张万蓉苗、金航、郭根英、金树能、梁琳、谢翊、李慧、谭靖芝、张静婷、何裕玲、杨帆、陈仁涨、王昊屹、李凯林、黄毅
 
 **ikuku评委组**
 
@@ -109,6 +110,8 @@
 19. [永不止步](http://www.ikuku.cn/user/37651), 37651, post暂无,  10303670180392553306 
 20. [caiyu20](http://www.ikuku.cn/user/41441), 41441, post暂无,  10303670180392556790 
 21. [WanderCece](http://www.ikuku.cn/user/41570),41570, post暂无,  4004172001201608070777595677 
+22. [Claire](http://www.ikuku.cn/user/41634), 41634, post暂无,  10303670180392646371 
+23. [Sleepy](http://www.ikuku.cn/user/41637), 41637, post暂无,  4009202001201608080873427355 
 
 
 
@@ -246,6 +249,18 @@
 122. [fool](http://www.ikuku.cn/user/41616), 41616, 151024,  10303670180392634750 
 123. [单向街—寒](http://www.ikuku.cn/user/5425), 5425, 119720,  10303670180392456004 
 124. [崔博雯](http://www.ikuku.cn/user/41601), 41601, 151013,  10303670180392619996 
+125. [UFO](http://www.ikuku.cn/user/41628), 41628, 151037,  10303670180392644031 
+126. [树也](http://www.ikuku.cn/user/41629), 41629, 151033,  10303670180392645510 
+127. [满梁](http://www.ikuku.cn/user/15947), 15947, 151045,  10303670180392645897 
+128. [snnn](http://www.ikuku.cn/user/41631), 41631, 151035,  10303670180392645563 
+129. [王博凯](http://www.ikuku.cn/user/8876), 8876, 151039,  10303670180392645952 
+130. [shirleyhu](http://www.ikuku.cn/user/41630), 41630, 151038,  10303670180392646064 
+131. [胡鹏胡鹏不是king](http://www.ikuku.cn/user/14235), 14235, 151040,  10303670180392645891 
+132. [roo](http://www.ikuku.cn/user/41636), 41636, 151042,  10303670180392646243 
+133. [穆羽宸](http://www.ikuku.cn/user/41638), 41638, 151044,  10303670180392645686 
+134. [--溪--YAN--溪--](http://www.ikuku.cn/user/35491), 35491, 151048,  10303670180392647349 
+135. [小邓](http://www.ikuku.cn/user/41635), 41635, 151047,  10303670180392646998 
+136. [刘鹏达与小阿狸](http://www.ikuku.cn/user/41647), 41647, 151051,  10303670180392648654 
 
 
 ------
