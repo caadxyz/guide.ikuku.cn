@@ -53,7 +53,8 @@
 * 支持单位: [砖块积木](http://www.ikuku.cn/user/18326)、[ikuku.cn](http://www.ikuku.cn)    
 * IT技术: [马海东](http://www.ikuku.cn/user/1510)  
 * 媒体支持: 
-  1. 80后 
+  1. 80后
+    （http://mp.weixin.qq.com/s?__biz=MzAxNzMyNzc1Mg==&mid=2649924341&idx=1&sn=490f5beb033e58256728a91cfffc3ac5&scene=1&srcid=081064V3n1BoVY4eQDV7rmRG#wechat_redirect）
   2. 正反面儿 
     （http://mp.weixin.qq.com/s?__biz=MjM5ODk5NDM1Ng==&mid=2649846816&idx=2&sn=3f7b3a434974b17a68a6d36fad9130b0&scene=1&srcid=0808I4IlRRmY11TVVsgco8cS#wechat_redirect）
   3. 旁三门
