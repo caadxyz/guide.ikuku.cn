@@ -12,6 +12,10 @@
 * [线上:China1000](volunteer-13.md)
 * [砖块积木+ikuku](volunteer-16.md)
 * [其他](volunteer-14.md)
+
+-----
+
+更多项目: [开放学院项目](http://www.caad.xyz/content/academy.html)  
  
 
 
