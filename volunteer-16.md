@@ -487,4 +487,6 @@
 
 
 ------
-
+**规格不符合名单**
+1. [麦子-2](http://www.ikuku.cn/user/41833), http://www.ikuku.cn/post/151992
+2. [树也](http://www.ikuku.cn/user/41629),  http://www.ikuku.cn/post/151033
