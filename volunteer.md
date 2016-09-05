@@ -3,7 +3,7 @@
 >我们相信开放是一种力量，象磁铁一样吸引着优秀的人才   
 We believe that opening up is a force, like a magnet to attract talents.  
 
-
+**我们的愿景**:建设以作品为索引的线上社区，改变传统建筑设计行为。
 
 -----
 
