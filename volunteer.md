@@ -1,5 +1,7 @@
 # 加入ikuku.cn|在库言库团队
 
+![magnet](images/magnet.jpg)
+
 >我们相信开放是一种力量，象磁铁一样吸引着优秀的人才   
 We believe that opening up is a force, like a magnet to attract talents.  
 
