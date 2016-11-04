@@ -55,6 +55,7 @@
    * [线上:China1000](volunteer-13.md)
    * [pavilion:积木建模大赛](volunteer-16.md)
      * [作品上传教程](ikukujm.md)
+   * [识古寻踪](volunteer-18.md)
    * [半月答](volunteer-17.md)
    * [其他](volunteer-14.md)
   * [如何成为ikuku评委?](volunteer-3.md)  
