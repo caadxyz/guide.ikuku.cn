@@ -82,7 +82,7 @@
 * 志愿者可以同时报名参赛
 
 ## 成员名单
-* 组委会：[张乙涵](http://www.ikuku.cn/user/42150)、[肖玥](http://www.ikuku.cn/user/40967)、张涛
+* 组委会：[张乙涵](http://www.ikuku.cn/user/42150)、[肖玥](http://www.ikuku.cn/user/40967)、[张涛](http://www.ikuku.cn/user/bamboo)
 * 指导：[马海东](http://www.ikuku.cn/user/1510)、[徐璐](http://www.ikuku.cn/user/36781)
 * 支持单位: [ikuku.cn|在库言库](http://ikuku.cn)、（待定）
 * IT技术:[马海东](http://www.ikuku.cn/user/1510)
