@@ -21,9 +21,11 @@
   * [如何求职与招聘?](ucenter-2.md)
   
 * [ikuku电商手册](shop.md)  
+ 
   * [如何卖东西？](shop-2.md)
   * [如何买东西？](shop-1.md)
-  * [免责声明](shop-3.md)
+  * [ikuku精选课服务声明 ](statement.md)
+  * [免责声明](shop-3.md) 
   
    
 
