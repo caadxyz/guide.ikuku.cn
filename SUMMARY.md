@@ -54,7 +54,7 @@
    * [15届威尼斯建筑双年展](volunteer-15.md) 
    * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](volunteer-12.md)
    * [线上:China1000](volunteer-13.md)
-   * [pavilion:积木建模大赛](volunteer-16.md)
+   * [“识古寻踪”中国古建筑游记大赛](volunteer-16.md)
    * [竞赛:识古寻踪](volunteer-18.md)
    * [栏目:半月答](volunteer-17.md)
    * [其他](volunteer-14.md)
