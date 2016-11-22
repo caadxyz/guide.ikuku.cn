@@ -22,6 +22,7 @@ We believe that opening up is a force, like a magnet to attract talents.
  * [砖块积木+ikuku](volunteer-16.md)
  * [竞赛:识古寻踪](volunteer-18.md)
  * [栏目:半月答](volunteer-17.md)
+ * [竞赛:大学生作业评选](volunteer-19.md)
  * [其他](volunteer-14.md)
 * [ikuku志愿者操作手册](volunteer-7.md)
 * [如何成为ikuku评委?](volunteer-3.md)  
