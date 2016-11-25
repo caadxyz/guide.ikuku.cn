@@ -17,12 +17,13 @@
 * [ikuku社区服务手册](ucenter.md)
     * [如何组织及报名活动?](ucenter-1.md)
     * [委托设计及设计竞赛](ucenter-3.md)
-        * [竞赛作品上传教程](ikukujm.md)
+        * [竞赛作品上传教程](ikuku-comp.md)  
+        * [竞赛活动免责声明](ucenter-4.md)
     * [如何求职与招聘?](ucenter-2.md)
 * [ikuku电商手册](shop.md)
     * [如何卖东西？](shop-2.md)
     * [如何买东西？](shop-1.md)
-    * [免责声明](shop-3.md)
+    * [电商免责声明](shop-3.md)
     * [ikuku精选课服务声明 ](statement.md)
 
 -----
