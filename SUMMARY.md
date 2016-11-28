@@ -19,7 +19,7 @@
     * [委托设计及设计竞赛](ucenter-3.md)
         * [竞赛作品上传教程：项目、方案](ikuku-comp.md)  
         * [竞赛作品上传教程：文章](ikuku-comp-article.md)
-        * [竞赛活动免责声明](ucenter-4.md)
+        * [竞赛活动服务条款](ucenter-4.md)
         * [竞赛活动组织方Q&A](ucenter-5.md)
     * [如何求职与招聘?](ucenter-2.md)
 * [ikuku电商手册](shop.md)
