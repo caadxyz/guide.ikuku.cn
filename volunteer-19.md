@@ -55,13 +55,17 @@ SetchUp正版软件一套
 
 赞助商：设计e周、每筑建文（更新中）  
 
+![sponsor](images/homework/sponsor.jpg)
+
 承办方：ikuku.cn|在库言库  
 
 组委会：门文龙、杨婧、徐璐、徐慧静  
 
 指导：马海东  
 
-媒体支持：设计e周、每筑建文、建筑师杂志、UED杂志、建筑之旅、几凡设计教育、全能小海龟、清华住区杂志、砖块积木、建道设计ArchiDogs（更新中）  
+媒体支持：设计e周、每筑建文、建筑师杂志、UED杂志、建筑之旅、几凡设计教育、全能小海龟、清华住区杂志、砖块积木、建道设计ArchiDogs（更新中）    
+![media](images/homework/media.jpg)
+
 
 ikuku志愿者： 
 
