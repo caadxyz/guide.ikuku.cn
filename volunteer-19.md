@@ -53,7 +53,7 @@ SetchUp正版软件一套
 ### 竞赛组织名单  
 总冠名：设计e周  
 
-赞助商：设计e周、每筑建文（更新中）  
+赞助商：设计e周、SketchUp中国、每筑建文（更新中）  
 
 ![sponsor](images/homework/sponsor.jpg)
 
