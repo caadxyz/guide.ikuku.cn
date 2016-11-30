@@ -40,7 +40,8 @@
 
 ### 竞赛奖项设置  
 * **一等奖 1名（SetchUp 中国官方网站赞助）**  
-SetchUp正版软件一套  
+SetchUp 2017 Pro正版软件一套  
+简介：Trimble SketchUp. 3D for everyone.    
 
 * **二等奖 3名（奖项由设计e周赞助）**  
 每名获奖者可获得一个直播程名额（获奖者可在获奖名单公布之日起，一年内任选1个直播课程，联系ikuku上课即可，名额可转让。）
@@ -53,7 +54,7 @@ SetchUp正版软件一套
 ### 竞赛组织名单  
 总冠名：设计e周  
 
-赞助商：设计e周、每筑建文（更新中）  
+赞助商：设计e周、SketchUp中国、每筑建文（更新中）  
 
 ![sponsor](images/homework/sponsor.jpg)
 
