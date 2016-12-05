@@ -39,9 +39,8 @@
 * 如果收到的参赛作品较多，ikuku会将评委分成多个小组，每个小组选出符合的奖项要求的作品后，再汇总二次评审出最后的奖项  
 
 ### 竞赛奖项设置  
-* **一等奖 1名（SetchUp 中国官方网站赞助）**  
-SetchUp 2017 Pro正版软件一套  
-简介：Trimble SketchUp. 3D for everyone.    
+* **一等奖 1名（由 Trimble(天宝）公司赞助）**  
+简介：SketchUp 于2012年被 Trimble公司从 Google收购。Trimble SketchUp, 3D for Everyone。    
 
 * **二等奖 3名（奖项由设计e周赞助）**  
 每名获奖者可获得一个直播程名额（获奖者可在获奖名单公布之日起，一年内任选1个直播课程，联系ikuku上课即可，名额可转让。）
@@ -60,7 +59,7 @@ SetchUp 2017 Pro正版软件一套
 
 承办方：ikuku.cn|在库言库  
 
-组委会：门文龙、杨婧、徐璐、徐慧静  
+组委会：门文龙、杨婧、徐璐、徐慧静、郑晓丹  
 
 指导：马海东  
 
@@ -71,7 +70,9 @@ SetchUp 2017 Pro正版软件一套
 ikuku志愿者： 
 
 ### 联系组委会  
-邮箱：ikukujsz@163.com
+邮箱：ikukujsz@163.com  
+私信ikuku账号：志愿者竞赛策划小组  
+私信微博账号：ikuku志愿者竞赛策划小组  
 
 
 
