@@ -5,7 +5,7 @@
 
 
 ### 设计需求方  
-详情见: http://guide.ikuku.cn/o2o.html
+详情见: http://www.ikuku.cn/o2o.php  
 
 
 
