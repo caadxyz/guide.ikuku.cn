@@ -9,7 +9,8 @@
 
 ### 2015 
 * 最佳志愿者: [杨婧](http://www.ikuku.cn/name/10836)  
-* 评委：[门文龙](http://www.ikuku.cn/user/fengdian)
+* 评委：[门文龙](http://www.ikuku.cn/user/fengdian)  
+* 详情: http://www.ikuku.cn/article/2015ikukuyouxiuzhiyuanzhemingdan  
 
 ### 2016 
 * 最佳志愿者: 评审中...

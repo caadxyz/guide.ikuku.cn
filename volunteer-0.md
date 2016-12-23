@@ -15,7 +15,7 @@
 我们团队透明开放，相信可以通过聚焦每个人的能量而产生质变。
 
   * 刘非: 运营  
-  * [门文龙](http://www.ikuku.cn/user/xiaomen): 编辑|客服  
+  * [门文龙](http://www.ikuku.cn/user/fengdian): 编辑|客服  
 
 ----
 
