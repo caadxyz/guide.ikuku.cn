@@ -20,13 +20,3 @@
 
 * 完成后的任务会出现在这个栏目中。 
 
-
-### 大事记  
-
-* [建筑中国 1000 (2000-2015)](http://www.ikuku.cn/activity/beijing-guojishejizhou-jianzhuzhongguo-1000) 
-* [ikuku.cn | 志愿者在行动——“建筑之外”](http://www.ikuku.cn/activity/ikuku-cnzhiyuanzhezaixingdongeeeejianzhuzhiwai)  
-* [尼泊尔-西藏地震 全球建筑师灾后重建设计方案 紧急援助活动](http://www.ikuku.cn/activity/niboer-xicangdizhenquanqiujianzhushizaihouzhongjianshejifanganjinjiyuanzhuhuodong)
-* [想让您的作品带着您的签名传遍中国吗？_砖块积木 包装设计大赛](http://www.ikuku.cn/activity/xiangrangnindezuopindaizhuonindeqianmingchuanbianzhongguoma_zhuankuaijimubaozhuangshejidasai)
-* [ikuku带我一起成长~](http://www.ikuku.cn/article/ikukudaiwoyiqichengchang) 
-* [2015 ikuku优秀志愿者名单](http://www.ikuku.cn/article/2015ikukuyouxiuzhiyuanzhemingdan)  
-* [2016年ikuku招募媒体运营志愿者](http://www.ikuku.cn/activity/2016nianikukuzhaomumeitiyunyingzhiyuanzhe)

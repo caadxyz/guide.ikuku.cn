@@ -13,7 +13,7 @@
   * 实习与工作招聘
   * 我的工作台: ikuku.cn移动版    
   
------  
+------  
 
     
 <img src="images/qrcode_for_gh_a8ef10bd22dc_430.jpg" class="qrcode_pic" width="90" height="90">   
