@@ -36,6 +36,20 @@ ikuku带我一起成长~
 
 --杨婧  
 
+**2015年度优秀志愿者**  
+
+* 驻场实习：[晁华绪](http://www.ikuku.cn/name/9551)、[杨慧琳](http://www.ikuku.cn/name/9675)、[安然]  
+* 尼泊尔竞赛志愿者：[王晴](http://www.ikuku.cn/name/9754)、[Jesme]  
+* 90s志愿者：[徐传语]  
+* 对接事务所事宜志愿者：[梁诗维](http://www.ikuku.cn/name/9703)、[杨婧](http://www.ikuku.cn/name/10836)  
+* China1000志愿者：[于佳涵](http://www.ikuku.cn/name/9640)    
+
+**2016年度ikuku志愿者参与项目**  
+
+* [线上:China1000](volunteer-13.md)  
+* 90年代建筑群体观察(volunteer-10.md)  
+* 尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动(volunteer-12.md)  
+* ikuku.cn|在库言库:海报(volunteer-14.md)
 
 ### 2016年度 
 * 2016年度最佳志愿者: [张乙涵](http://www.ikuku.cn/name/11925)
