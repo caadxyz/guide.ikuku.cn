@@ -72,6 +72,7 @@ ikuku带我一起成长~
   * [郑晓丹](http://www.ikuku.cn/name/12189)
   * [司龙龙](http://www.ikuku.cn/name/12045)   
   * [李想](http://www.ikuku.cn/user/41218) , 推荐人：[王茜](http://www.ikuku.cn/name/11481),[徐璐](http://www.ikuku.cn/name/10976)
+  * [萧倩(](http://www.ikuku.cn/user/ayuerdeshijie), 推荐人：[肖玥](http://www.ikuku.cn/name/11795)   
     
 
 -----
