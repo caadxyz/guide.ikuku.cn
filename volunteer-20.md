@@ -47,9 +47,9 @@ ikuku带我一起成长~
 **2016年度ikuku志愿者参与项目**  
 
 * [线上:China1000](volunteer-13.md)  
-* 90年代建筑群体观察(volunteer-10.md)  
-* 尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动(volunteer-12.md)  
-* ikuku.cn|在库言库:海报(volunteer-14.md)
+* [90年代建筑群体观察](volunteer-10.md)  
+* [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](volunteer-12.md)  
+* [ikuku.cn|在库言库:海报](volunteer-14.md)
 
 ### 2016年度 
 * 2016年度最佳志愿者: [张乙涵](http://www.ikuku.cn/name/11925)
@@ -117,13 +117,89 @@ ikuku带我一起成长~
 
 **2016年度ikuku志愿者主导项目**  
 
-* [志愿者系列采访建筑师](interview.md)    
-* [栏目:半月答](volunteer-17.md) 
-* [15届威尼斯建筑双年展ikuku报道](/volunteer-15.md)    
-* [ikuku DIY专栏](http://www.ikuku.cn/tag/diy)    
-* [“识古寻踪”中国古建筑游记大赛](volunteer-18.md)    
-* [ikuku+砖块积木大赛](volunteer-16.md)    
-* [大学生作业评选(三四年级)](volunteer-19.md)  
+**项目:[志愿者系列采访建筑师](interview.md)**      
+
+**项目:[栏目:半月答](volunteer-17.md)**   
+* 策划：[姜伊](http://www.ikuku.cn/user/42132)，[马海东](http://www.ikuku.cn/user/1510)  
+* 设计：Astro、[李雅琪](http://www.ikuku.cn/user/44401)  
+* 志愿者招募: 李雅琪  
+* 外联：小门、姜伊 
+
+
+**项目:[15届威尼斯建筑双年展ikuku报道](/volunteer-15.md)**  
+* 负责及联络人：[徐璐](http://www.ikuku.cn/user/36781) 
+* 具体分区情况:
+* D区(ARSENALE P8)： [王茜](http://www.ikuku.cn/user/30537)、 [朱麒](http://www.ikuku.cn/name/11125)  
+* A区(GIARDINI P4-5)： [徐慧静](http://www.ikuku.cn/user/hazelxu)、[王茜](http://www.ikuku.cn/user/30537)
+* C区(ARSENALE P6-7)： [肖玥](http://www.ikuku.cn/user/40967)、[徐璐](http://www.ikuku.cn/user/36781)
+
+* 现场报道: 邢茜   
+* 前期工作:杨茹    
+
+**项目:[ikuku DIY专栏](http://www.ikuku.cn/tag/diy)**    
+* 发起人: [肖玥](http://www.ikuku.cn/name/11795) 
+
+   
+**项目:[“识古寻踪”中国古建筑游记大赛](volunteer-18.md)**      
+
+* 组委会：[张乙涵](http://www.ikuku.cn/user/42150)、[肖玥](http://www.ikuku.cn/user/40967)、[张涛](http://www.ikuku.cn/user/bamboo)
+* 指导：[马海东](http://www.ikuku.cn/user/1510)、[徐璐](http://www.ikuku.cn/user/36781)
+* 评委:荣朝晖F伯爵建筑师罗小姐邓在马海东李松
+* 支持单位: [ikuku.cn|在库言库](http://ikuku.cn)
+* IT技术:[马海东](http://www.ikuku.cn/user/1510)
+* 媒体支持:
+* 建筑师疯人院
+* Assbook设计食堂
+* 寻展古村落
+* 建筑学院
+* 山东建筑EDU
+* 欣建筑（台湾）
+* 建筑与艺术
+* 专筑
+* 清华大学—住区杂志
+* 建筑师杂志
+* 知筑导航
+* 建筑头条
+* archrace
+* 设计e周
+* ikuku专栏：砖块积木、全能小海龟、每筑建文
+* ikuku志愿者：王钊、陈仁涨、梁晓琳、萧倩如、郑彤、罗天宇、梁荷昕、陈黎辉、李婧华、汪晨、戎思琦、王书琪、王新宇、赵越、徵羽、李怡慷、金恩珠、邓宇天、李晨鸣、夏芷甜、王争、陈雅乔、王誉雯、江涛、聂书琪、徐凯标、李嘉平、刘炆、刘博文
+* 感谢：刘思思、司龙龙
+
+**项目:[ikuku+砖块积木大赛](volunteer-16.md)**     
+
+* 组委会: ikuku志愿者小组成员(徐璐、王茜、马海东) 、李想、曹翔
+* 支持单位: [砖块积木](http://www.ikuku.cn/user/18326)、[ikuku.cn](http://www.ikuku.cn)    
+* IT技术: [马海东](http://www.ikuku.cn/user/1510)  
+* 媒体支持: 
+  1. 80后
+  2. 正反面儿 
+  3. 旁三门
+  4. 建筑师杂志 
+  5. 知筑导航
+  6. 建筑头条
+  7. 设计物语
+  8. 设计竞赛
+  9. archrace
+
+* ikuku专栏支持: 罗小姐库言库语、每筑建文、全能小海龟、材料在线、影像建筑
+* 活动宣传志愿者:张万蓉苗、郭根英、金树能、梁琳、谢翊、谭靖芝、杨帆、陈仁涨、 刘铭、范小凤、李麦琦、夏芷甜、刘佳海、吴杰铮、吴宁、禹英杰、张佳源
+
+* ikuku评委组    
+焦春峰、十二月的星空3333、初子圆、窦志、荣朝晖、F伯爵、建筑师罗小姐、卜骁骏、傅钟萍、牛寿雁、冯果川、刘玉龙、李舟、邓在、徐晋巍、苏童、刘力博士、何红才、叶依谦、许义兴、段晓明、全能小海龟、张灿辉、马海东、彭乐乐、韩舒宁、张海翱、黄会明、东梅、小写李伟
+
+ 
+
+**项目:[大学生作业评选(三四年级)](volunteer-19.md)**  
+
+* 总冠名：设计e周  
+* 赞助商：设计e周、SketchUp中国、每筑建文（更新中）  
+* 承办方：ikuku.cn|在库言库  
+* 组委会：门文龙、杨婧、徐璐、徐慧静、郑晓丹  
+* 指导：马海东  
+* 媒体支持：设计e周、每筑建文、建筑师杂志、UED杂志、建筑之旅、几凡设计教育、全能小海龟、清华住区杂志、砖块积木、建道设计ArchiDogs、建筑师疯人院、专筑（更新中）    
+
+
 
 
 ----
@@ -131,7 +207,6 @@ ikuku带我一起成长~
 
 
 
-=======
 ### 2017  
 
 ...
