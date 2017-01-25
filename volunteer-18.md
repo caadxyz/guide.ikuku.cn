@@ -74,6 +74,56 @@
 * 奖项设置将根据实际赞助、众筹情况进行调整
 
 
+
+**获奖作品名单**
+
+**特等奖(一名)**  
+* [逝去与重生——鲁南石板房](http://www.ikuku.cn/post/165182)   
+![鲁南石板房](http://www.ikuku.cn/wp-content/uploads/user_upload/19093/165182/1483152749147999-250x200.jpg)
+
+
+**绘声绘色奖(两名)**   
+* [山西应县佛宫寺释迦塔及附近古建筑探寻笔记](http://www.ikuku.cn/post/162888)  
+![山西应县佛宫寺释迦塔及附近古建筑探寻笔记](http://www.ikuku.cn/wp-content/uploads/user_upload/47414/162888/1482218012536366-250x200.jpg)  
+* [梦见佛光](http://www.ikuku.cn/post/162333)   
+![梦见佛光](http://www.ikuku.cn/wp-content/uploads/user_upload/41716/162333/1481211465976922-250x200.jpg)
+
+
+
+**广闻博见奖(一名)**  
+* [鲁克沁小镇——来自西域的音乐发源地](http://www.ikuku.cn/post/165352 )   
+![鲁克沁小镇——来自西域的音乐发源地](http://www.ikuku.cn/wp-content/uploads/user_upload/47776/165352/1483155282206177-250x200.jpg)  
+
+
+**真知灼见奖(一名)**  
+* [赣东金溪县东源村“大夫第”](http://www.ikuku.cn/post/165413 )   
+![大夫第](http://www.ikuku.cn/wp-content/uploads/user_upload/47563/165413/1483177863853333-250x200.jpg)  
+
+
+
+**妙趣横生奖(一名)**  
+* [凤凰一梦](http://www.ikuku.cn/post/163141)  
+![凤凰一梦](http://www.ikuku.cn/wp-content/uploads/user_upload/17958/163141/1483154751148404-250x200.jpg)
+
+
+**源远流长奖(一名)**  
+
+[石泉苗寨\重庆记](http://www.ikuku.cn/post/163853)   
+![石泉苗寨\重庆记](http://www.ikuku.cn/wp-content/uploads/user_upload/47631/163853/1483154699751151-250x200.jpg)
+
+  
+**入围奖作品**   
+* [记踏入济南老商埠](http://www.ikuku.cn/post/165297)
+* [从礼佛空间到大木结构](http://www.ikuku.cn/post/165053)
+* [十年再见悬空寺](http://www.ikuku.cn/post/164483)
+* [追溯那一抹不曾消逝的乡愁记忆 ——福建·福鼎·西昆游记](http://www.ikuku.cn/post/164939)
+* [我在故宫爬屋顶](http://www.ikuku.cn/post/164734)  
+* [云中古韵 | 大同](http://www.ikuku.cn/post/162160)
+* [从皖南徽派民居看我国古村落规划的文化智慧 ——游宏村、西递有感所记](http://www.ikuku.cn/post/162377)
+* [柳影荷塘·清晖毓秀 ——记清晖园一游](http://www.ikuku.cn/post/162301)
+
+
+
 ## 社区推广+志愿者加入
 * **社区推广：**
 * ikuku网站、微信公众号、微博推广
@@ -117,6 +167,8 @@
 * 报名参赛者点击 http://www.ikuku.cn/ucenter.php?action=o2o 即可报名。
 * 志愿者可以同时报名参赛
 
+
+
 ## 成员名单
 * 组委会：[张乙涵](http://www.ikuku.cn/user/42150)、[肖玥](http://www.ikuku.cn/user/40967)、[张涛](http://www.ikuku.cn/user/bamboo)
 * 指导：[马海东](http://www.ikuku.cn/user/1510)、[徐璐](http://www.ikuku.cn/user/36781)
@@ -140,6 +192,8 @@
 * ikuku专栏：砖块积木、全能小海龟、每筑建文
 * ikuku志愿者：王钊、陈仁涨、梁晓琳、萧倩如、郑彤、罗天宇、梁荷昕、陈黎辉、李婧华、汪晨、戎思琦、王书琪、王新宇、赵越、徵羽、李怡慷、金恩珠、邓宇天、李晨鸣、夏芷甜、王争、陈雅乔、王誉雯、江涛、聂书琪、徐凯标、李嘉平、刘炆、刘博文
 * 感谢：刘思思、司龙龙
+
+
 
 
 ## 最新新闻动态  
