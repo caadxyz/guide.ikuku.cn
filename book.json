@@ -2,10 +2,6 @@
     "plugins": [
         "-search",
         "search-plus"
-    ],
-    "links" : {
-        "sidebar" : {
-            "ikuku.cn|在库言库官网" : "http://www.ikuku.cn"
-        }
-    }
+    ]
+    
 }
