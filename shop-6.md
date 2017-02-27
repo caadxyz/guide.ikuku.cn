@@ -96,7 +96,7 @@ Maxwell
 教育机构：设计e周  
 课程名称：PS后期  
 讲师：李响  
-![学员作品欣赏8](images/traning-shop/8.jpg)
+![学员作品欣赏8](images/traning-shop/08.jpg)
 
 教育机构：活力网  
 课程名称：VRay for SketchUp建筑可视化表现  
