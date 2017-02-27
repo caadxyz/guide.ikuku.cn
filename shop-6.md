@@ -91,30 +91,30 @@ Maxwell
 课程名称：PS后期  
 讲师：李响  
 学员：贾冕  
-![学员作品欣赏7](images/traning-shop/7.jpg)
+![学员作品欣赏7](images/traning-shop/10.jpg)
 
 教育机构：设计e周  
 课程名称：PS后期  
 讲师：李响  
-![学员作品欣赏8](images/traning-shop/08.jpg)
+![学员作品欣赏8](images/traning-shop/11.jpg)
 
 教育机构：活力网  
 课程名称：VRay for SketchUp建筑可视化表现  
 讲师：caigle（钟育才）  
 学员：灰衣法座  
-![学员作品欣赏9](images/traning-shop/9.jpg)
+![学员作品欣赏9](images/traning-shop/7.jpg)
 
 教育机构：活力网  
 课程名称：VRay for SketchUp建筑可视化表现  
 讲师：caigle（钟育才）  
 学员：Ryan  
-![学员作品欣赏10](images/traning-shop/10.jpg)
+![学员作品欣赏10](images/traning-shop/08.jpg)
 
 教育机构：活力网  
 课程名称：VRay for SketchUp建筑可视化表现  
 讲师：caigle（钟育才）  
 学员：呵呵呵呵呵  
-![学员作品欣赏11](images/traning-shop/11.jpg)
+![学员作品欣赏11](images/traning-shop/9.jpg)
 
 机构名称：几凡设计教育  
 课程名称：《建筑案例抄绘分析》  
