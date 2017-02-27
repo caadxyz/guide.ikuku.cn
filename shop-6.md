@@ -65,22 +65,22 @@ Maxwell
 课程名称：建筑分析图（第六期）  
 讲师：韩锐  
 学员：呱小牛  
-![学员作品欣赏2](images/traning-shop/2.jpg "学员作品欣赏2")
+![学员作品欣赏2](images/traning-shop/2.jpg)
 
 教育机构 ：设计e周  
 课程名称：景观分析图  
 讲师：陈钱罐    
-![学员作品欣赏3](images/traning-shop/3.jpg "学员作品欣赏1")
+![学员作品欣赏3](images/traning-shop/3.jpg)
 
 教育机构 ：设计e周  
 课程名称：景观分析图  
 讲师：陈钱罐   
-![学员作品欣赏4](images/traning-shop/4.jpg "学员作品欣赏1")
+![学员作品欣赏4](images/traning-shop/4.jpg)
 
 教育机构：设计e周  
 课程名称：SketchUp高级建模精讲  
 讲师：王会成  
-![学员作品欣赏5](images/traning-shop/5.jpg "学员作品欣赏1")
+![学员作品欣赏5](images/traning-shop/5.jpg)
 
 教育机构：设计e周  
 课程名称：SketchUp高级建模精讲  
