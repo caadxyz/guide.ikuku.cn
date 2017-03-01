@@ -73,7 +73,8 @@
 
 
 
-**获奖作品名单**
+**获奖作品名单**  
+http://www.ikuku.cn/tag/%E8%AF%86%E5%8F%A4%E5%AF%BB%E8%B8%AA  
 
 **特等奖(一名)**  
 * [逝去与重生——鲁南石板房](http://www.ikuku.cn/post/165182)   
@@ -94,8 +95,8 @@
 
 
 **真知灼见奖(一名)**  
-*  [从礼佛空间到大木结构](http://www.ikuku.cn/post/165053)
-![从礼佛空间到大木结构](http://www.ikuku.cn/wp-content/uploads/user_upload/47765/165053/1483026628108121-250x200.jpg)
+*  [从礼佛空间到大木结构](http://www.ikuku.cn/post/165053)  
+![从礼佛空间到大木结构](http://www.ikuku.cn/wp-content/uploads/user_upload/47765/165053/1483026628108121-250x200.jpg)  
  
 
 
