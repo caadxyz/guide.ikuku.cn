@@ -27,6 +27,7 @@
     * [如何卖东西？](shop-2.md)
     * [如何买东西？](shop-1.md)
     * [电商免责声明](shop-3.md)
+    * [ikuku精选课简介](shop-6.md)    
     * [ikuku精选课服务声明 ](statement.md)
 
 -----
