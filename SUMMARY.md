@@ -56,6 +56,7 @@
         * [竞赛:识古寻踪](volunteer-18.md)
         * [栏目:半月答](volunteer-17.md)
         * [竞赛:大学生作业评选](volunteer-19.md)  
+        * [80X80建筑作品积木系列](volunteer-21.md "80X80建筑作品积木系列")
         * [志愿者系列采访建筑师](interview.md)
         * [其他](volunteer-14.md)
     * [历届最佳志愿者及其评委会](volunteer-20.md)    
