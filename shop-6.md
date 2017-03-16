@@ -55,82 +55,82 @@ Maxwell
 
 **学员作品欣赏**  
 
-教育机构：设计e周  
+教育机构：[设计e周](http://www.ikuku.cn/user/iedaycn)   
 课程名称：建筑分析图（第六期）  
 讲师：韩锐  
 学员：栗子de微笑  
 ![学员作品欣赏1](images/traning-shop/1.jpg)
 
-教育机构：设计e周  
+教育机构：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：建筑分析图（第六期）  
 讲师：韩锐  
 学员：呱小牛  
 ![学员作品欣赏2](images/traning-shop/02.jpg)
 
-教育机构 ：设计e周  
+教育机构 ：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：景观分析图  
 讲师：陈钱罐    
 ![学员作品欣赏3](images/traning-shop/3.jpg)
 
-教育机构 ：设计e周  
+教育机构 ：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：景观分析图  
 讲师：陈钱罐   
 ![学员作品欣赏4](images/traning-shop/4.jpg)
 
-教育机构：设计e周  
+教育机构：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：SketchUp高级建模精讲  
 讲师：王会成  
 ![学员作品欣赏5](images/traning-shop/5.jpg)
 
-教育机构：设计e周  
+教育机构：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：SketchUp高级建模精讲  
 讲师：王会成  
 ![学员作品欣赏6](images/traning-shop/6.jpg)
 
-教育机构：设计e周  
+教育机构：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：PS后期  
 讲师：李响  
 学员：贾冕  
 ![学员作品欣赏7](images/traning-shop/10.jpg)
 
-教育机构：设计e周  
+教育机构：[设计e周](http://www.ikuku.cn/user/iedaycn)  
 课程名称：PS后期  
 讲师：李响  
 ![学员作品欣赏8](images/traning-shop/11.jpg)
 
-教育机构：活力网  
+教育机构：[活力网](http://www.ikuku.cn/user/38236)  
 课程名称：VRay for SketchUp建筑可视化表现  
 讲师：caigle（钟育才）  
 学员：灰衣法座  
 ![学员作品欣赏9](images/traning-shop/7.jpg)
 
-教育机构：活力网  
+教育机构：[活力网](http://www.ikuku.cn/user/38236)  
 课程名称：VRay for SketchUp建筑可视化表现  
 讲师：caigle（钟育才）  
 学员：Ryan  
 ![学员作品欣赏10](images/traning-shop/08.jpg)
 
-教育机构：活力网  
+教育机构：[活力网](http://www.ikuku.cn/user/38236)  
 课程名称：VRay for SketchUp建筑可视化表现  
 讲师：caigle（钟育才）  
 学员：呵呵呵呵呵  
 ![学员作品欣赏11](images/traning-shop/9.jpg)
 
-机构名称：几凡设计教育  
+机构名称：[几凡设计教育](http://www.ikuku.cn/user/44469)  
 课程名称：《建筑案例抄绘分析》  
 教材名称：《教学十年建筑案例精析300例》  
 教材主编：李彬  
 学员：顾爽  
 ![学员作品欣赏12](images/traning-shop/12.jpg)
 
-机构名称：几凡设计教育  
+机构名称：[几凡设计教育](http://www.ikuku.cn/user/44469)  
 课程名称：《建筑案例抄绘分析》  
 教材名称：《教学十年建筑案例精析300例》  
 教材主编：李彬  
 学员：瑾儿  
 ![学员作品欣赏13](images/traning-shop/13.jpg)
 
-机构名称：几凡设计教育  
+机构名称：[几凡设计教育](http://www.ikuku.cn/user/44469)  
 课程名称：《建筑案例抄绘分析》  
 教材名称：《教学十年建筑案例精析300例》  
 教材主编：李彬  
