@@ -35,11 +35,11 @@ ikuku坚守这样的价值观：我们相信开放是一种力量，象磁铁一
 1. [社区活动策划与组织](volunteer-2.md)
 1. 发现80、90后青年建筑师,并邀请入驻ikuku  
 1. 专业内容    
+ * [记者采访](http://www.ikuku.cn/tag/ikuku%E5%BF%97%E6%84%BF%E8%80%85%E9%87%87%E8%AE%BF)（采访对象：建筑师、厂家、业主...）  
  * 专业编辑  
    [《甲方故事》](http://www.ikuku.cn/tag/%E7%94%B2%E6%96%B9%E6%95%85%E4%BA%8B)专栏内容编辑  
    [《DO IT YOURSELF》](http://www.ikuku.cn/tag/diy)专栏内容编辑  
    [学习教程](http://www.ikuku.cn/tag/%E6%8A%80%E6%B3%95)类干货分享文章编辑  
- * [记者采访](http://www.ikuku.cn/tag/ikuku%E5%BF%97%E6%84%BF%E8%80%85%E9%87%87%E8%AE%BF)（采访对象：建筑师、厂家、业主...）  
 1. 平面设计及文案策划  
 1. 网站开发
  * PHP代码开发  
