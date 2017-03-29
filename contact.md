@@ -8,7 +8,5 @@
 2. 微信服务号  
 ![微信服务号](images/WeChat_2.jpeg)  
 
-3. 腾讯微博: http://weibo.com/kukuhome  
-
-4. 电邮: editor@ikuku.cn    
+3. 电邮: editor@ikuku.cn    
 
