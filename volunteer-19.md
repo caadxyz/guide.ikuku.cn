@@ -80,6 +80,63 @@ SketchUP 2017 Pro正版软件一套
 
 ![四牌楼老体育馆扩建设计](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282285/1487162334735951-818x427.jpg)  
 
+[远方的高脚屋](http://www.ikuku.cn/post/166933)  
+参赛者：蒋一民、姜钰琪  
+设计指导：李晓东  
+学校：山东建筑大学  
+
+![远方的高脚屋](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282301/1485405122805310-818x1157.jpg)  
+
+[青年公寓社区规划与建筑设计](http://www.ikuku.cn/post/170123)  
+参赛者：王婉琳、黄杰、吕守拓、那日苏  
+设计指导：陈泳全  
+学校：北京交通大学  
+
+![青年公寓社区规划与建筑设计](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282305/1487859317861400-818x578.jpg)  
+
+* 三等奖  
+
+[游客接待中心](http://www.ikuku.cn/post/168953)  
+参赛者：肖天意、权逸群  
+设计指导：谭文勇  
+学校：重庆大学  
+
+![游客接待中心](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282320/1487372064711338-818x589.jpg)  
+
+[展览馆](http://www.ikuku.cn/post/170546)  
+参赛者：陈雪晗  
+学校：西安建筑科技大学  
+
+![展览馆](http://www.ikuku.cn/wp-content/uploads/user/u1497/POST/p281331/1488200554423950-818x400.jpg)  
+
+[别有洞天——云南省元阳哈尼族梯田片区洞穴主题山地酒店设计](http://www.ikuku.cn/post/170422)  
+参赛者：胡鹏  
+设计指导：马杰  
+学校：昆明理工大学  
+
+![别有洞天——云南省元阳哈尼族梯田片区洞穴主题山地酒店设计](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282325/1488075218477820-818x439.jpg)  
+
+[灯塔](http://www.ikuku.cn/post/168068)  
+参赛者：陆垠  
+设计指导：董凌  
+学校：南京工业大学  
+
+![灯塔](http://www.ikuku.cn/concept/homework01-48268/1486886161569021-jpg)  
+
+[概念式中学规划及建筑设计](http://www.ikuku.cn/post/166126)  
+参赛者：Lilipear  
+设计指导：闫力  
+学校：天津城建大学  
+
+![概念式中学规划及建筑设计](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282364/1483709664305972-818x1732.jpg)  
+
+[798的居住革命——自由生长](http://www.ikuku.cn/post/163402)  
+参赛者：魏文翰  
+设计指导：李昕  
+学校：华南理工大学  
+
+![798的居住革命——自由生长](http://www.ikuku.cn/wp-content/uploads/user/u1497/POST/p281507/1485252282437312-818x577.jpg)  
+
 ## 作品知识产权  
 * 作品的知识产权属于作者  
 
