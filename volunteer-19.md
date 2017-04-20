@@ -62,11 +62,23 @@ SketchUP 2017 Pro正版软件一套
 
 ##### 获奖名单：  
 
-·一等奖  
-墙垣·重生  
+* 一等奖  
+
+[墙垣·重生](http://www.ikuku.cn/post/169927)  
 参赛者：李凌娜  
 设计指导：江海涛  
 学校：山东建筑大学  
+
+![墙垣·重生](http://www.ikuku.cn/wp-content/uploads/user/u1497/POST/p282279/墙垣·重生-818x578.jpg)  
+
+* 二等奖  
+
+[四牌楼老体育馆扩建设计](http://www.ikuku.cn/post/168095)  
+参赛者：任广为  
+设计指导：俞传飞  
+学校：东南大学  
+
+![四牌楼老体育馆扩建设计](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282285/1487162334735951-818x427.jpg)  
 
 ## 作品知识产权  
 * 作品的知识产权属于作者  
