@@ -121,7 +121,7 @@ SketchUP 2017 Pro正版软件一套
 设计指导：董凌  
 学校：南京工业大学  
 
-![灯塔](http://www.ikuku.cn/concept/homework01-48268/1486886161569021-jpg)  
+![灯塔](http://www.ikuku.cn/wp-content/uploads/user/u1/POST/p282344/1486886161569021-818x1323.jpg)  
 
 [概念式中学规划及建筑设计](http://www.ikuku.cn/post/166126)  
 参赛者：Lilipear  
