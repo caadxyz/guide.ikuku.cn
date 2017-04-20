@@ -36,14 +36,13 @@
 
 注：手绘作品建议扫描之后上传，保证质量。  
 
+##### 评委名单:  
+[胡越](http://www.ikuku.cn/person/renwu-huyue)、[刘玉龙](http://www.ikuku.cn/person/renwu-liuyulong)、[马海东](http://www.ikuku.cn/user/1510)、[伍敬](http://www.ikuku.cn/user/1510)、[冬梅 ](http://www.ikuku.cn/person/renwu-dongmei-liuxiaochuan-bckj)、[冯果川](http://www.ikuku.cn/person/renwu-fengguochuan)、[张之杨](http://www.ikuku.cn/person/renwu-zhangzhiyang-junei-sheji)、[魏娜](http://www.ikuku.cn/person/weina-elevjianzhu-weiliweisheng)、[钟乔](http://www.ikuku.cn/person/renwu-zhongqiao-zhubo-jianzhu)、[汤朝晖](http://www.ikuku.cn/person/tangchaohui-yangxiaochuan-tystudio-zhuchiren)、[荣朝晖](http://www.ikuku.cn/person/rongchaohui-jiangyinshi-jianzhushejiyanjiuyuan-fuzongjingli)、[赵敏](http://www.ikuku.cn/person/zhaomineeeejianzhupinglunrendulizhuangaorenbeijingzhonglianhuangongchenggufenyouxiangongsizongjianzhushi)、[袁野](http://www.ikuku.cn/person/yuanyeeeeezhongguozhongjianshejijituanzongbufuzongjianzhushidiyizhuanyeshejiyanjiuyuanzongjianzhushia6jianzhugongzuoshizhuchijianzhushi)、[野城](http://www.ikuku.cn/person/yecheng-jiangbi-qingnian-jianzhushi)、[陈飞/F伯爵](http://www.ikuku.cn/user/1506)、[邓在](http://www.ikuku.cn/user/11505)、[章雪峰](http://www.ikuku.cn/person/chefei-zhangxuefeng-chaochengjianzhu-hehuoren)、[郁枫](http://www.ikuku.cn/person/yufengeeeezhongguojianzhukexueyanjiuyuanjianzhushejiyuanfuzonggongjianzhuchuangzuoshifuzhuren)、[李舟](http://www.ikuku.cn/user/5724)、[初子圆](http://www.ikuku.cn/user/thinkiair)、[马亮](http://www.ikuku.cn/person/maliang-morui-jianzhu-chuangshiren)、[张灿辉](http://www.ikuku.cn/user/zhangcanhui)、[郦文曦](http://www.ikuku.cn/person/weneeeelijianzhushejishiwusuozhuchijianzhushi)、[卜骁骏](http://www.ikuku.cn/person/bojunzhangjiyuaneeeeshijingjianzhushejishiwusuohehuoren)、[傅钟萍](http://www.ikuku.cn/user/5635)、[牛寿雁](http://www.ikuku.cn/user/niusy_cn)、[颜科](http://www.ikuku.cn/user/32327)、[徐晋巍](http://www.ikuku.cn/person/xujinwei-wenhuaguang-meidongjie-michuanjianzhu)、[苏童](http://www.ikuku.cn/person/sutong-jianzonge-2-4gongzuoshi-zhuren)、[王会成](http://www.ikuku.cn/name/11977)、[韩锐](http://www.ikuku.cn/name/11837)  
+
 ##### 评审机制：  
 此次竞赛评委会在ikuku专家评委库中邀请产生。  
 
 评委会综合考虑设计和表现两方面，通过初评和复评两轮评选选出最终获奖者。  
-
-##### 评委名单:  
-
-[胡越](http://www.ikuku.cn/person/renwu-huyue)、[刘玉龙](http://www.ikuku.cn/person/renwu-liuyulong)、[马海东](http://www.ikuku.cn/user/1510)、[伍敬](http://www.ikuku.cn/user/1510)、[冬梅 ](http://www.ikuku.cn/person/renwu-dongmei-liuxiaochuan-bckj)、[冯果川](http://www.ikuku.cn/person/renwu-fengguochuan)、[张之杨](http://www.ikuku.cn/person/renwu-zhangzhiyang-junei-sheji)、[魏娜](http://www.ikuku.cn/person/weina-elevjianzhu-weiliweisheng)、[钟乔](http://www.ikuku.cn/person/renwu-zhongqiao-zhubo-jianzhu)、[汤朝晖](http://www.ikuku.cn/person/tangchaohui-yangxiaochuan-tystudio-zhuchiren)、[荣朝晖](http://www.ikuku.cn/person/rongchaohui-jiangyinshi-jianzhushejiyanjiuyuan-fuzongjingli)、[赵敏](http://www.ikuku.cn/person/zhaomineeeejianzhupinglunrendulizhuangaorenbeijingzhonglianhuangongchenggufenyouxiangongsizongjianzhushi)、[袁野](http://www.ikuku.cn/person/yuanyeeeeezhongguozhongjianshejijituanzongbufuzongjianzhushidiyizhuanyeshejiyanjiuyuanzongjianzhushia6jianzhugongzuoshizhuchijianzhushi)、[野城](http://www.ikuku.cn/person/yecheng-jiangbi-qingnian-jianzhushi)、[陈飞/F伯爵](http://www.ikuku.cn/user/1506)、[邓在](http://www.ikuku.cn/user/11505)、[章雪峰](http://www.ikuku.cn/person/chefei-zhangxuefeng-chaochengjianzhu-hehuoren)、[郁枫](http://www.ikuku.cn/person/yufengeeeezhongguojianzhukexueyanjiuyuanjianzhushejiyuanfuzonggongjianzhuchuangzuoshifuzhuren)、[李舟](http://www.ikuku.cn/user/5724)、[初子圆](http://www.ikuku.cn/user/thinkiair)、[马亮](http://www.ikuku.cn/person/maliang-morui-jianzhu-chuangshiren)、[张灿辉](http://www.ikuku.cn/user/zhangcanhui)、[郦文曦](http://www.ikuku.cn/person/weneeeelijianzhushejishiwusuozhuchijianzhushi)、[卜骁骏](http://www.ikuku.cn/person/bojunzhangjiyuaneeeeshijingjianzhushejishiwusuohehuoren)、[傅钟萍](http://www.ikuku.cn/user/5635)、[牛寿雁](http://www.ikuku.cn/user/niusy_cn)、[颜科](http://www.ikuku.cn/user/32327)、[徐晋巍](http://www.ikuku.cn/person/xujinwei-wenhuaguang-meidongjie-michuanjianzhu)、[苏童](http://www.ikuku.cn/person/sutong-jianzonge-2-4gongzuoshi-zhuren)、[王会成](http://www.ikuku.cn/name/11977)、[韩锐](http://www.ikuku.cn/name/11837)  
 
 ##### 奖项设置：  
 一等奖 1名（奖项由 Trimble(天宝）公司赞助）  
@@ -61,9 +60,13 @@ SketchUP 2017 Pro正版软件一套
 
 （备注：ikuku提供电子版获奖证书，在获奖名单公示后，统一发到获奖者邮箱） 
 
-获奖名单：  
+##### 获奖名单：  
 
-
+·一等奖  
+墙垣·重生  
+参赛者：李凌娜  
+设计指导：江海涛  
+学校：山东建筑大学  
 
 ## 作品知识产权  
 * 作品的知识产权属于作者  
