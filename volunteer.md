@@ -24,6 +24,7 @@ We believe that opening up is a force, like a magnet to attract talents.
   * [80X80建筑作品积木系列](volunteer-21.md)
   * [30岁以下建筑师作品征集评选](volunteer-22.md)
   * [志愿者系列采访建筑师](interview.md)
+  * [艾系列第二期](ai-kuku-2.md)
   * [其他](volunteer-14.md)
 * [历届最佳志愿者及其评委会](volunteer-20.md)
   * [实习感言及交流](volunteer-9.md)

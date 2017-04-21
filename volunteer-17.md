@@ -132,6 +132,19 @@ A： 步骤：
 
 ### 流程设计
 
+* 周一推送 三篇（采访、志愿者招募、策划案）微博 微信
+  * [建筑师F伯爵采访记录|“不纯粹”建筑师](http://www.ikuku.cn/article/jianzhushifbojuecaifangjilubuchuncuijianzhushi)  
+  * [ikuku问答栏目-半月答招募志愿者啦](http://www.ikuku.cn/activity/ikukuwendalanmu-banyuedazhaomuzhiyuanzhela "ikuku问答栏目-半月答招募志愿者啦")
+  * [第二期策划案](http://guide.ikuku.cn/volunteer-17.html#002)
+* 周二至周五  微博每天推送一个问题 带上wenda.ikuku.cn上具体问题的链接
+  * http://wenda.ikuku.cn/index.php?qa=6181  
+  * http://wenda.ikuku.cn/index.php?qa=6180
+  * http://wenda.ikuku.cn/index.php?qa=6179 
+  * http://wenda.ikuku.cn/index.php?qa=6178
+  * http://wenda.ikuku.cn/index.php?qa=6177
+
+
+
 ### 1.活动前期初步准备
 
 
@@ -149,7 +162,6 @@ A： 步骤：
 3.   建筑设计这个专业看上去一直在从事“造物”的工作，所以常常将建筑学和建筑师推上神坛的感觉？实际上这个专业的社会参与度高么？它的价值真的有那么崇高么？
 4.   怎么看待库哈斯提出的“建筑学消亡论”？
 5.   当下无论是政府制度还是市场经济都在提倡改革，未来的建筑学在这样的环境下会不会有所变化？
-* 半月答主账号的注册 (完成)  
 * 参与半月答的入口(待处理） <b>2017.4.16 初稿 19日 完稿 </b>
 * 招募志愿者（招募目的1.帮忙宣传 2.提出问题。招募渠道：在宣传海报文章结尾植入，ikuku网站 微信微博）（待处理）
 * 根据以上的内容进行海报的确定及宣传文章的制作  
