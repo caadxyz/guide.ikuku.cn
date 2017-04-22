@@ -45,6 +45,8 @@
  * [80X80—80后建筑师作品征集评选(2016|非80评委)](http://www.ikuku.cn/tag/2016ikuku80x80%E9%9D%9E80%E5%90%8E%E8%AF%84%E5%AE%A1%E7%BB%84)  
  * [80X80—80后建筑师作品征集评选(2016|80评委)](http://www.ikuku.cn/tag/2016ikuku80x8080%E5%90%8E%E8%AF%84%E5%AE%A1%E7%BB%84)  
  * [Pavilion:砖块积木+ikuku 积木建模大赛](http://www.ikuku.cn/tag/%E7%A7%AF%E6%9C%A8%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B)  
+ * [“识古寻踪” 古建筑游记大赛](http://www.ikuku.cn/tag/%E8%AF%86%E5%8F%A4%E5%AF%BB%E8%B8%AA "“识古寻踪”")
+ * [第一届ikuku设计作业大赛](http://www.ikuku.cn/tag/%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E5%A4%A7%E8%B5%9B01 "第一届ikuku设计作业大赛")
    
  
    
