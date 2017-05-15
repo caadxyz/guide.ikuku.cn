@@ -7,6 +7,8 @@
 ### 活动目标  
 至少成功征集40件作品  
 
+参考项目(80x80): http://www.ikuku.cn/activity/80hou-jianzhushi-zuopin-zhengjipingxuan  
+
 ### 活动流程  
 
 #### 1、活动前初期准备  
