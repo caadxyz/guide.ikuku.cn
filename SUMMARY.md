@@ -29,6 +29,7 @@
     * [电商免责声明](shop-3.md)
     * [ikuku精选课简介](shop-6.md)
     * [ikuku精选课服务声明 ](statement.md)
+* [ikuku应用手册](block.md)
 
 -----
 * [ikuku能为会员提供哪些服务？](member.md)
