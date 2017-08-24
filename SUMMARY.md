@@ -61,6 +61,7 @@
         * [竞赛:大学生作业评选](volunteer-19.md)
         * [80X80建筑作品积木系列](volunteer-21.md)
         * [30岁以下建筑师作品征集评选](volunteer-22.md)
+        * [城市摄影系列评选:北京](volunteer-23.md)
         * [志愿者系列采访建筑师](interview.md)
         * [艾系列第二期](ai-kuku-2.md)
         * [百年华人建筑库](100.md)
