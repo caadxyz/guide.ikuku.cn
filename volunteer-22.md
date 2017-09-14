@@ -64,4 +64,4 @@
 
 ### todo list
 
-* [志愿者招募(编辑策划：毕璋)](http://www.ikuku.cn/activity/30suiyixiajianzhushizuopinzhengjipingxuanhuodongzhaomuzhiyuanzhela)
+* [志愿者招募 (策划：毕璋)](http://www.ikuku.cn/activity/30suiyixiajianzhushizuopinzhengjipingxuanhuodongzhaomuzhiyuanzhela)
