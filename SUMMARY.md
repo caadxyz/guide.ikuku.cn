@@ -55,6 +55,7 @@
         * [15届威尼斯建筑双年展报道](volunteer-15.md)
         * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](volunteer-12.md)
         * [线上:China1000](volunteer-13.md)
+        * [线上:库里蒂巴国际艺术双年展 2017中国主宾国](volunteer-24.md)
         * [砖块积木+ikuku](volunteer-16.md)
         * [竞赛:识古寻踪](volunteer-18.md)
         * [栏目:半月答](volunteer-17.md)
