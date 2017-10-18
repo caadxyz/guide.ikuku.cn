@@ -29,9 +29,13 @@
     * [电商免责声明](shop-3.md)
     * [ikuku精选课简介](shop-6.md)
     * [ikuku精选课服务声明 ](statement.md)
+* [建筑编程与脚本](script.md)
 * [ikuku应用手册](block.md)
 * [ikuku云托管手册](file.md)
     * [更新日志](file.log.md)
+
+
+
 
 -----
 * [ikuku能为会员提供哪些服务？](member.md)
