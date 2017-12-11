@@ -4,6 +4,8 @@
 
 ![01.jpeg](images/1.jpg)  
 
+---  
+
 ![02.jpeg](images/2.jpg)  
 
 ---
@@ -29,7 +31,6 @@
 ![07.jpeg](images/7.jpg)  
 
 ----
-
 
 ![08.jpeg](images/8.jpg)  
 
