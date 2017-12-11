@@ -18,6 +18,7 @@
     * [如何组织及报名活动?](ucenter-1.md)
     * [委托设计及设计竞赛](ucenter-3.md)
         * [竞赛作品上传教程：项目、方案](ikuku-comp.md)
+        * [竞赛作品上传教程：摄影](ikuku-comp-photography.md)
         * [竞赛作品上传教程：文章](ikuku-comp-article.md)
         * [如何成为ikuku专家评委?](ucenter-6.md)
         * [竞赛活动服务条款](ucenter-4.md)
