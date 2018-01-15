@@ -1,4 +1,4 @@
-# 商家如何入驻ikuku？
+
 
 **ikuku货摊的特色**  
 
@@ -47,4 +47,6 @@
 -----
 
 **[立即入驻ikuku.cn|在库言库](http://www.ikuku.cn/userlogin.php)**
+
+**[立即联系ikuku.cn|在库言库](contact.md)**
 

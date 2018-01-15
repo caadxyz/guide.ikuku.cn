@@ -28,6 +28,7 @@
     * [如何卖东西？](shop-2.md)
     * [如何买东西？](shop-1.md)
     * [电商免责声明](shop-3.md)
+    * [设计师项目及大单采购](shop-4.md)
     * [ikuku精选课简介](shop-6.md)
     * [ikuku精选课服务声明 ](statement.md)
 * [建筑编程与脚本](script.md)
