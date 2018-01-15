@@ -49,6 +49,8 @@
 
 * [建筑学院](http://www.ikuku.cn/user/19254)  
 * [青木空间](http://www.ikuku.cn/user/101564)  
+* [linstar](http://www.ikuku.cn/user/linstartour)  
+* [建筑师疯人院](http://www.ikuku.cn/user/38773)  
 
 ------  
 
