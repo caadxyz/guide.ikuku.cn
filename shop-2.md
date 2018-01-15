@@ -39,7 +39,6 @@
 * [专筑网iArch](http://www.ikuku.cn/user/46923)  
 * [几凡设计教育](http://www.ikuku.cn/user/44469)  
 * [艺咚教育](http://www.ikuku.cn/user/yidong)  
-* [手绘在线](http://www.ikuku.cn/user/leexiang)
 * [天羿工程咨询有限公司](http://www.ikuku.cn/user/36775)
 
 ------
