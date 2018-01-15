@@ -38,6 +38,7 @@
 * [优优课](http://www.ikuku.cn/user/yyooke)  
 * [专筑网iArch](http://www.ikuku.cn/user/46923)  
 * [几凡设计教育](http://www.ikuku.cn/user/44469)  
+* [aYa阿尼那建造生活](http://www.ikuku.cn/user/8208)  
 * [艺咚教育](http://www.ikuku.cn/user/yidong)  
 * [天羿工程咨询有限公司](http://www.ikuku.cn/user/36775)
 
