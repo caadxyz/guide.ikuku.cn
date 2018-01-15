@@ -19,7 +19,7 @@
 
 ---
 
-### 步骤3 上传及更新作品 http://www.ikuku.cn/ucenter.php?action=works-list&type=concept  
+### 步骤3 上传及更新作品 http://www.ikuku.cn/ucenter.php?action=works-list&type=project  
 ![05.jpeg](images/ikukujm/05.jpeg) 
  
 ----
@@ -37,4 +37,4 @@
 
 ----
 
-![09.jpeg](images/ikukujm/09.jpeg)
+![09.jpeg](images/项目.jpg)
