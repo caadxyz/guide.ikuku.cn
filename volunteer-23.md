@@ -34,7 +34,7 @@
 
 **作品上传规则：**   
 
-每一个作品单元上传为一篇ikuku摄影post(详见上传指南)
+每一个作品单元上传为一篇ikuku摄影post( [详见上传指南](http://guide.ikuku.cn/ikuku-comp-photography.html) )
 
 **报名须知：**  
 
