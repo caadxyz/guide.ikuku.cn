@@ -292,6 +292,10 @@ ikuku带我一起成长~
 * [门文龙](http://www.ikuku.cn/user/fengdian)
 * [张慧春](http://www.ikuku.cn/name/12524)
 
+**项目:[脉动的天际线——中国当代建筑在库里蒂巴](http://www.ikuku.cn/post/185510)**
+
+* [门文龙](http://www.ikuku.cn/user/fengdian)
+
 **项目:[志愿者系列采访建筑师](interview.md)**      
 
 
