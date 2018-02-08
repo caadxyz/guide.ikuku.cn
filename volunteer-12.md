@@ -21,24 +21,54 @@
 **三等奖/Third-Prize** （空缺/vacancies:5）  
 
 19102 http://www.ikuku.cn/post/81609  
+![GARS-GARSB 竹庐](http://www.ikuku.cn/wp-content/uploads/user_upload/19102/81609/1436453344990493-818x512.jpg)
+
 19493 http://www.ikuku.cn/post/81611  
+![GARS-GARSA2,The house as a water container,水容器的家](http://www.ikuku.cn/wp-content/uploads/user_upload/19493/81611/1439447682319277-818x578.jpg)
+
 18260 http://www.ikuku.cn/post/81111  
+![∞-Cycle](http://www.ikuku.cn/wp-content/uploads/user_upload/18260/81111/1436565645126193-818x579.jpg)
+
 19469 http://www.ikuku.cn/post/80625  
+![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19469/80625/1436502141732078-818x673.jpg)
+
 17840 http://www.ikuku.cn/post/75702  
+![定日羊毛球幼儿园 GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/17840/75702/1438400989708884-818x578.jpg)
 
 **入围奖/Nominees** （空缺/vacancies:14）  
 
 19549 http://www.ikuku.cn/post/81108  
+![GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/19549/81108/1436543702898809-818x578.jpg)
+
 18845 http://www.ikuku.cn/post/81908  
+![Just a Minute](http://www.ikuku.cn/wp-content/uploads/user_upload/18845/81908/1436454579305046-818x578.jpg)
+
 18550 http://www.ikuku.cn/post/77449  
+![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/18550/77449/1436529318240282-818x578.jpg)
+
 18017 http://www.ikuku.cn/post/75343  
+![Jigsaw Puzzle Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18017/75343/1436280003964008-818x578.jpg)
+
 17725 http://www.ikuku.cn/post/76071  
- 4093 http://www.ikuku.cn/post/85214  
+![GARS-GARSA2](http://www.ikuku.cn/wp-content/uploads/user_upload/17725/76071/1436541466541199-818x578.jpg)
+
+4093 http://www.ikuku.cn/post/85214  
+![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/4093/85214/1436630677211680-818x578.jpg)
+
 19392 http://www.ikuku.cn/post/80424  
+![FLEXHOME - emergency shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/19392/80424/1436483587236444-818x578.jpg)
+
 19769 http://www.ikuku.cn/post/82576  
+![GARS-GARSB PERMANENT HOUSING](http://www.ikuku.cn/wp-content/uploads/user_upload/19769/82576/1436526615977464-818x578.jpg)
+
 19280 http://www.ikuku.cn/post/87356  
+![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19280/87356/1437777026495694-818x562.jpg)
+
 12706 http://www.ikuku.cn/post/81179  
+![GARS-GARSA4 LOVE FLOWER](http://www.ikuku.cn/wp-content/uploads/user_upload/12706/81179/1436191097904578-818x580.jpg)
+
 18610 http://www.ikuku.cn/post/80944  
+![Chute to Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18610/80944/1436534877141816-818x270.jpg)
 
 **所有提交的有效作品名单**  
 
@@ -51,16 +81,16 @@ GARSB: http://www.ikuku.cn/competition/competition-all.php?name=3164
 
 ### 专家评审团/Jury
 
-**谢英俊/Hsieh Ying-chun：**  
+**[谢英俊/Hsieh Ying-chun](http://www.ikuku.cn/person/renwu-xieyingjun)：**  
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。
 
-**朱竞翔/Zhu Jingxiang：**   
+**[朱竞翔/Zhu Jingxiang](http://www.ikuku.cn/person/zhujingxiang-zhongwendaxue)：**   
 建筑师，学者，东南大学博士，香港中文大学副教授，轻型建筑系统专家。代表作品：盐城卫生学校图书馆，荣获2004年度WA世界建筑奖佳作奖；轻型建筑系列，荣获2010年 WA世界建筑奖优胜奖（最高奖），2010年第二届中国建筑传媒奖组委会特别提名奖。2012 年朱竞翔荣获《 华尔街日报》中文版“2012 年中国创新人物奖”。
 
-**邱文杰/Wen-Chieh Chiu：**  
+**[邱文杰/Wen-Chieh Chiu](http://www.ikuku.cn/name/5402)：**  
 建筑师，1985年淡江大学建筑系毕业，1990年取得哈佛大学设计学院的建筑与都市设计硕士。邱文杰建筑师事务所负责人，大涵学乙设计工程有限公司设计总监。曾荣获三次台湾建筑奖，两次远东建筑奖。2007年荣获“全球华人青年建筑师奖”。代表作品：台湾921地震教育园区，荣获第三届WA世界建筑奖优胜奖（最高奖），第六届远东建筑奖，入围首届中国建筑传媒奖—最佳建筑奖。
 
-**袁野/Yuan Ye：**  
+**[袁野/Yuan Ye](http://www.ikuku.cn/person/yuanyeeeeezhongguozhongjianshejijituanzongbufuzongjianzhushidiyizhuanyeshejiyanjiuyuanzongjianzhushia6jianzhugongzuoshizhuchijianzhushi)：**  
 建筑师，清华大学博士，中国中建设计集团（总部）副总建筑师，硕士研究生导师。2014年荣获中国建筑学会第十届青年建筑师奖。代表作品：唐山地震遗址纪念公园，2013年荣获中国建筑学会建筑设计奖（景观建筑）金奖，2014年入围WAACA中国建筑奖－建筑成就奖。
 
 **费毕刚/Fei Bigang：**  
@@ -76,9 +106,13 @@ GARSB: http://www.ikuku.cn/competition/competition-all.php?name=3164
 
 Australia　Bangladesh (বাংলাদেশ)　Bolivia　Brazil (Brasil)　Canada　China (中国)　Colombia　Costa Rica　Germany (Deutschland)　Egypt (‫مصر‬‎)　Spain (España)　Finland (Suomi)　France　United Kingdom　Guatemala　Hong Kong (香港)　Indonesia　Ireland　Israel (‫ישראל‬‎)　India (भारत)　Iran (‫ایران‬‎)　Italy (Italia)　Japan (日本)　Cambodia (កម្ពុជា)　South Korea (대한민국)　Mauritius (Moris)　Malaysia　Mozambique (Moçambique)　Netherlands (Nederland)　Nepal (नेपाल)　Philippines　Pakistan (‫پاکستان‬‎)　Poland (Polska)　Portugal　Romania (România)　Serbia (Србија)　Saudi Arabia (‫المملكة العربية السعودية‬‎)　Sweden (Sverige)　Singapore　Turkey (Türkiye)　Taiwan (台灣)　United States　Vietnam (Việt Nam)
 
+![44](http://www.ikuku.cn/competition/images/count_map.jpg)
+
+
 ### 承办单位:
 
-ikuku.cn|在库言库
+![ikuku.cn](http://www.ikuku.cn/wp-content/themes/ikuku2.1/images/logo.jpg)
+
 
 ### 媒体报道:
 
