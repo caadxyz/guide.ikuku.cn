@@ -72,12 +72,12 @@
 
 **所有提交的有效作品名单**  
 
-GARSA1: http://www.ikuku.cn/competition/competition-all.php?name=3159  
-GARSA2: http://www.ikuku.cn/competition/competition-all.php?name=3160  
-GARSA3: http://www.ikuku.cn/competition/competition-all.php?name=3161  
-GARSA4: http://www.ikuku.cn/competition/competition-all.php?name=3162  
-GARSA5: http://www.ikuku.cn/competition/competition-all.php?name=3163  
-GARSB: http://www.ikuku.cn/competition/competition-all.php?name=3164  
+GARSA1(86件): http://www.ikuku.cn/competition/competition-all.php?name=3159  
+GARSA2(88件): http://www.ikuku.cn/competition/competition-all.php?name=3160  
+GARSA3(40件): http://www.ikuku.cn/competition/competition-all.php?name=3161  
+GARSA4(38件): http://www.ikuku.cn/competition/competition-all.php?name=3162  
+GARSA5(10件): http://www.ikuku.cn/competition/competition-all.php?name=3163  
+GARSB(57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
 
 ### 专家评审团/Jury
 
