@@ -4,7 +4,7 @@
 * 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
 * 积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
 * 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
-* 详细介绍见: http://www.ikuku.cn/competition  
+* 详细介绍见: [http://www.ikuku.cn/competition](http://www.ikuku.cn/competition)  
 
 ### GARS获奖名单/Award List
 
@@ -13,7 +13,10 @@
 **二等奖/Second-Prize**（空缺/vacancies:2）
 
 18094 http://www.ikuku.cn/post/75561  
+![GARS-GARSA2-Recycle, Religion & Rebirth](http://www.ikuku.cn/wp-content/uploads/user_upload/18094/75561/1436617301464823-818x575.jpg)
+
 19539 http://www.ikuku.cn/post/83345  
+![GARS-19539-GARSA4 Competition Entry](http://www.ikuku.cn/wp-content/uploads/user_upload/19539/83345/1436534278312880-818x578.jpg)
 
 **三等奖/Third-Prize** （空缺/vacancies:5）  
 
