@@ -6,6 +6,18 @@
 * 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 * 详细介绍见: [http://www.ikuku.cn/competition](http://www.ikuku.cn/competition)  
 
+### 设计内容
+
+A、灾中应急建筑：  
+• 灾民紧急安置避难所(GARSA1)(86件): http://www.ikuku.cn/competition/competition-all.php?name=3159  
+• 灾民过渡安置房(GARSA2)(88件): http://www.ikuku.cn/competition/competition-all.php?name=3160  
+• 灾区临时教室（小学、中学）(GARSA3)(40件): http://www.ikuku.cn/competition/competition-all.php?name=3161  
+• 灾区临时幼儿园(GARSA4)(38件): http://www.ikuku.cn/competition/competition-all.php?name=3162  
+• 灾区临时医院(GARSA5)(10件): http://www.ikuku.cn/competition/competition-all.php?name=3163  
+
+B、灾后重建建筑(GARSB)  
+(57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
+
 ### GARS获奖名单/Award List
 
 **一等奖/First-Prize** （空缺/vacancies:2）
@@ -70,14 +82,6 @@
 18610 http://www.ikuku.cn/post/80944  
 ![Chute to Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18610/80944/1436534877141816-818x270.jpg)
 
-**所有提交的有效作品名单**  
-
-GARSA1(86件): http://www.ikuku.cn/competition/competition-all.php?name=3159  
-GARSA2(88件): http://www.ikuku.cn/competition/competition-all.php?name=3160  
-GARSA3(40件): http://www.ikuku.cn/competition/competition-all.php?name=3161  
-GARSA4(38件): http://www.ikuku.cn/competition/competition-all.php?name=3162  
-GARSA5(10件): http://www.ikuku.cn/competition/competition-all.php?name=3163  
-GARSB(57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
 
 [相关媒体报道/Media Report](http://www.ikuku.cn/post/74867)  
 [志愿者行动1/Volunteer Action 1](http://www.ikuku.cn/post/76249)  
@@ -226,6 +230,12 @@ Australia　Bangladesh (বাংলাদেশ)　Bolivia　Brazil (Brasil)　
 
 ![ikuku.cn](http://www.ikuku.cn/wp-content/themes/ikuku2.1/images/logo.jpg)
 
+
+### 协办建筑媒体/Architectural co-media
+
+台湾欣建筑、 谷德建筑网 、世界建筑杂志、 UED杂志、 建筑技艺杂志、 建筑师杂志 、建筑创作杂志、 建筑知识杂志、设计家杂志、 建筑师的非建筑 、Domus、 Archirama、 Architecture Lab、 Akichiatlas、 Competitions.archi/ 等
+
+solomo.xinmedia.com, gooood.hk , World Architecture(WA), Urban Environment Design(UED), Architecture Technique（AT), The Architect ,Archicreation, Architectural Knowledge,Designer&Designing, AboveArch , Domus, Archirama, Architecture Lab, Akichiatlas, Competitions.archi/ etc.
 
 ### 媒体报道:
 
