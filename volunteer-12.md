@@ -36,25 +36,100 @@ B、灾后重建建筑(GARSB)
 18094 http://www.ikuku.cn/post/75561  
 ![GARS-GARSA2-Recycle, Religion & Rebirth](http://www.ikuku.cn/wp-content/uploads/user_upload/18094/75561/1436617301464823-818x575.jpg)
 
+**GARS-GARSA2-Recycle, Religion & Rebirt**  
+设计来源于对尼泊尔印度教的研究及其精神空间的转译。我们希望在给尼泊尔的受灾民众提供一个舒适的庇护场所的同时，在灾民等待家乡重建的过程中，能够借助宗教以及社区的力量来帮助他们获得心灵上的重生。
+
+Our design comes from the study of Hinduism in Nepal and the translation of their spiritual space. We hope that we can offer not only a comfortable shelter for the disaster-stricken people, but also the mental rebirth in the process of the reconstruction of their homes.
+
+通过将震后可利用的废弃物以及剩余人力资源集中起来，并提供简单的建造模式，让民众能够在志愿者的引导下参与自建工作。将废弃的砖石填入轮胎作为建筑的基础，不会破坏现有的场地的同时，起到隔震的作用。建筑的主体结构采用速生廉价的竹材，通过简单的捆扎和榫卯方式进行连接，从而降低建筑的自重及造价。竹材较强的力学性能也能保证余震后建筑内人员的安全。
+
+By gathering the waste and human resources after the earthquake, we designed a self-building mode to help the local people to build their homes by themselves with the guidance of volunteers. The deserted masonry can be filled into tyres to create the bases of the building without the destruction of sites which is also helpful for preventing damages by  earthquake. The fast-growing and low-cost bamboo materials can be used as the main structure of the building to lower the weight and cost of it. Also, the excelllent stress tolerance of bamboo can cope with the aftershocks in the area, to ensure the safety of the people.
+...  
+
+
 19539 http://www.ikuku.cn/post/83345  
 ![GARS-19539-GARSA4 Competition Entry](http://www.ikuku.cn/wp-content/uploads/user_upload/19539/83345/1436534278312880-818x578.jpg)
+
+Although the design task is a temporary kindergarten, our design intention is to design a long lasting and sustainable building system that could contribute to the future of the earthquake affected area. It is an easily constructed system. However, it is easy constructibility should not be related to temporariness. Through a series of design approaches, the richness of the space should contribute to the pride of the community which in turn enrich the meaning of the architecture. In an expectable future, the architectural system could constantly serve the community, becoming a permanent structure.
+
+Few measures that influenced our kindergarten design:
+
+1.Easy accessibility of material
+
+2.Easy constructing methods
+
+3.Psychological needs of children and residence to get rid of the disaster
+
+4.Children’s demand in playing facilities
+
+The unexpectancy of the earthquake requires designs using easily accessible building material and constructing methods to promote voluntary construction by local residents and volunteers.  After researching on local conditions, we select bamboo as primary constructing material due to its easy accessibility, high strength and constructing methods which local Nepalese people are familiar with.
+...  
 
 **三等奖/Third-Prize** （空缺/vacancies:5）  
 
 19102 http://www.ikuku.cn/post/81609  
 ![GARS-GARSB 竹庐](http://www.ikuku.cn/wp-content/uploads/user_upload/19102/81609/1436453344990493-818x512.jpg)
 
+**竹庐**  
+
+OBJECTIVES OF THE DESIGN:
+
+· Low cost by using easily available materials.
+· Fast to build.
+· Relatively easy construction methods that can be taught to the local communities.
+· Remain structurally strong in earthquakes or strong winds.
+· Ability to grow to meet needs of users.
+
+设计目标：
+
+•低成本使用容易获得的材料。  
+•快速建立。  
+•容易施工方法。  
+•结构能够顶住地震或强风的来袭。  
+•有扩大的能力，以满足用户将来的需求。  
+...   
+
+
 19493 http://www.ikuku.cn/post/81611  
 ![GARS-GARSA2,The house as a water container,水容器的家](http://www.ikuku.cn/wp-content/uploads/user_upload/19493/81611/1439447682319277-818x578.jpg)
 
+**The house as a water container,水容器的家**  
+水容器的家 / The house as a water container  
+
+尼泊爾有豐富的水資源，卻因為沒有好的存水設施，導致缺水狀況嚴重，所以企圖打造不只是災民的家，也是收集水的容器系統。
+
+在發生天災過後，常會有大量運送的補給品物資，而裝補給品的收納箱是我們認為重要的組構單元，如果可以統一這些收納箱，我們就可以利用它來組構房子的牆體，每個收納箱就像一塊磚，堆疊起來就像是有厚度的牆體容器，它可以收集雨水再利用，所以當所有屋子的牆體容器都裝滿水，利用彼此間的聯繫，就可以形成一個可調節的水系統。
+
+可調整的空間系統 / Adjustable space system
+
+主要結構利用回收的鷹架來組構，鷹架是建造房子的臨時假設工程，鷹架因為需要可方便運送，所以開發出工業化的模具尺寸，也因組構時間快速，構築簡單，可以大量降低人力的組裝， 空間骨架中利用回收的鷹架來組構，讓當地民眾可以一同參與施工架低人力成本，也可因應當地需求調整空間關係，在開放系統的骨架中填塞容器，使內部牆體的容器成為收納空間，而外部空間成為水資源系統。利用當地的衣服布料作為最外層的皮層，讓每個家屋都可以有自我的面材，也可以利用布來調節濕氣與隔熱，讓屋子可擁有舒適氣候的環境。
+
+
 18260 http://www.ikuku.cn/post/81111  
 ![∞-Cycle](http://www.ikuku.cn/wp-content/uploads/user_upload/18260/81111/1436565645126193-818x579.jpg)
+
+**∞-Cycle**  
+地震灾后,刚刚经受重大创伤的灾民在不断地余震中惊慌度日。对他们而言,有一个安稳的生活环 境尤为奢侈却极其必要。该设计针对从灾后避难、过渡安置、重建回迁、恢复正常生活再到未来的 灾难预防性,进行了一套循环性建筑设计,陪伴居民始终。除避难空间、安置空间外,插入宗教、 集会空间唤起居民日常生活记忆;加入雨水收集、墙上种植课堂、以物换物场所、信息获取中心及 心理辅导医疗室辅助灾民恢复日常生活。在灾后重建及恢复过程中,建筑本体被拆解为不同功能单 体,渗透到日常生活中继续发挥作用。拆解后的建筑则化身城市公园,为未来的灾难提供庇护新一 轮的庇护、安置......空间。此乃∞-CYCLE。 建筑采用灾区廉价易得或方便运输的材料——蔬菜筐、木栈板、软玻璃、捆线及震毁建筑废材。降 低了建造成本,建造难度,易于灾民参与到建造过程当中“以赈代工”。同时,这些材料的使用提高 了生活空间品质。 
 
 19469 http://www.ikuku.cn/post/80625  
 ![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19469/80625/1436502141732078-818x673.jpg)
 
 17840 http://www.ikuku.cn/post/75702  
 ![定日羊毛球幼儿园 GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/17840/75702/1438400989708884-818x578.jpg)
+
+**定日羊毛球幼儿园 [GARS-GARSA4]**  
+“民族游戏将会是灾后儿童心中永不倒塌的支柱，
+羊毛球幼儿园不仅仅是定日儿童提供活动场所，
+更要成为他们生活新的喜悦与希望！”
+
+“搜索羊毛球”是藏族儿童的一项充满探险精神的寻宝类游戏。孩子们中稍大的孩子会担任裁判一职，让其他孩子背过身去、闭上眼睛不能偷看，再把一个包着神秘奖品的羊毛球藏在一个难找的地方，然后大声宣布寻宝活动的开始，让孩子们开始放开手四处寻找。裁判在这个过程中会用淘气的暗示迷惑其他孩子，让他们被误导得在场地里跑来跑去，十分有趣。一旦有人发现了羊毛球，大家都会围上去激烈的争抢，将游戏推向高潮。
+
+定日羊毛球幼儿园的设计灵感正是来源于这项传统藏族儿童游戏。临时幼儿园毛茸茸的外表，会唤起孩子们对羊毛球这项熟悉的游戏的联想；同时圆形的建筑外表，似宝珠、像飞船，又会激发孩子无穷的想象力。
+
+尼泊尔8.1级强震共波及西藏19个县区,其中定日县是三大重灾县之一。全县逾万户房屋受损。
+
+本案选址于白坝村的定日完小南侧空地。白坝村距定日县政府仅6公里，并且毗邻318国道，十分便于迅速集结救援团队和集散救援物资，适合做为定日灾后临时庇护和重建的基地。
+...  
 
 **入围奖/Nominees** （空缺/vacancies:14）  
 
