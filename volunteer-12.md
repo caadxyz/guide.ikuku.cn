@@ -79,6 +79,11 @@ GARSA4(38件): http://www.ikuku.cn/competition/competition-all.php?name=3162
 GARSA5(10件): http://www.ikuku.cn/competition/competition-all.php?name=3163  
 GARSB(57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
 
+[相关媒体报道/Media Report](http://www.ikuku.cn/post/74867)  
+[志愿者行动1/Volunteer Action 1](http://www.ikuku.cn/post/76249)  
+[志愿者行动2/Volunteer Action 2](http://www.ikuku.cn/post/76518)  
+
+
 ### 专家评审团/Jury
 
 **[谢英俊/Hsieh Ying-chun](http://www.ikuku.cn/person/renwu-xieyingjun)：**  
