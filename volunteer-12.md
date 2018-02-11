@@ -155,40 +155,131 @@ OBJECTIVES OF THE DESIGN:
 19549 http://www.ikuku.cn/post/81108  
 ![GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/19549/81108/1436543702898809-818x578.jpg)
 
+构思来自于慕尼黑建材展上所见到的快速建造案例，在该案例中，用硬化泡沫塑料以乐高积木的拼接方式竖起中间空心的墙，往内灌入混凝土，硬化塑料部分充当了模板的同时也作为混凝土墙体的保温层。其时我思考这种建造模式，模板轻盈，易于拼接且不需拆卸，混凝土一般在2天左右即可硬化但需要近一个月才能达到设计强度。如果不用混凝土，在小体量单层的方案中，硬化泡沫塑料已经可以作为独立的结构墙体。在灾后重建中，硬化泡沫塑料易生产和运输，模数化的分割和乐高式的榫卯接口也易于当地居民手工建造，尤其是在灾后可能有余震的情况下，泡沫塑料即使倒塌也不会伤人，尤其适合幼儿园这样有特殊使用人群的类型。
+
+方案将本来用于浇筑混凝土的空间尺度放大，置入功能。 并将墙进行错位，使空间大小异化以适应不同行为。以轻型钢拉结两片墙增加稳固性，同时作为地坪与屋顶的檩条。所有构件均模数化以尽量减少尺寸种类。考虑到当地盛产竹材，可用竹材代替钢筋，穿与泡沫塑料之内，增强竖向构件间的稳定性。
+
+The conception come from the fast-building tecnique, which use the Expanding polystyrene rigid  foam board as the formwork of concreting, where esch element ensemble as  LEGO toy block. Then they pour concrete in the cavity while the Expanding polystyrene rigid  foam board act as the  insulation and needn't disassemble . The material is light ,easy to transport and build, especially when Aftershock happen it will not damage the users. So I design the nursery with the  Expanding polystyrene rigid  foam board as indepndent wall. With the junction like LEGO, it can be easily building by local people. Limited the hight and scale, it is study enough for being estructure.. I amplify the distance between two elemente and input function in where was concrete bedore. The distance can be varied to suit diferent activity. Steel bar is used as straining beam to enforce the relative stability. Also the bamboo cam be used  to connect the element by threading them together.
+
+----
+
 
 18845 http://www.ikuku.cn/post/81908  
 ![Just a Minute](http://www.ikuku.cn/wp-content/uploads/user_upload/18845/81908/1436454579305046-818x578.jpg)
 
+**Just a Minute**  
+
+An earthquake can ruin the life of an entire community in a minute. This instant temporary home can give a new chance to start their life again in "just a minute" as well. "Just a Minute" aims to build a new life for nepalese people, giving them a simple but efficient house, very open to customization and future switching into a stable house. The main idea of the project is to use local Nepalese materials, or from close countries, to make a house that can be built quickly, lightweight and compact to transport, durable (despite it is temporary) and economic. 
+
+The use of a deployable structure made of bamboo and textile building envelope, allows transport the house closed occupying a footprint of 2.5 x 4 meters and, once open, to get a 4 x 7.11 meters house. Its fabrication does not require complex technologies or skilled labor, but just a series of simple operations useful to prepare the various parts to be assembled all together. The modularity of the structure allows to organize the construction process in stages, as in an assembly line. For instance, the bamboo modules can be prepared by a team, a second team can prepare the central core, another can handle the textile envelope, and so on. Obviously, some parts can be prefabricated, so as to arrive on the fabrication site already pre-worked, speeding up the process.
+
+At the center of the house there is a permanent part, made of coverable wooden OSB panels, equipped with all the services (bathroom and kitchen), which measures 1.5 x 4 meters. On the sides of the central block, are deployed the two main rooms (living area and sleeping area) which measure 4 x 4 meters, plus a small covered outdoor area of 1 x 4 meters. The two side rooms consist, in fact, of horizontal (floor), vertical (upright) and oblique (roof) bamboo poles with a diameter of 6 cm, braced by bamboo poles arranged in X, with a diameter of 3 cm. These poles are drilled at the center and at the ends, so as to allow the structure to unfold. The fixing of the poles, after opening the structure, is ensured by butterfly screws. This installation system requires few volunteers and a very simple process...  
+
+----
+
 18550 http://www.ikuku.cn/post/77449  
 ![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/18550/77449/1436529318240282-818x578.jpg)
+
+每一次灾难的降临，都伴随着辛酸苦辣，但带给我们的却是新的挑战和机遇，也是又一次的奋起和顽强，2015年4月25日，一声巨响打破了人们平静的生活，地震袭来了，面对突如其来的灾难，安置大量无家可归的难民成为了首要问题，在此基础上，我进行了灾中临时安置房的设计，此设计以乐高积木为原型，在此基础上进行结构改造，将其划分为不同的结构单元，并且与灾民的救援物资联系起来，提高了安置房的施工效率，同时保证救援物资与安置房的同时到达，确保灾民在最短时间得到安置。
+ 在建造材料的选取时，我选用了新型有机材料ABS合成树脂，也是工程塑料的一种，这种材料稳定性高，同时为轻质可回收材料，我通过将其加工成相同尺寸的模块单元，实现了生产过程的高效，同时在每个模块内甲保温层，保证了临时安置房的保温条件，模块最内部为空腔结构，用于填充各种不同的救援物资，如饮用水，衣物，通信设备，食品等，保证了救援物资与安置房的同时到达，在短时间内安置灾民，体现了作为设计师的人文关怀。
+
+----
 
 18017 http://www.ikuku.cn/post/75343  
 ![Jigsaw Puzzle Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18017/75343/1436280003964008-818x578.jpg)
 
-17725 http://www.ikuku.cn/post/76071  
-![GARS-GARSA2](http://www.ikuku.cn/wp-content/uploads/user_upload/17725/76071/1436541466541199-818x578.jpg)
+**Jigsaw Puzzle Shelter**  
 
-4093 http://www.ikuku.cn/post/85214  
-![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/4093/85214/1436630677211680-818x578.jpg)
+Background
 
-19392 http://www.ikuku.cn/post/80424  
-![FLEXHOME - emergency shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/19392/80424/1436483587236444-818x578.jpg)
+Among the past shelters, fast production and comfortable living condition couldn’t always be approached at the same time. Some shelters could be constructed in a short term and cost relatively little money, but the living condition inside the shelters was not satisfying. Refugees always complained about the problems that there was not enough space, every people in one family had to sleep in one single room; it was too dark inside the shelter, and there was always rain leaking from outside; the crying voice and noise of people losing there families coming from outside could be heard very clearly, which was not helpful for psychological rehabilitation; the smell from public toilet was too strong; there was too much mud and many insects inside the shelter; the aesthetic design of shelters had no connection with local culture that people could barely feel they were living at home. On the other hand, to construct a shelter for refugees with a good living condition would cost the government and organizations too much energetically and financially with a much longer time.
 
-19769 http://www.ikuku.cn/post/82576  
-![GARS-GARSB PERMANENT HOUSING](http://www.ikuku.cn/wp-content/uploads/user_upload/19769/82576/1436526615977464-818x578.jpg)
+Meanwhile, the technology of CNC milling machine (laser cutter) and 3D printer has been developed extremely rapidly. These kinds of technologies make building and producing much faster and more popular, that almost everyone can make industrial products, even architectures by themselves.
 
-19280 http://www.ikuku.cn/post/87356  
-![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19280/87356/1437777026495694-818x562.jpg)
+Vernacular Architecture in Nepal
 
-12706 http://www.ikuku.cn/post/81179  
-![GARS-GARSA4 LOVE FLOWER](http://www.ikuku.cn/wp-content/uploads/user_upload/12706/81179/1436191097904578-818x580.jpg)
+The traditional house in Nepal has the characteristics as follows:
 
-18610 http://www.ikuku.cn/post/80944  
-![Chute to Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18610/80944/1436534877141816-818x270.jpg)
+1. The house has two sides slope roof. The materials that the building is made of are mainly wood and stone. Wood will be used as structure and stone will be use as walls and foundations.
+
+2. The shape of the house is normally a straight simple volume. Sometimes local people will attach one or two more volumes to the main one to form an L or C shape...  
 
 
 ----
 
+17725 http://www.ikuku.cn/post/76071  
+![GARS-GARSA2](http://www.ikuku.cn/wp-content/uploads/user_upload/17725/76071/1436541466541199-818x578.jpg)
+
+----
+
+4093 http://www.ikuku.cn/post/85214  
+![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/4093/85214/1436630677211680-818x578.jpg)
+
+----
+
+19392 http://www.ikuku.cn/post/80424  
+![FLEXHOME - emergency shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/19392/80424/1436483587236444-818x578.jpg)
+
+**FLEXHOME - emergency shelter**  
+FLEXHOME, is a folding modular home, of quick to assemble, lightweight and easy to transport useful in emergencies as a temporary home because it has a lightweight and foldable structure, which makes it stackable and easy to carry in large amounts and being able to lift refugee camps in minutes, since you only need 1 or 2 people to assemble the house in less than 10 minutes.
+
+This house is inspired in tent camping and the mobile homes. FLEXHOME is a lightweight structure with wheels that allows it to be easily transported and assembled in minutes.
+
+It consists of 75% fabric and 25% aluminum, polycarbonate and chipboard wood.
+
+The house is designed based on fabric modules attached to aluminum frames allowing be folded horizontally pulling the sides, thus avoiding the use of any specialized machine.
+
+The wheels allow isolating the house of the soil making the air circulate underneath avoiding moisture problems and possible diseases that may contain the ground.
+
+The space is designed to function as a temporary home, but thanks to its modularity and flexibility can function as, hospital, school or other function, FLEXHOME also has the versatility of a mobile home but with the lightness of a tent camping, for what it can be transported or towed by an alone person in bicycle
+
+---
+
+19769 http://www.ikuku.cn/post/82576  
+![GARS-GARSB PERMANENT HOUSING](http://www.ikuku.cn/wp-content/uploads/user_upload/19769/82576/1436526615977464-818x578.jpg)
+
+The main concept of design is to retain the vernacular Architecture of hilly region in addition improving the structural soundness of building. People of rural area cannot  accept the completely overhauled design so proposal have focused on the traditional vernacular architecture. The traditional architecture also has qualities like creating comfortable living spaces.
+
+---
+
+19280 http://www.ikuku.cn/post/87356  
+![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19280/87356/1437777026495694-818x562.jpg)
+
+---
+
+12706 http://www.ikuku.cn/post/81179  
+![GARS-GARSA4 LOVE FLOWER](http://www.ikuku.cn/wp-content/uploads/user_upload/12706/81179/1436191097904578-818x580.jpg)
+
+**GARS-GARSA4 LOVE FLOWER**  
+The sun on the national flag of Nepal looks like a blooming flower, full of hope, blessing homeland forever.  
+尼泊尔国旗上的太阳亦如一朵绽放的希望之花，寄托了国家与日月长久共存的愿望。
+
+In the meantime, the two overlapping triangles on the national flag of Nepal represent Himalayas, reminding people of the edelweiss, small and white, clean and bright, dancing freely.
+
+国旗上两个重叠的三角象征喜马拉雅山，让人联想起无忧无虑、翩翩飘舞的雪绒花。
+
+In both Buddhism and Hinduism, Lotus has its unique symbolic significance. Lotus touches something deep in the heart of the Oriental culture-peace, joy, delight, supernature and smile.
+
+莲花无论是在佛教还是印度教，都有其独特的象征意义。莲花象征深入东方文化的骨髓，宁静、愉悦、超脱和微笑。
+
+The design of "Love flower " is a combination of lotus, the sun and the edelweiss, with the management of modular containers to form a standard unit. The final shape of the Kindergarten is adjustable, according to scale and real use to form a ring pattern with 6, 8 or 10 standard units. The main concept is to provide a paradise for the kids in the disaster stricken area. Blossom of love flower may the kids bloom and grow, bloom and grow forever. And bless Nepal forever.
+
+“爱之花”的形象，是莲花、太阳和雪绒花意象的融合，并巧妙用模数化的集装箱拼合成独立的标准单元。幼儿园最终的形态可根据规模大小和实际需求进行组合，形成6 瓣、8 瓣、10 瓣等的环状模式，为灾区儿童提供一处学习和游戏的乐园，希望他们尽快从灾难中挺过来。
+
+----
+
+18610 http://www.ikuku.cn/post/80944  
+![Chute to Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18610/80944/1436534877141816-818x270.jpg)
+
+**Chute to Shelter**  
+
+我们的应急庇护所设计灵感来源于提高空投物资时投物伞的利用效率，将运输、结构、空间集合为一体，降落伞伞衣本身匹配充气结构，落地充气形成支撑及围护结构，成为应急庇护所空间。
+空投物资包括其余必要组件和医疗、食品等物资。物资打包尺寸及重量均经过计算符合投物伞的空投能力。
+设计中还提供了特色的雨水收集系统、多功能设备设施、集成化设计理念，提高了救援效率和灵活度，并使受灾民众具备一定的救援能力，同时降低了成本，节约了时间。
+
+Design has transported, structure, space set as a whole together.Airdrop based.The parachute itself is matched with the inflatable structure, which is formed of supporting structure.The rest of the components including airdrop supplies and medical, food and other supplies.With characteristics of rainwater harvesting system, multifunctional equipments, integrated design concept to improve the rescue efficiency and flexibility, and reduces the cost,at the same time.
+
+----
 
 [相关媒体报道/Media Report](http://www.ikuku.cn/post/74867)  
 [志愿者行动1/Volunteer Action 1](http://www.ikuku.cn/post/76249)  
