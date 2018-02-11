@@ -2,11 +2,12 @@
 
 - [主题](#主题)
 - [内容](#内容)
-- [获奖名单](#GARS获奖名单/Award-List)
-- [评委及感言](#专家评审团/Jury)
-- [参与国家及地区](#参与的国家与地区/44)
+- [获奖名单](#GARS获奖名单)
+- [评委及感言](#专家评审团)
+- [参与国家及地区](#参与国家与地区)
 - [承办单位及媒体报道](#承办单位)
 
+![gars](http://www.ikuku.cn/competition//images/1.jpg)
 
 ### 主题
 * 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
@@ -26,7 +27,7 @@ A、灾中应急建筑：
 B、灾后重建建筑(GARSB)  
 (57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
 
-### GARS获奖名单/Award-List
+### GARS获奖名单
 
 **一等奖/First-Prize** （空缺/vacancies:2）
 
@@ -96,7 +97,7 @@ B、灾后重建建筑(GARSB)
 [志愿者行动2/Volunteer Action 2](http://www.ikuku.cn/post/76518)  
 
 
-### 专家评审团/Jury
+### 专家评审团
 
 **[谢英俊/Hsieh Ying-chun](http://www.ikuku.cn/person/renwu-xieyingjun)：**  
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。
@@ -227,9 +228,9 @@ Nepal has experienced a nightmare. An earthquake greater than the earthquake in 
 ——Sujeet Babu Shrestha
 
 
-### 参与的国家与地区/44
+### 参与国家与地区
 
-Australia　Bangladesh (বাংলাদেশ)　Bolivia　Brazil (Brasil)　Canada　China (中国)　Colombia　Costa Rica　Germany (Deutschland)　Egypt (‫مصر‬‎)　Spain (España)　Finland (Suomi)　France　United Kingdom　Guatemala　Hong Kong (香港)　Indonesia　Ireland　Israel (‫ישראל‬‎)　India (भारत)　Iran (‫ایران‬‎)　Italy (Italia)　Japan (日本)　Cambodia (កម្ពុជា)　South Korea (대한민국)　Mauritius (Moris)　Malaysia　Mozambique (Moçambique)　Netherlands (Nederland)　Nepal (नेपाल)　Philippines　Pakistan (‫پاکستان‬‎)　Poland (Polska)　Portugal　Romania (România)　Serbia (Србија)　Saudi Arabia (‫المملكة العربية السعودية‬‎)　Sweden (Sverige)　Singapore　Turkey (Türkiye)　Taiwan (台灣)　United States　Vietnam (Việt Nam)
+44个国家与地区: Australia　Bangladesh (বাংলাদেশ)　Bolivia　Brazil (Brasil)　Canada　China (中国)　Colombia　Costa Rica　Germany (Deutschland)　Egypt (‫مصر‬‎)　Spain (España)　Finland (Suomi)　France　United Kingdom　Guatemala　Hong Kong (香港)　Indonesia　Ireland　Israel (‫ישראל‬‎)　India (भारत)　Iran (‫ایران‬‎)　Italy (Italia)　Japan (日本)　Cambodia (កម្ពុជា)　South Korea (대한민국)　Mauritius (Moris)　Malaysia　Mozambique (Moçambique)　Netherlands (Nederland)　Nepal (नेपाल)　Philippines　Pakistan (‫پاکستان‬‎)　Poland (Polska)　Portugal　Romania (România)　Serbia (Србија)　Saudi Arabia (‫المملكة العربية السعودية‬‎)　Sweden (Sverige)　Singapore　Turkey (Türkiye)　Taiwan (台灣)　United States　Vietnam (Việt Nam)
 
 ![44](http://www.ikuku.cn/competition/images/count_map.jpg)
 
