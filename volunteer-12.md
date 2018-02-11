@@ -1,12 +1,20 @@
 # 尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动
 
+- [主题](#主题)
+- [内容](#内容)
+- [获奖名单](#GARS获奖名单/Award-List)
+- [评委及感言](#专家评审团/Jury)
+- [参与国家及地区](#参与的国家与地区/44)
+- [承办单位及媒体报道](#承办单位)
+
+
 ### 主题
 * 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
 * 积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
 * 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 * 详细介绍见: [http://www.ikuku.cn/competition](http://www.ikuku.cn/competition)  
 
-### 设计内容
+### 内容
 
 A、灾中应急建筑：  
 • 灾民紧急安置避难所(GARSA1)(86件): http://www.ikuku.cn/competition/competition-all.php?name=3159  
@@ -18,7 +26,7 @@ A、灾中应急建筑：
 B、灾后重建建筑(GARSB)  
 (57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
 
-### GARS获奖名单/Award List
+### GARS获奖名单/Award-List
 
 **一等奖/First-Prize** （空缺/vacancies:2）
 
@@ -219,14 +227,14 @@ Nepal has experienced a nightmare. An earthquake greater than the earthquake in 
 ——Sujeet Babu Shrestha
 
 
-### 参与的国家与地区(44个):
+### 参与的国家与地区/44
 
 Australia　Bangladesh (বাংলাদেশ)　Bolivia　Brazil (Brasil)　Canada　China (中国)　Colombia　Costa Rica　Germany (Deutschland)　Egypt (‫مصر‬‎)　Spain (España)　Finland (Suomi)　France　United Kingdom　Guatemala　Hong Kong (香港)　Indonesia　Ireland　Israel (‫ישראל‬‎)　India (भारत)　Iran (‫ایران‬‎)　Italy (Italia)　Japan (日本)　Cambodia (កម្ពុជា)　South Korea (대한민국)　Mauritius (Moris)　Malaysia　Mozambique (Moçambique)　Netherlands (Nederland)　Nepal (नेपाल)　Philippines　Pakistan (‫پاکستان‬‎)　Poland (Polska)　Portugal　Romania (România)　Serbia (Србија)　Saudi Arabia (‫المملكة العربية السعودية‬‎)　Sweden (Sverige)　Singapore　Turkey (Türkiye)　Taiwan (台灣)　United States　Vietnam (Việt Nam)
 
 ![44](http://www.ikuku.cn/competition/images/count_map.jpg)
 
 
-### 承办单位:
+### 承办单位
 
 ![ikuku.cn](http://www.ikuku.cn/wp-content/themes/ikuku2.1/images/logo.jpg)
 
@@ -237,7 +245,7 @@ Australia　Bangladesh (বাংলাদেশ)　Bolivia　Brazil (Brasil)　
 
 solomo.xinmedia.com, gooood.hk , World Architecture(WA), Urban Environment Design(UED), Architecture Technique（AT), The Architect ,Archicreation, Architectural Knowledge,Designer&Designing, AboveArch , Domus, Archirama, Architecture Lab, Akichiatlas, Competitions.archi/ etc.
 
-### 媒体报道:
+### 媒体报道
 
 欣建筑(台湾)  
 http://solomo.xinmedia.com/archi/21759-ikuku  
@@ -294,7 +302,3 @@ http://mp.weixin.qq.com/s?__biz=MzA5NTQ2MDMyNg==&mid=206485780&idx=2&sn=34c5ac28
 http://mp.weixin.qq.com/s?__biz=MzA5MjAzMzYwNA==&mid=206617629&idx=1&sn=06276d9370b84f33d79a53b975a60642  
 深圳市土木再生城乡营造研究所  
 http://mp.weixin.qq.com/s?__biz=MjM5Njg1MjgyMg==&mid=206591745&idx=1&sn=39fbe3b8cd15a7f6d853388702acc20b  
-
-
-
-
