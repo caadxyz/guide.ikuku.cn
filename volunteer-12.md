@@ -31,7 +31,11 @@ B、灾后重建建筑(GARSB)
 
 **一等奖/First-Prize** （空缺/vacancies:2）
 
+---
+
 **二等奖/Second-Prize**（空缺/vacancies:2）
+
+----
 
 18094 http://www.ikuku.cn/post/75561  
 ![GARS-GARSA2-Recycle, Religion & Rebirth](http://www.ikuku.cn/wp-content/uploads/user_upload/18094/75561/1436617301464823-818x575.jpg)
@@ -46,6 +50,7 @@ Our design comes from the study of Hinduism in Nepal and the translation of thei
 By gathering the waste and human resources after the earthquake, we designed a self-building mode to help the local people to build their homes by themselves with the guidance of volunteers. The deserted masonry can be filled into tyres to create the bases of the building without the destruction of sites which is also helpful for preventing damages by  earthquake. The fast-growing and low-cost bamboo materials can be used as the main structure of the building to lower the weight and cost of it. Also, the excelllent stress tolerance of bamboo can cope with the aftershocks in the area, to ensure the safety of the people.
 ...  
 
+---
 
 19539 http://www.ikuku.cn/post/83345  
 ![GARS-19539-GARSA4 Competition Entry](http://www.ikuku.cn/wp-content/uploads/user_upload/19539/83345/1436534278312880-818x578.jpg)
@@ -65,7 +70,11 @@ Few measures that influenced our kindergarten design:
 The unexpectancy of the earthquake requires designs using easily accessible building material and constructing methods to promote voluntary construction by local residents and volunteers.  After researching on local conditions, we select bamboo as primary constructing material due to its easy accessibility, high strength and constructing methods which local Nepalese people are familiar with.
 ...  
 
+---
+
 **三等奖/Third-Prize** （空缺/vacancies:5）  
+
+---
 
 19102 http://www.ikuku.cn/post/81609  
 ![GARS-GARSB 竹庐](http://www.ikuku.cn/wp-content/uploads/user_upload/19102/81609/1436453344990493-818x512.jpg)
@@ -89,6 +98,7 @@ OBJECTIVES OF THE DESIGN:
 •有扩大的能力，以满足用户将来的需求。  
 ...   
 
+---
 
 19493 http://www.ikuku.cn/post/81611  
 ![GARS-GARSA2,The house as a water container,水容器的家](http://www.ikuku.cn/wp-content/uploads/user_upload/19493/81611/1439447682319277-818x578.jpg)
@@ -104,6 +114,7 @@ OBJECTIVES OF THE DESIGN:
 
 主要結構利用回收的鷹架來組構，鷹架是建造房子的臨時假設工程，鷹架因為需要可方便運送，所以開發出工業化的模具尺寸，也因組構時間快速，構築簡單，可以大量降低人力的組裝， 空間骨架中利用回收的鷹架來組構，讓當地民眾可以一同參與施工架低人力成本，也可因應當地需求調整空間關係，在開放系統的骨架中填塞容器，使內部牆體的容器成為收納空間，而外部空間成為水資源系統。利用當地的衣服布料作為最外層的皮層，讓每個家屋都可以有自我的面材，也可以利用布來調節濕氣與隔熱，讓屋子可擁有舒適氣候的環境。
 
+----
 
 18260 http://www.ikuku.cn/post/81111  
 ![∞-Cycle](http://www.ikuku.cn/wp-content/uploads/user_upload/18260/81111/1436565645126193-818x579.jpg)
@@ -111,8 +122,12 @@ OBJECTIVES OF THE DESIGN:
 **∞-Cycle**  
 地震灾后,刚刚经受重大创伤的灾民在不断地余震中惊慌度日。对他们而言,有一个安稳的生活环 境尤为奢侈却极其必要。该设计针对从灾后避难、过渡安置、重建回迁、恢复正常生活再到未来的 灾难预防性,进行了一套循环性建筑设计,陪伴居民始终。除避难空间、安置空间外,插入宗教、 集会空间唤起居民日常生活记忆;加入雨水收集、墙上种植课堂、以物换物场所、信息获取中心及 心理辅导医疗室辅助灾民恢复日常生活。在灾后重建及恢复过程中,建筑本体被拆解为不同功能单 体,渗透到日常生活中继续发挥作用。拆解后的建筑则化身城市公园,为未来的灾难提供庇护新一 轮的庇护、安置......空间。此乃∞-CYCLE。 建筑采用灾区廉价易得或方便运输的材料——蔬菜筐、木栈板、软玻璃、捆线及震毁建筑废材。降 低了建造成本,建造难度,易于灾民参与到建造过程当中“以赈代工”。同时,这些材料的使用提高 了生活空间品质。 
 
+---
+
 19469 http://www.ikuku.cn/post/80625  
 ![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19469/80625/1436502141732078-818x673.jpg)
+
+---
 
 17840 http://www.ikuku.cn/post/75702  
 ![定日羊毛球幼儿园 GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/17840/75702/1438400989708884-818x578.jpg)
@@ -131,10 +146,15 @@ OBJECTIVES OF THE DESIGN:
 本案选址于白坝村的定日完小南侧空地。白坝村距定日县政府仅6公里，并且毗邻318国道，十分便于迅速集结救援团队和集散救援物资，适合做为定日灾后临时庇护和重建的基地。
 ...  
 
+----
+
 **入围奖/Nominees** （空缺/vacancies:14）  
+
+----
 
 19549 http://www.ikuku.cn/post/81108  
 ![GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/19549/81108/1436543702898809-818x578.jpg)
+
 
 18845 http://www.ikuku.cn/post/81908  
 ![Just a Minute](http://www.ikuku.cn/wp-content/uploads/user_upload/18845/81908/1436454579305046-818x578.jpg)
@@ -165,6 +185,9 @@ OBJECTIVES OF THE DESIGN:
 
 18610 http://www.ikuku.cn/post/80944  
 ![Chute to Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18610/80944/1436534877141816-818x270.jpg)
+
+
+----
 
 
 [相关媒体报道/Media Report](http://www.ikuku.cn/post/74867)  
