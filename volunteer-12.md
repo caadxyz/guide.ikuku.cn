@@ -17,14 +17,14 @@
 ### 内容
 
 A、灾中应急建筑：  
-• 灾民紧急安置避难所(GARSA1)(86件): http://www.ikuku.cn/competition/competition-all.php?name=3159  
-• 灾民过渡安置房(GARSA2)(88件): http://www.ikuku.cn/competition/competition-all.php?name=3160  
-• 灾区临时教室（小学、中学）(GARSA3)(40件): http://www.ikuku.cn/competition/competition-all.php?name=3161  
-• 灾区临时幼儿园(GARSA4)(38件): http://www.ikuku.cn/competition/competition-all.php?name=3162  
-• 灾区临时医院(GARSA5)(10件): http://www.ikuku.cn/competition/competition-all.php?name=3163  
+• 灾民紧急安置避难所(GARSA1)(**86件**): http://www.ikuku.cn/competition/competition-all.php?name=3159  
+• 灾民过渡安置房(GARSA2)(**88件**): http://www.ikuku.cn/competition/competition-all.php?name=3160  
+• 灾区临时教室（小学、中学）(GARSA3)(**40件**): http://www.ikuku.cn/competition/competition-all.php?name=3161  
+• 灾区临时幼儿园(GARSA4)(**38件**): http://www.ikuku.cn/competition/competition-all.php?name=3162  
+• 灾区临时医院(GARSA5)(**10件**): http://www.ikuku.cn/competition/competition-all.php?name=3163  
 
 B、灾后重建建筑(GARSB)  
-(57件): http://www.ikuku.cn/competition/competition-all.php?name=3164  
+(**57件**): http://www.ikuku.cn/competition/competition-all.php?name=3164  
 
 ### 获奖名单
 
