@@ -29,7 +29,16 @@ B、灾后重建建筑(GARSB)
 
 ### 获奖名单
 
-**A组一等奖/First-Prize** （空缺/vacancies:1）
+**A组一等奖/First-Prize** 
+
+19432 http://www.ikuku.cn/post/81847  
+![GARS-GARSA3](http://www.ikuku.cn/wp-content/uploads/user_upload/19432/81847/1436500073107973-818x578.jpg)
+
+We believe the construction of emergency schools in the areas of Gorkha, Sindhupalchowk and Nuwakot to be a primary concern in the rehabilitation of Nepal. Not only have the earthquakes destroyed 90% of the school facilities but the mountainous landscape will make reconstruction very difficult. The project of an emergency school in the mountain area involves two main qualities: swiftness and sustainability.
+
+The core principle of our architectural proposal is rapid construction. The system is designed in such a way that it can be transported by helicopter to the site in the mountain. This project requires five transport cases. The difficult location and vehicle accessibility of the valleys have dictated the design of the system, resulting in the use of a minimal amount of externally sourced materials. The assemblage can adapt to segment of different natures: big bamboos, trunks, and remaining structural elements from collapsed buildings. As a result, one would see a criss-crossed bamboo frame which can support a variety of building skins. The outer shell of the building will progress from temporary tarpaulin to permanent mud walls. The structure provides flexibility to maintain both the roof and walls during an earthquake.
+
+The school is made of five areas: two classrooms, a lavatory, one covered and one outdoor courtyard. The treatment of the walls can be varied depending on the function of the space they enclose. Most importantly, this architectural concept allows for the quick and easy restructuring and addition of spaces. For instance, a covered courtyard could easily become a third classroom. The buildings respond to the terraced site, the size of the terrace, and the distance between each level. In this way, the system is very responsive to its surroundings, the possibility of future seismic activity and the changes this could bring about.
 
 **B组一等奖/First-Prize** 
 
