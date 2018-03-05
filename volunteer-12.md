@@ -59,21 +59,6 @@ The past regular disaster reconstruction projects have not managed to consider f
 
 **二等奖/Second-Prize**（空缺/vacancies:2）
 
-----
-
-18094 http://www.ikuku.cn/post/75561  
-![GARS-GARSA2-Recycle, Religion & Rebirth](http://www.ikuku.cn/wp-content/uploads/user_upload/18094/75561/1436617301464823-818x575.jpg)
-
-**GARS-GARSA2-Recycle, Religion & Rebirt**  
-设计来源于对尼泊尔印度教的研究及其精神空间的转译。我们希望在给尼泊尔的受灾民众提供一个舒适的庇护场所的同时，在灾民等待家乡重建的过程中，能够借助宗教以及社区的力量来帮助他们获得心灵上的重生。
-
-Our design comes from the study of Hinduism in Nepal and the translation of their spiritual space. We hope that we can offer not only a comfortable shelter for the disaster-stricken people, but also the mental rebirth in the process of the reconstruction of their homes.
-
-通过将震后可利用的废弃物以及剩余人力资源集中起来，并提供简单的建造模式，让民众能够在志愿者的引导下参与自建工作。将废弃的砖石填入轮胎作为建筑的基础，不会破坏现有的场地的同时，起到隔震的作用。建筑的主体结构采用速生廉价的竹材，通过简单的捆扎和榫卯方式进行连接，从而降低建筑的自重及造价。竹材较强的力学性能也能保证余震后建筑内人员的安全。
-
-By gathering the waste and human resources after the earthquake, we designed a self-building mode to help the local people to build their homes by themselves with the guidance of volunteers. The deserted masonry can be filled into tyres to create the bases of the building without the destruction of sites which is also helpful for preventing damages by  earthquake. The fast-growing and low-cost bamboo materials can be used as the main structure of the building to lower the weight and cost of it. Also, the excelllent stress tolerance of bamboo can cope with the aftershocks in the area, to ensure the safety of the people.
-...  
-
 ---
 
 19505 http://www.ikuku.cn/post/81091  
@@ -84,6 +69,7 @@ By gathering the waste and human resources after the earthquake, we designed a s
 The materials for beehive module are steel bar and steel joiner for the frame. Plywood ( plywood is cheap but durable, it can suffer water  and hard environment)  for floor and cladding and it also stabilizing the frame , canvas for roof
 
 Module can be disassemble to small component, so that it is very easy to transport
+
 
 ---
 
@@ -103,6 +89,22 @@ Few measures that influenced our kindergarten design:
 4.Children’s demand in playing facilities
 
 The unexpectancy of the earthquake requires designs using easily accessible building material and constructing methods to promote voluntary construction by local residents and volunteers.  After researching on local conditions, we select bamboo as primary constructing material due to its easy accessibility, high strength and constructing methods which local Nepalese people are familiar with.
+...  
+
+
+----
+
+18094 http://www.ikuku.cn/post/75561  
+![GARS-GARSA2-Recycle, Religion & Rebirth](http://www.ikuku.cn/wp-content/uploads/user_upload/18094/75561/1436617301464823-818x575.jpg)
+
+**GARS-GARSA2-Recycle, Religion & Rebirt**  
+设计来源于对尼泊尔印度教的研究及其精神空间的转译。我们希望在给尼泊尔的受灾民众提供一个舒适的庇护场所的同时，在灾民等待家乡重建的过程中，能够借助宗教以及社区的力量来帮助他们获得心灵上的重生。
+
+Our design comes from the study of Hinduism in Nepal and the translation of their spiritual space. We hope that we can offer not only a comfortable shelter for the disaster-stricken people, but also the mental rebirth in the process of the reconstruction of their homes.
+
+通过将震后可利用的废弃物以及剩余人力资源集中起来，并提供简单的建造模式，让民众能够在志愿者的引导下参与自建工作。将废弃的砖石填入轮胎作为建筑的基础，不会破坏现有的场地的同时，起到隔震的作用。建筑的主体结构采用速生廉价的竹材，通过简单的捆扎和榫卯方式进行连接，从而降低建筑的自重及造价。竹材较强的力学性能也能保证余震后建筑内人员的安全。
+
+By gathering the waste and human resources after the earthquake, we designed a self-building mode to help the local people to build their homes by themselves with the guidance of volunteers. The deserted masonry can be filled into tyres to create the bases of the building without the destruction of sites which is also helpful for preventing damages by  earthquake. The fast-growing and low-cost bamboo materials can be used as the main structure of the building to lower the weight and cost of it. Also, the excelllent stress tolerance of bamboo can cope with the aftershocks in the area, to ensure the safety of the people.
 ...  
 
 ---
