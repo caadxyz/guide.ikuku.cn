@@ -76,6 +76,17 @@ By gathering the waste and human resources after the earthquake, we designed a s
 
 ---
 
+19505 http://www.ikuku.cn/post/81091  
+![ONE KIND OF MODULE FOR ALL PURPOSE AND PERFORMANCE](http://www.ikuku.cn/wp-content/uploads/user_upload/19505/81091/1436543367814200-818x578.jpg)
+
+**ONE KIND OF MODULE FOR ALL PURPOSE AND PERFORMANCE**
+
+The materials for beehive module are steel bar and steel joiner for the frame. Plywood ( plywood is cheap but durable, it can suffer water  and hard environment)  for floor and cladding and it also stabilizing the frame , canvas for roof
+
+Module can be disassemble to small component, so that it is very easy to transport
+
+---
+
 19539 http://www.ikuku.cn/post/83345  
 ![GARS-19539-GARSA4 Competition Entry](http://www.ikuku.cn/wp-content/uploads/user_upload/19539/83345/1436534278312880-818x578.jpg)
 
