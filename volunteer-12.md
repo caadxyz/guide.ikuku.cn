@@ -29,7 +29,22 @@ B、灾后重建建筑(GARSB)
 
 ### 获奖名单
 
-**一等奖/First-Prize** （空缺/vacancies:2）
+**A组一等奖/First-Prize** （空缺/vacancies:1）
+
+**B组一等奖/First-Prize** 
+
+12356 http://www.ikuku.cn/post/80013  
+![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/12356/80013/1436632192184122-818x578.jpg)
+
+2015年04月25日14时11分在尼泊尔发生8.1级地震。同年05月12日15时05分在尼泊尔发生7.5级地震。数以万计的人们失去了自己的亲人。  
+
+地震给尼泊尔人带来的不仅仅是一次性的对生命、财产、文化的伤害，还会带给他们许多长期的，甚至终生性的伤害。大量人员死亡切断了人们之间的社会关系网，让每个人都成为孤独的受害者。那些在地震中失去亲人的家庭，往往会承受长期的痛苦。无论是失去父母的小孩、失去老伴和儿女的老人、失去丈夫的妇女，孤独，思念，回忆会长期伴随着他们。 
+
+以往常规的灾后重建都没能很好地为这类人群考虑。因此本方案利用尼泊尔家族聚居模式和传统的院落住宅空间，设计多个传统尺度的半开放小院宅，熟悉的人们共同居住在小院落中，形成一个亲密的小家族。而3到5个小院又会组成一个大院，形成一个社会化的大家庭。最终重建社会关系网络，来自不同家庭的失亲者相互帮助，相互安慰，相互扶持，共同迈向崭新的生活。 
+
+The April 2015 Nepal earthquake killed more than 9,000 people, thousands of people lost their loved ones in tears.  The earthquake not only caused one-time damage, but also did long-term damage even permanent damage，especially for the families which lost their members. The parents who lost their children, the old who lost their son, the wife who lost their husband, these person can be chronically lonely and sad, even live a helplessness life.
+
+The past regular disaster reconstruction projects have not managed to consider for this group of people. We, hence design several semi-open courtyards from traditional scale(smaller one) to relatively large scale. Smaller courtyards may compose bigger ones. 3to 5 families, which lost family members, or individuals could build up a new family. People who lost their beloved-ones from different families, help one another, and step into their new epoch of lives.
 
 ---
 
