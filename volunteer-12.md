@@ -31,7 +31,7 @@ B、灾后重建建筑(GARSB)
 
 **A组一等奖/First-Prize** 
 
-19432 http://www.ikuku.cn/post/81847  
+19432 http://www.ikuku.cn/post/81847  Region:Germany (Deutschland)  
 ![GARS-GARSA3](http://www.ikuku.cn/wp-content/uploads/user_upload/19432/81847/1436500073107973-818x578.jpg)
 
 We believe the construction of emergency schools in the areas of Gorkha, Sindhupalchowk and Nuwakot to be a primary concern in the rehabilitation of Nepal. Not only have the earthquakes destroyed 90% of the school facilities but the mountainous landscape will make reconstruction very difficult. The project of an emergency school in the mountain area involves two main qualities: swiftness and sustainability.
@@ -42,7 +42,7 @@ The school is made of five areas: two classrooms, a lavatory, one covered and on
 
 **B组一等奖/First-Prize** 
 
-12356 http://www.ikuku.cn/post/80013  
+12356 http://www.ikuku.cn/post/80013   Region:china (中国)  
 ![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/12356/80013/1436632192184122-818x578.jpg)
 
 2015年04月25日14时11分在尼泊尔发生8.1级地震。同年05月12日15时05分在尼泊尔发生7.5级地震。数以万计的人们失去了自己的亲人。  
@@ -61,7 +61,7 @@ The past regular disaster reconstruction projects have not managed to consider f
 
 ---
 
-19505 http://www.ikuku.cn/post/81091  
+19505 http://www.ikuku.cn/post/81091  Vietnam (Việt Nam)  
 ![ONE KIND OF MODULE FOR ALL PURPOSE AND PERFORMANCE](http://www.ikuku.cn/wp-content/uploads/user_upload/19505/81091/1436543367814200-818x578.jpg)
 
 **ONE KIND OF MODULE FOR ALL PURPOSE AND PERFORMANCE**
@@ -73,7 +73,7 @@ Module can be disassemble to small component, so that it is very easy to transpo
 
 ---
 
-19539 http://www.ikuku.cn/post/83345  
+19539 http://www.ikuku.cn/post/83345   Region:China (中国)  
 ![GARS-19539-GARSA4 Competition Entry](http://www.ikuku.cn/wp-content/uploads/user_upload/19539/83345/1436534278312880-818x578.jpg)
 
 Although the design task is a temporary kindergarten, our design intention is to design a long lasting and sustainable building system that could contribute to the future of the earthquake affected area. It is an easily constructed system. However, it is easy constructibility should not be related to temporariness. Through a series of design approaches, the richness of the space should contribute to the pride of the community which in turn enrich the meaning of the architecture. In an expectable future, the architectural system could constantly serve the community, becoming a permanent structure.
@@ -94,7 +94,7 @@ The unexpectancy of the earthquake requires designs using easily accessible buil
 
 ----
 
-18094 http://www.ikuku.cn/post/75561  
+18094 http://www.ikuku.cn/post/75561  Region:China (中国)  
 ![GARS-GARSA2-Recycle, Religion & Rebirth](http://www.ikuku.cn/wp-content/uploads/user_upload/18094/75561/1436617301464823-818x575.jpg)
 
 **GARS-GARSA2-Recycle, Religion & Rebirt**  
@@ -113,7 +113,7 @@ By gathering the waste and human resources after the earthquake, we designed a s
 
 ---
 
-19102 http://www.ikuku.cn/post/81609  
+19102 http://www.ikuku.cn/post/81609  Region:Singapore  
 ![GARS-GARSB 竹庐](http://www.ikuku.cn/wp-content/uploads/user_upload/19102/81609/1436453344990493-818x512.jpg)
 
 **竹庐**  
@@ -137,7 +137,7 @@ OBJECTIVES OF THE DESIGN:
 
 ---
 
-19493 http://www.ikuku.cn/post/81611  
+19493 http://www.ikuku.cn/post/81611   Region:Taiwan (台灣)  
 ![GARS-GARSA2,The house as a water container,水容器的家](http://www.ikuku.cn/wp-content/uploads/user_upload/19493/81611/1439447682319277-818x578.jpg)
 
 **The house as a water container,水容器的家**  
@@ -153,7 +153,7 @@ OBJECTIVES OF THE DESIGN:
 
 ----
 
-18260 http://www.ikuku.cn/post/81111  
+18260 http://www.ikuku.cn/post/81111   Region:China (中国)  
 ![∞-Cycle](http://www.ikuku.cn/wp-content/uploads/user_upload/18260/81111/1436565645126193-818x579.jpg)
 
 **∞-Cycle**  
@@ -161,12 +161,12 @@ OBJECTIVES OF THE DESIGN:
 
 ---
 
-19469 http://www.ikuku.cn/post/80625  
+19469 http://www.ikuku.cn/post/80625   Nepal (नेपाल)  
 ![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19469/80625/1436502141732078-818x673.jpg)
 
 ---
 
-17840 http://www.ikuku.cn/post/75702  
+17840 http://www.ikuku.cn/post/75702   China (中国)  
 ![定日羊毛球幼儿园 GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/17840/75702/1438400989708884-818x578.jpg)
 
 **定日羊毛球幼儿园 [GARS-GARSA4]**  
@@ -189,7 +189,7 @@ OBJECTIVES OF THE DESIGN:
 
 ----
 
-19549 http://www.ikuku.cn/post/81108  
+19549 http://www.ikuku.cn/post/81108   Region:China (中国)  
 ![GARS-GARSA4](http://www.ikuku.cn/wp-content/uploads/user_upload/19549/81108/1436543702898809-818x578.jpg)
 
 构思来自于慕尼黑建材展上所见到的快速建造案例，在该案例中，用硬化泡沫塑料以乐高积木的拼接方式竖起中间空心的墙，往内灌入混凝土，硬化塑料部分充当了模板的同时也作为混凝土墙体的保温层。其时我思考这种建造模式，模板轻盈，易于拼接且不需拆卸，混凝土一般在2天左右即可硬化但需要近一个月才能达到设计强度。如果不用混凝土，在小体量单层的方案中，硬化泡沫塑料已经可以作为独立的结构墙体。在灾后重建中，硬化泡沫塑料易生产和运输，模数化的分割和乐高式的榫卯接口也易于当地居民手工建造，尤其是在灾后可能有余震的情况下，泡沫塑料即使倒塌也不会伤人，尤其适合幼儿园这样有特殊使用人群的类型。
@@ -201,7 +201,7 @@ The conception come from the fast-building tecnique, which use the Expanding pol
 ----
 
 
-18845 http://www.ikuku.cn/post/81908  
+18845 http://www.ikuku.cn/post/81908   Region:Italy (Italia)  
 ![Just a Minute](http://www.ikuku.cn/wp-content/uploads/user_upload/18845/81908/1436454579305046-818x578.jpg)
 
 **Just a Minute**  
@@ -214,7 +214,7 @@ At the center of the house there is a permanent part, made of coverable wooden O
 
 ----
 
-18550 http://www.ikuku.cn/post/77449  
+18550 http://www.ikuku.cn/post/77449  Region:China (中国)  
 ![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/18550/77449/1436529318240282-818x578.jpg)
 
 每一次灾难的降临，都伴随着辛酸苦辣，但带给我们的却是新的挑战和机遇，也是又一次的奋起和顽强，2015年4月25日，一声巨响打破了人们平静的生活，地震袭来了，面对突如其来的灾难，安置大量无家可归的难民成为了首要问题，在此基础上，我进行了灾中临时安置房的设计，此设计以乐高积木为原型，在此基础上进行结构改造，将其划分为不同的结构单元，并且与灾民的救援物资联系起来，提高了安置房的施工效率，同时保证救援物资与安置房的同时到达，确保灾民在最短时间得到安置。
@@ -222,7 +222,7 @@ At the center of the house there is a permanent part, made of coverable wooden O
 
 ----
 
-18017 http://www.ikuku.cn/post/75343  
+18017 http://www.ikuku.cn/post/75343  Region:Japan (日本)  
 ![Jigsaw Puzzle Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18017/75343/1436280003964008-818x578.jpg)
 
 **Jigsaw Puzzle Shelter**  
@@ -244,17 +244,17 @@ The traditional house in Nepal has the characteristics as follows:
 
 ----
 
-17725 http://www.ikuku.cn/post/76071  
+17725 http://www.ikuku.cn/post/76071  Region:China (中国)    
 ![GARS-GARSA2](http://www.ikuku.cn/wp-content/uploads/user_upload/17725/76071/1436541466541199-818x578.jpg)
 
 ----
 
-4093 http://www.ikuku.cn/post/85214  
+4093 http://www.ikuku.cn/post/85214    Region:China (中国)  
 ![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/4093/85214/1436630677211680-818x578.jpg)
 
 ----
 
-19392 http://www.ikuku.cn/post/80424  
+19392 http://www.ikuku.cn/post/80424   Region:Bolivia  
 ![FLEXHOME - emergency shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/19392/80424/1436483587236444-818x578.jpg)
 
 **FLEXHOME - emergency shelter**  
@@ -272,19 +272,19 @@ The space is designed to function as a temporary home, but thanks to its modular
 
 ---
 
-19769 http://www.ikuku.cn/post/82576  
+19769 http://www.ikuku.cn/post/82576  Region:Nepal (नेपाल)  
 ![GARS-GARSB PERMANENT HOUSING](http://www.ikuku.cn/wp-content/uploads/user_upload/19769/82576/1436526615977464-818x578.jpg)
 
 The main concept of design is to retain the vernacular Architecture of hilly region in addition improving the structural soundness of building. People of rural area cannot  accept the completely overhauled design so proposal have focused on the traditional vernacular architecture. The traditional architecture also has qualities like creating comfortable living spaces.
 
 ---
 
-19280 http://www.ikuku.cn/post/87356  
+19280 http://www.ikuku.cn/post/87356   Region:Nepal (नेपाल)  
 ![GARS-GARSB](http://www.ikuku.cn/wp-content/uploads/user_upload/19280/87356/1437777026495694-818x562.jpg)
 
 ---
 
-12706 http://www.ikuku.cn/post/81179  
+12706 http://www.ikuku.cn/post/81179  Region:China (中国)  
 ![GARS-GARSA4 LOVE FLOWER](http://www.ikuku.cn/wp-content/uploads/user_upload/12706/81179/1436191097904578-818x580.jpg)
 
 **GARS-GARSA4 LOVE FLOWER**  
@@ -305,7 +305,7 @@ The design of "Love flower " is a combination of lotus, the sun and the edelweis
 
 ----
 
-18610 http://www.ikuku.cn/post/80944  
+18610 http://www.ikuku.cn/post/80944   Region:China (中国)  
 ![Chute to Shelter](http://www.ikuku.cn/wp-content/uploads/user_upload/18610/80944/1436534877141816-818x270.jpg)
 
 **Chute to Shelter**  
