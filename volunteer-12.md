@@ -166,6 +166,14 @@ OBJECTIVES OF THE DESIGN:
 
 ----
 
+19592 http://www.ikuku.cn/post/81194  Region:China (中国)   
+![应急建造——变形轻钢]( http://www.ikuku.cn/wp-content/uploads/user_upload/19592/81194/1436530066673885-818x578.jpg)
+
+**应急建造——变形轻钢**  
+设计通过可伸缩旋转的刚性支架作为应急避难所的结构体系，该支架可以水平支撑，可以垂直拼接拓展，便于运输。维护系统既可以选择应急的帐篷，也可以选择当地砖及波纹瓦进行建造。以轻钢为骨架的支撑系统主要体现适应性强，共同协作建造，低成本，可回收的设计原则，以此应对在复杂的灾难现场，自愿者与灾民协作及时恢复居住条件和秩序的策略。
+
+----
+
 18260 http://www.ikuku.cn/post/81111   Region:China (中国)  
 ![∞-Cycle](http://www.ikuku.cn/wp-content/uploads/user_upload/18260/81111/1436565645126193-818x579.jpg)
 
@@ -365,6 +373,8 @@ Design has transported, structure, space set as a whole together.Airdrop based.T
 
 solomo.xinmedia.com, gooood.hk , World Architecture(WA), Urban Environment Design(UED), Architecture Technique（AT), The Architect ,Archicreation, Architectural Knowledge,Designer&Designing, AboveArch , Domus, Archirama, Architecture Lab, Akichiatlas, Competitions.archi/ etc.
 
+archrace
+
 ### 媒体报道
 
 欣建筑(台湾)  
@@ -422,3 +432,5 @@ http://mp.weixin.qq.com/s?__biz=MzA5NTQ2MDMyNg==&mid=206485780&idx=2&sn=34c5ac28
 http://mp.weixin.qq.com/s?__biz=MzA5MjAzMzYwNA==&mid=206617629&idx=1&sn=06276d9370b84f33d79a53b975a60642  
 深圳市土木再生城乡营造研究所  
 http://mp.weixin.qq.com/s?__biz=MjM5Njg1MjgyMg==&mid=206591745&idx=1&sn=39fbe3b8cd15a7f6d853388702acc20b  
+
+archrace http://mp.weixin.qq.com/s/IfAZ4dMf9yM7XMHcLHSSkw  
