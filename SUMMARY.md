@@ -51,7 +51,7 @@
 * [广告合作](ad.md)
 * [加入ikuku.cn|在库言库团队](volunteer.md)
     * [每天逛ikuku的都是什么人啊？](volunteer-4.md)
-    * [如何成为实习生或志愿者？](volunteer-5.md)
+    * [2018招募：如何成为实习生或志愿者？](volunteer-5.md)
     * [进行中的志愿者项目](volunteer-2.md)
         * [90年代建筑群体观察](volunteer-10.md)
         * [线上:建筑之外](volunteer-11.md)

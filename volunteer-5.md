@@ -1,6 +1,6 @@
-# 如何成为ikuku实习生或志愿者？  
+# 2018招募:如何成为ikuku实习生或志愿者？  
 
-![door](images/door.jpg)
+![2018](images/2018-intern.jpg)
 
 ### ikuku.cn|在库言库在做什么？
 

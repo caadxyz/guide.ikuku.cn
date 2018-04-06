@@ -122,7 +122,7 @@ By gathering the waste and human resources after the earthquake, we designed a s
 
 ---
 
-**三等奖/Third-Prize** （空缺/vacancies:5）  
+**三等奖/Third-Prize** （空缺/vacancies:4）  
 
 ---
 
