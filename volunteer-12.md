@@ -150,6 +150,23 @@ OBJECTIVES OF THE DESIGN:
 
 ---
 
+18834 http://www.ikuku.cn/post/80107 Region:India (भारत) 
+![GARS-GARSA1](http://www.ikuku.cn/wp-content/uploads/user_upload/18834/80107/1436539575902122-818x578.jpg)
+
+Most earthquake-related deaths are caused by the collapse of structures and the construction practices play a tremendous role in the death toll of an earthquake
+
+Building practices can make all the difference in earthquakes, even a moderate rupture beneath a city with structures unprepared for shaking can produce tens of thousands of casualties
+
+The April 2015 Nepal earthquake (also known as the Gorkha earthquake)[6][9] killed more than 8,800 people and injured more than 23,000.
+
+ Its epicenter was east of the district of Lamjung, and its hypocenter was at a depth of approximately 15 km (9.3 mi). It has been the worst natural disaster to strike Nepal since the 1934 Nepal–Bihar earthquake
+
+Hundreds of thousands of people were made homeless with entire villages flattened, across many districts of the country.
+
+Based on these factors we have worked upon temporary emergency shelters. The key element of this design is a rcc drainage pipe used as a module.
+
+---
+
 19493 http://www.ikuku.cn/post/81611   Region:Taiwan (台灣)  
 ![GARS-GARSA2,The house as a water container,水容器的家](http://www.ikuku.cn/wp-content/uploads/user_upload/19493/81611/1439447682319277-818x578.jpg)
 
