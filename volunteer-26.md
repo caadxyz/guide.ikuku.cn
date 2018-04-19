@@ -13,7 +13,7 @@
 每一个参赛者可以上传多个作品单元，但是只能获得一个奖项（该奖项为本参赛者所有作品单元中获得的最高奖项）  
 每一个作品单元分为两部分: 其一为摄影作品(张数不限)，其二是对该作品单元的文字描述（字数少于50）。  
 ## 作品上传规则  
-每一个作品单元上传为一篇ikuku摄影post[详见上传指南](http://guide.ikuku.cn/ikuku-comp-photography.html)  
+每一个作品单元上传为一篇ikuku摄影post （[详见上传指南](http://guide.ikuku.cn/ikuku-comp-photography.html)）  
 ## 流程设计(成员名单)  
 评委及赞助、支持媒体的邀请  
 志愿者的招募  
