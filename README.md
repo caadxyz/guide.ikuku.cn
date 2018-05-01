@@ -5,6 +5,7 @@
 
 1. [你为什么要入驻ikuku?](signup.md)  
 1. [ikuku入门手册(玩转ikuku的6个小窍门)](101.md)  
+1. [ikuku云托管手册](file.md)  
 1. [ikuku社区服务手册](ucenter.md)  
 1. [ikuku电商](shop.md)  
 1. [微信服务号手册](weixin.md)
