@@ -69,6 +69,7 @@
         * [30岁以下建筑师作品征集评选](volunteer-22.md)
         * [城市摄影系列评选:北京](volunteer-23.md)
         * [城市摄影系列评选:上海](volunteer-26.md)
+        * [米兰](volunteer-27.md)
         * [aim2017](volunteer-25.md)
         * [志愿者系列采访建筑师](interview.md)
         * [艾系列第二期](ai-kuku-2.md)
