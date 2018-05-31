@@ -7,7 +7,7 @@
 
 1、**ikuku报名通道**  
 * 上传作品（需要上传内容：a.设计方案；b.设计说明；c.参与设计人员）
-* 上传教程: http://guide.ikuku.cn/ikuku-comp.html
+* 上传教程: http://guide.ikuku.cn/ikuku-comp-new.html
 
 2、**ikuku建筑师云盘上传作品**（8G以内）（需要上传内容：包含以下“提交内容”中所有资料）（详情见“操作流程”）  
 
