@@ -1,4 +1,4 @@
-# ikuku.cn首页招聘  
+# ikuku.cn招聘  
   
 招聘文章链接在招聘页面（[www.ikuku.cn/job](http://www.ikuku.cn/job)）右侧广告位以轮播形式展示，时限一年内有效展示期6个月，用户可以自行指定展示时间。同时，会在ikuku微信公众号、@ikuku建筑网 微博绑定宣传一次。  
 
