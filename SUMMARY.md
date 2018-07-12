@@ -42,8 +42,6 @@
 
 -----
 * [ikuku能为会员提供哪些服务？](member.md)
-    * [设计师买手店打折日活动](member-3.md)
-    * [ikuku图书馆免费借阅](library.md)
     * [入驻设计供需双方推介库](member-4.md)
     * [ikuku.cn首页招聘机会](member-5.md)
     * [ikuku.cn首页广告投放机会](member-6.md)
