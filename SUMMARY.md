@@ -70,6 +70,7 @@
         * [城市摄影系列评选:北京](volunteer-23.md)
         * [城市摄影系列评选:上海](volunteer-26.md)
         * [米兰](volunteer-27.md)
+        * [Computational Design](volunteer-28.md)
         * [志愿者系列采访建筑师](interview.md)
         * [艾系列第二期](ai-kuku-2.md)
         * [百年华人建筑库](100.md)
