@@ -64,7 +64,9 @@
         * [砖块积木+ikuku](volunteer-16.md)
         * [竞赛:识古寻踪](volunteer-18.md)
         * [栏目:半月答](volunteer-17.md)
-        * [竞赛:大学生作业评选](volunteer-19.md)
+        * 竞赛:大学生作业评选
+            * [第一届](volunteer-19.md)
+            * [第二届](volunteer-29.md)
         * [80X80建筑作品积木系列](volunteer-21.md)
         * [30岁以下建筑师作品征集评选](volunteer-22.md)
         * [城市摄影系列评选:北京](volunteer-23.md)
