@@ -12,5 +12,5 @@
 
 -----
     
-![ikuku收录项目分布图](images/mapikuku.jpg)    
+![ikuku收录项目分布图](/images/mapikuku.jpg)    
 

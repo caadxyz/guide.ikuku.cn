@@ -72,7 +72,7 @@
 * 其中地图数字部分为相关活动发生地点。
 
 
-![map](images/vmap1.jpg)
+![map](/images/vmap1.jpg)
 
 [PDF文件](15mia.pdf)
 
